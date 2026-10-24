@@ -6,8 +6,8 @@
   "recordedFirstPass": 78,
   "originalCorpus": 200,
   "unrecorded": 122,
-  "activeSentence": null,
-  "activeDescription": "No sentence has been declared actively under examination in this workspace.",
-  "queueNote": "The original 200-sentence corpus has outstanding records, including A-056 and A-077; later corpus material is available for future investigation.",
-  "lastUpdate": "Initial Resolve workshop board; status synchronized to 24 October 2026 source checkpoint. No new resolution has been performed."
+  "activeSentence": "A-081 · Sentence 81",
+  "activeDescription": "Birdsong announces territory, attracts companions, and becomes morning music to human listeners. Next in numerical order after A-080; awaiting investigation.",
+  "queueNote": "A-056 and A-077 have no formal records and remain open; workshop proceeds in numerical order from the last reached position, A-080.",
+  "lastUpdate": "Workshop points to A-081 as the next sequential sentence after A-080. This is a queue indication, not a new resolution."
 }
