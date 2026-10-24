@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "asOf": "2026-10-24",
+  "source": "https://github.com/TitanicParker/everything-fresh/blob/main/SENTENCE_PROGRESS.md",
+  "researchRegister": "https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/RESOLUTION_REGISTER.md",
+  "recordedFirstPass": 78,
+  "originalCorpus": 200,
+  "unrecorded": 122,
+  "activeSentence": null,
+  "activeDescription": "No sentence has been declared actively under examination in this workspace.",
+  "queueNote": "The original 200-sentence corpus has outstanding records, including A-056 and A-077; later corpus material is available for future investigation.",
+  "lastUpdate": "Initial Resolve workshop board; status synchronized to 24 October 2026 source checkpoint. No new resolution has been performed."
+}
