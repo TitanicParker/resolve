@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "asOf": "2026-11-07",
+  "canonicalSource": "Project_54_Combined_Corpus_1_Onward.md",
+  "writtenRecord": "OPERATIVE_CENTRES.md",
+  "lastContiguousSourceId": "A-038",
+  "nextSourceId": "A-039",
+  "writtenCentres": 38,
+  "needsFurtherExamination": 0,
+  "sourceItems": 7569,
+  "status": "Written Centre readings; not blind structural classifications",
+  "batches": [
+    {
+      "from": "A-001",
+      "to": "A-013",
+      "count": 13,
+      "kind": "accepted independent calibration"
+    },
+    {
+      "from": "A-014",
+      "to": "A-038",
+      "count": 25,
+      "kind": "source-faithful production"
+    }
+  ]
+}
