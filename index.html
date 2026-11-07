@@ -42,11 +42,13 @@ header{padding:27px 0 21px;border-bottom:1px solid #cccfc5}
 footer{margin-top:100px}
 @media(max-width:760px){.intro{padding:48px 0 28px}.intro h1{font-size:clamp(52px,11vw,82px)}.tiles{gap:12px}.tile{min-height:250px;padding:20px}.tile h3{font-size:31px;margin-top:58px}.workshop-grid{gap:19px}.prose{font-size:19px}}
 @media(max-width:600px){.workshop-grid{grid-template-columns:1fr}.workshop{padding:22px 0}.tiles{grid-template-columns:1fr}.tile{min-height:220px}.intro p{font-size:17px}.brand{font-size:32px}.tile h3{margin-top:50px}}
-.centre-fields h4{font:600 12px/1.3 system-ui,sans-serif;letter-spacing:.08em;text-transform:uppercase;margin:13px 0 5px;color:var(--accent)}.centre-fields p{font-size:15px;line-height:1.55;margin:0 0 10px}.centre-fields .centre-quote{font:normal 19px/1.45 Georgia,serif;color:var(--ink);margin:10px 0 14px}.face.back{gap:9px}.face.back .note{padding-top:10px}.record-link{font-size:12px}.card.recorded .face.back{border-color:#9cb4a4}@media(max-width:520px){.centre-fields p{font-size:15px}.centre-fields .centre-quote{font-size:18px}} </style></head><body><div class="shell">
+.centre-fields h4{font:600 12px/1.3 system-ui,sans-serif;letter-spacing:.08em;text-transform:uppercase;margin:13px 0 5px;color:var(--accent)}.centre-fields p{font-size:15px;line-height:1.55;margin:0 0 10px}.centre-fields .centre-quote{font:normal 19px/1.45 Georgia,serif;color:var(--ink);margin:10px 0 14px}.face.back{gap:9px}.face.back .note{padding-top:10px}.record-link{font-size:12px}.card.recorded .face.back{border-color:#9cb4a4}@media(max-width:520px){.centre-fields p{font-size:15px}.centre-fields .centre-quote{font-size:18px}} .centre-progress{border-bottom:1px solid var(--line);padding:23px 0 39px}.centre-progress strong{font:normal 29px Georgia,serif}.centre-progress p{font-size:13px;color:var(--muted);margin:8px 0}.centre-progress a{font-size:13px}
+</style></head><body><div class="shell">
 <header><div class="brand">resolve<small>A library of sentences</small></div><nav class="topnav"><button class="nav" data-view="home" aria-selected="true">Library</button><button class="nav" data-view="cards">Sentences</button></nav></header>
 <main id="home"><div class="intro"><div><div class="eyebrow">Browse the collection</div><h1>Words to read.<br>Ideas to explore.</h1></div><p>Stories to enjoy, mathematics to follow, and every sentence available to examine.</p></div>
 <div class="stats" id="stats"><span>Loading collection…</span></div>
 <section class="workshop" id="workshop"><div class="eyebrow">Workshop · Current research</div><h2>At the workbench</h2><div class="workshop-grid"><div class="workshop-box"><div class="label">Sentence under consideration</div><strong id="wsActive">No active sentence declared</strong><p id="wsDescription">Continuing from the most recently recorded sentence.</p></div><div class="workshop-box"><div class="label">Recorded first-pass research</div><strong id="wsCount">Checking progress…</strong><p id="wsDetail">Candidates and contested outcomes are included; this is not a count of proven unique classifications.</p></div></div><p><a href="REVERSE_CARD_STANDARD.md">Reverse-card teaching standard</a> · <a href="https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/RESOLUTION_REGISTER.md">Research records</a> · <a href="workshop-status.json">Workshop status data</a></p></section>
+<section class="centre-progress" aria-label="Operative Centre publication progress"><div class="eyebrow">Written Operative Centres · separate from classification research</div><strong id="centreProgress">Reading publication progress…</strong><p id="centreProgressDetail">Each card reads the written Markdown record; unexamined sentences remain awaiting completion.</p><a href="OPERATIVE_CENTRES.md">Open the complete written record ↗</a></section>
 <div class="tiles"><button class="tile" data-collection="original"><span class="kind">01 / The beginning</span><h3>Original sentences</h3><span class="count">200 sentences →</span></button><button class="tile tales" data-collection="tales"><span class="kind">02 / Story library</span><h3>Fairy tales</h3><span class="count">27 stories →</span></button><button class="tile math" data-collection="math"><span class="kind">03 / Mathematics</span><h3>Claims & derivations</h3><span class="count">615 traversals →</span></button></div></main>
 <section id="catalogSection" class="hidden"><button class="backlink" id="catalogBack">← Library</button><div class="section-head"><h2 id="catalogTitle"></h2><input class="search" id="catalogSearch" type="search" placeholder="Find a title or number…" aria-label="Search this collection"></div><div id="catalog" class="catalog"></div></section>
 <section id="readerSection" class="hidden"><div class="reader"><button class="backlink" id="readerBack">← Collection</button><div class="eyebrow" id="readerCategory"></div><h1 id="readerTitle"></h1><div class="meta" id="readerMeta"></div><div id="readerContent" class="prose"></div></div></section>
@@ -56,6 +58,7 @@ footer{margin-top:100px}
 'use strict';
 const SOURCE='Project_54_Combined_Corpus_1_Onward.md';
 const CENTRES='OPERATIVE_CENTRES.md';
+const CENTRE_STATUS='operative-centres-status.json';
 const writtenCentres=new Map();
 const $=id=>document.getElementById(id);
 const state={sentences:[],tales:[],traversals:[],current:0,collection:null,reading:null};
@@ -82,7 +85,7 @@ function parse(md){
 }
 function parseCentres(markdown){
  writtenCentres.clear();
- const blocks=markdown.split(/^### (A-\d{3})\s*$/m);
+ const blocks=markdown.split(/^### ([^\n]+)\s*$/m);
  for(let i=1;i+1<blocks.length;i+=2){
   const id=blocks[i], block=blocks[i+1];
   const field=(label)=>{
@@ -95,7 +98,7 @@ function parseCentres(markdown){
  }
 }
 function renderCentreBack(s){
- const id=s.kind==='original'?'A-'+String(s.number).padStart(3,'0'):null;
+ const id=s.kind==='original'?'A-'+String(s.number).padStart(3,'0'):s.kind==='tale'?String(s.number):s.kind==='claim'?'Traversal '+s.parent.number+' · Claim':'Traversal '+s.parent.number+' · Step '+s.step;
  const rec=id?writtenCentres.get(id):null;
  const valid=!!rec&&rec.original===s.text;
  $('centreFields').replaceChildren();
@@ -119,6 +122,15 @@ function renderCentreBack(s){
  add('What made it sufficient?',rec.sufficient);
  add('How does it remain achieved?',rec.remains);
  add('Diagnostic',rec.diagnostic);
+}
+async function loadCentreStatus(){
+ try{
+  const r=await fetch(CENTRE_STATUS+'?v='+Date.now(),{cache:'no-cache'});
+  if(!r.ok)throw Error('HTTP '+r.status);
+  const status=await r.json();
+  $('centreProgress').textContent=status.writtenCentres.toLocaleString()+' written Centres · through '+status.lastContiguousSourceId;
+  $('centreProgressDetail').textContent='Next: '+status.nextSourceId+' · '+status.needsFurtherExamination+' need further examination · '+status.sourceItems.toLocaleString()+' total corpus items. Written readings are distinct from formal classification outcomes.';
+ }catch(err){$('centreProgress').textContent='See the written record for current progress.'}
 }
 async function loadCentres(){
  try{
@@ -148,6 +160,7 @@ document.querySelectorAll('[data-view]').forEach(b=>b.onclick=()=>view(b.dataset
 async function loadWorkshop(){try{const r=await fetch('workshop-status.json?v='+Date.now());if(!r.ok)throw Error('Status unavailable');const w=await r.json();$('wsActive').textContent=w.activeSentence||'No active sentence declared';$('wsDescription').textContent=w.activeDescription||'';$('wsCount').textContent=w.recordedFirstPass+' / '+w.originalCorpus+' recorded';$('wsDetail').textContent=w.unrecorded+' original sentences not yet recorded. Includes candidate and contested results; no claim of proven unique classification. As of '+w.asOf+'.'}catch(e){$('wsCount').textContent='Status not available';$('wsDetail').textContent='Refer to the linked research register.'}}
 loadWorkshop();
 loadCentres();
+loadCentreStatus();
 (async()=>{try{const response=await fetch(SOURCE+'?v='+Date.now());if(!response.ok)throw Error('HTTP '+response.status);parse(await response.text());$('stats').innerHTML='<span><b>'+state.sentences.length.toLocaleString()+'</b> sentence cards</span><span><b>'+state.tales.length+'</b> fairy tales</span><span><b>'+state.traversals.length+'</b> mathematical traversals</span>';const hash=location.hash.match(/^#card-(\d+)$/);if(hash&&+hash[1]<=state.sentences.length)openCard(+hash[1]-1);else view('home')}catch(err){$('stats').textContent='Could not load the corpus. '+err.message+' — Open this page from GitHub Pages.'}})();
 </script></body></html>,'m'));return match?match[1].trim():''};
   const entry={id,original:field('Original sentence'),changed:field('What changed'),sufficient:field('What made it sufficient'),remains:field('How it remains achieved'),centre:field('Operative Centre'),diagnostic:field('Diagnostic'),status:field('Reading status')};
