@@ -8,10 +8,10 @@
 
 ## Progress register
 
-- **Last contiguous source ID:** A-138
-- **Written Centres:** 138
+- **Last contiguous source ID:** A-163
+- **Written Centres:** 163
 - **Needs further examination:** 0
-- **Next:** A-139
+- **Next:** A-164
 - **Basis for A-001–A-013:** Accepted independent calibration, preserved in substance.
 - **Revision policy:** Substantive changes require a dated, ID-specific revision note; never silently rewrite prior Centres.
 - **Cards:** Resolve reads this Markdown record to populate examined reverse faces; all absent records remain awaiting completion.
@@ -1547,9 +1547,284 @@
 
 
 
+### A-139
+
+**Source ID:** A-139  
+**Original sentence:** The seasons on Earth arise mainly from the tilt of Earth's rotation axis relative to its orbit.  
+**What changed:** Seasonal variation is explained primarily by Earth's axial tilt.  
+**What made it sufficient:** “Arise mainly from” assigns the principal causal role to axial tilt relative to the orbit.  
+**How it remains achieved:** A qualified explanatory relationship between tilt and seasons stands.  
+**Operative Centre:** Earth's seasons are primarily caused by the tilt of its rotational axis relative to its orbit.  
+**Diagnostic:** Replacing “mainly” with “solely” would exclude other contributing conditions.  
+**Reading status:** Written
+
+### A-140
+
+**Source ID:** A-140  
+**Original sentence:** A star's apparent brightness depends on both its luminosity and its distance from the observer.  
+**What changed:** Observed stellar brightness becomes dependent on intrinsic output and observer distance.  
+**What made it sufficient:** “Both ... and” makes luminosity and distance jointly relevant.  
+**How it remains achieved:** A two-factor dependence remains established.  
+**Operative Centre:** A star's apparent brightness is determined jointly by its luminosity and its distance from the observer.  
+**Diagnostic:** Omitting either luminosity or distance removes a necessary factor in the stated dependence.  
+**Reading status:** Written
+
+### A-141
+
+**Source ID:** A-141  
+**Original sentence:** Tectonic plates move slowly relative to one another across Earth's surface.  
+**What changed:** Plate positions become intelligible as changing relative to each other over time.  
+**What made it sufficient:** “Move slowly relative to one another” defines the motion relationally.  
+**How it remains achieved:** A slow relative displacement across Earth's surface remains established.  
+**Operative Centre:** Tectonic plates undergo slow motion relative to other plates across Earth's surface.  
+**Diagnostic:** Removing “relative to one another” loses the reference frame governing the movement.  
+**Reading status:** Written
+
+### A-142
+
+**Source ID:** A-142  
+**Original sentence:** Earthquakes occur when stored elastic strain is suddenly released along a fault.  
+**What changed:** An earthquake becomes intelligible as sudden release of accumulated strain.  
+**What made it sufficient:** “When” identifies the fault-related release as the triggering condition.  
+**How it remains achieved:** A connection between stored deformation and sudden seismic release remains.  
+**Operative Centre:** Earthquakes occur through sudden release of elastic strain stored along faults.  
+**Diagnostic:** Replacing “released” with “accumulated” reverses the decisive transition.  
+**Reading status:** Written
+
+### A-143
+
+**Source ID:** A-143  
+**Original sentence:** Igneous rock forms when molten rock cools and solidifies.  
+**What changed:** Igneous rock formation becomes intelligible as cooling and solidification of melt.  
+**What made it sufficient:** “When” supplies the transformation from molten to solid rock.  
+**How it remains achieved:** The resulting igneous material remains identified by its formation process.  
+**Operative Centre:** Igneous rock forms through cooling and solidification of molten rock.  
+**Diagnostic:** Omitting solidification loses the change that produces rock.  
+**Reading status:** Written
+
+### A-144
+
+**Source ID:** A-144  
+**Original sentence:** Sedimentary layers often preserve a record of the environments in which their sediments accumulated.  
+**What changed:** Sedimentary layers become legible as possible evidence of earlier environments.  
+**What made it sufficient:** “Often preserve a record” connects accumulated sediments with environmental history without making it universal.  
+**How it remains achieved:** A qualified evidential relation remains established.  
+**Operative Centre:** Sedimentary layers often retain evidence of the environments in which their constituent sediments accumulated.  
+**Diagnostic:** Replacing “often” with “always” wrongly removes the qualification.  
+**Reading status:** Written
+
+### A-145
+
+**Source ID:** A-145  
+**Original sentence:** Water expands as it freezes, allowing ice to widen cracks in rocks.  
+**What changed:** Freezing water's expansion becomes intelligible as enabling rock fracture widening.  
+**What made it sufficient:** “Allowing” connects physical expansion with its consequence inside cracks.  
+**How it remains achieved:** An enabling mechanism for widening fractures remains.  
+**Operative Centre:** Water's expansion on freezing enables ice to widen existing cracks in rocks.  
+**Diagnostic:** Removing “allowing” loses the relation from expansion to crack widening.  
+**Reading status:** Written
+
+### A-146
+
+**Source ID:** A-146  
+**Original sentence:** Volcanoes can form where one tectonic plate descends beneath another.  
+**What changed:** Volcano formation becomes intelligible as possible at subduction zones.  
+**What made it sufficient:** “Can form where” connects volcanic occurrence to one plate descending beneath another.  
+**How it remains achieved:** A possible tectonic setting for volcanoes remains established.  
+**Operative Centre:** Volcanoes can develop where one tectonic plate subducts beneath another.  
+**Diagnostic:** Replacing “can” with “must” wrongly makes every subduction site volcanic.  
+**Reading status:** Written
+
+### A-147
+
+**Source ID:** A-147  
+**Original sentence:** Earth's magnetic field is generated mainly by motion of electrically conducting liquid iron in its outer core.  
+**What changed:** Earth's magnetic field becomes intelligible as arising chiefly from moving conducting core material.  
+**What made it sufficient:** “Generated mainly by” assigns primary causal agency to liquid iron motion.  
+**How it remains achieved:** A qualified geophysical generation mechanism remains.  
+**Operative Centre:** Earth's magnetic field is generated chiefly by movement of electrically conducting liquid iron in the outer core.  
+**Diagnostic:** Omitting “mainly” overstates the exclusivity of the source.  
+**Reading status:** Written
+
+### A-148
+
+**Source ID:** A-148  
+**Original sentence:** Rivers transport sediment downstream when flowing water exerts enough force to move particles.  
+**What changed:** Sediment transport becomes dependent on a sufficient force exerted by river flow.  
+**What made it sufficient:** “When ... enough force” sets the threshold for particle movement.  
+**How it remains achieved:** A force-conditioned downstream transport process remains.  
+**Operative Centre:** Rivers carry sediment downstream when flowing water applies sufficient force to mobilise particles.  
+**Diagnostic:** Removing “enough” loses the threshold that distinguishes movement from immobility.  
+**Reading status:** Written
+
+### A-149
+
+**Source ID:** A-149  
+**Original sentence:** Metamorphic rocks form when existing rocks change under heat, pressure, or chemically active fluids without completely melting.  
+**What changed:** Metamorphic rock formation becomes intelligible as transformation without complete melting.  
+**What made it sufficient:** “Under heat, pressure, or chemically active fluids” supplies conditions; “without completely melting” defines the boundary.  
+**How it remains achieved:** A solid-state or incompletely molten alteration process remains identified.  
+**Operative Centre:** Metamorphic rocks form when existing rock is changed by heat, pressure or active fluids without completely melting.  
+**Diagnostic:** Deleting the no-complete-melting condition confuses metamorphism with processes involving total melting.  
+**Reading status:** Written
+
+### A-150
+
+**Source ID:** A-150  
+**Original sentence:** The age of some rocks can be estimated from the measured proportions of radioactive parent isotopes and their decay products.  
+**What changed:** Rock age becomes intelligible as inferable from isotopic measurements.  
+**What made it sufficient:** “Can be estimated from” connects observed parent–daughter isotope proportions to a time estimate.  
+**How it remains achieved:** A qualified measurement-based dating inference remains.  
+**Operative Centre:** The age of certain rocks can be estimated from the measured ratio of radioactive parent isotopes to their decay products.  
+**Diagnostic:** Replacing “some” with “all” removes the specified limitation.  
+**Reading status:** Written
+
+### A-151
+
+**Source ID:** A-151  
+**Original sentence:** Plants capture solar energy that can pass through food webs when organisms eat one another.  
+**What changed:** Captured solar energy becomes intelligible as transferable through feeding relations.  
+**What made it sufficient:** “When organisms eat one another” establishes the route of energy passage.  
+**How it remains achieved:** A trophic transmission of originally captured energy remains.  
+**Operative Centre:** Plants capture sunlight-derived energy that can pass along food webs through consumption.  
+**Diagnostic:** Removing the feeding relation loses the mechanism of energy transfer.  
+**Reading status:** Written
+
+### A-152
+
+**Source ID:** A-152  
+**Original sentence:** Decomposers return nutrients from dead organisms to soil and water.  
+**What changed:** Nutrients from dead organisms become available again in soil and water.  
+**What made it sufficient:** “Return” links decomposition to nutrient cycling back into environmental reservoirs.  
+**How it remains achieved:** A recycling function of decomposers remains established.  
+**Operative Centre:** Decomposers transfer nutrients from dead organisms back into soil and water.  
+**Diagnostic:** Replacing “return” with “destroy” loses the cycling achievement.  
+**Reading status:** Written
+
+### A-153
+
+**Source ID:** A-153  
+**Original sentence:** A predator population can decline when its principal prey becomes scarce.  
+**What changed:** Predator abundance becomes intelligible as potentially dependent on prey availability.  
+**What made it sufficient:** “Can decline when” supplies a conditional possibility rather than an inevitable outcome.  
+**How it remains achieved:** A possible scarcity-related population decline remains.  
+**Operative Centre:** A predator population may decrease when its main prey becomes scarce.  
+**Diagnostic:** Replacing “can” with “must” wrongly turns ecological possibility into necessity.  
+**Reading status:** Written
+
+### A-154
+
+**Source ID:** A-154  
+**Original sentence:** Greater atmospheric carbon dioxide concentrations increase Earth's greenhouse effect when other relevant factors are held constant.  
+**What changed:** Atmospheric carbon dioxide becomes linked to stronger greenhouse warming under controlled conditions.  
+**What made it sufficient:** “When other relevant factors are held constant” isolates the stated effect of increasing carbon dioxide.  
+**How it remains achieved:** A conditional positive dependence of greenhouse effect on carbon dioxide remains.  
+**Operative Centre:** Increasing atmospheric carbon dioxide strengthens Earth's greenhouse effect when other relevant factors are unchanged.  
+**Diagnostic:** Removing the controlled-conditions clause changes the scope of the comparison.  
+**Reading status:** Written
+
+### A-155
+
+**Source ID:** A-155  
+**Original sentence:** Excess nitrogen and phosphorus entering lakes can stimulate algal blooms.  
+**What changed:** Nutrient enrichment becomes intelligible as a possible trigger for algal proliferation.  
+**What made it sufficient:** “Can stimulate” links excess nitrogen and phosphorus entering lakes to blooms without asserting certainty.  
+**How it remains achieved:** A possible nutrient-driven algal response remains.  
+**Operative Centre:** Excess nitrogen and phosphorus entering a lake may stimulate algal blooms.  
+**Diagnostic:** Replacing “can” with “always” overstates the response.  
+**Reading status:** Written
+
+### A-156
+
+**Source ID:** A-156  
+**Original sentence:** Habitat fragmentation can isolate wildlife populations and reduce movement between them.  
+**What changed:** Fragmented habitat becomes intelligible as restricting connectivity between wildlife groups.  
+**What made it sufficient:** “Can isolate ... and reduce” joins population separation with reduced movement.  
+**How it remains achieved:** A possible ecological loss of connectivity remains.  
+**Operative Centre:** Habitat fragmentation may isolate wildlife populations and restrict movement among them.  
+**Diagnostic:** Removing the movement consequence leaves isolation without its stated practical expression.  
+**Reading status:** Written
+
+### A-157
+
+**Source ID:** A-157  
+**Original sentence:** Pollinators transfer pollen between flowers and enable reproduction in many flowering plants.  
+**What changed:** Pollinator movement becomes intelligible as enabling plant reproduction through pollen transfer.  
+**What made it sufficient:** “Transfer ... and enable” links pollen movement to reproductive function.  
+**How it remains achieved:** A reproductive enabling relation remains established for many flowering plants.  
+**Operative Centre:** Pollinators move pollen between flowers, thereby enabling reproduction in many flowering plants.  
+**Diagnostic:** Removing “many” wrongly extends the claim to all flowering plants.  
+**Reading status:** Written
+
+### A-158
+
+**Source ID:** A-158  
+**Original sentence:** An invasive species can reduce native species populations by competing for limited resources.  
+**What changed:** Invasive species impact becomes intelligible through competition for scarce resources.  
+**What made it sufficient:** “By competing” supplies the mechanism for a possible reduction in native populations.  
+**How it remains achieved:** A conditional competitive ecological effect remains.  
+**Operative Centre:** An invasive species may reduce native populations by competing with them for limited resources.  
+**Diagnostic:** Removing “by competing” loses the stated mechanism.  
+**Reading status:** Written
+
+### A-159
+
+**Source ID:** A-159  
+**Original sentence:** Wetlands can reduce downstream flooding by storing water during heavy rainfall.  
+**What changed:** Wetlands become intelligible as possible flood buffers through temporary water storage.  
+**What made it sufficient:** “By storing” connects rainfall retention to downstream flood reduction.  
+**How it remains achieved:** A conditional storage-based mitigation mechanism remains.  
+**Operative Centre:** Wetlands may lessen downstream flooding by retaining water during heavy rainfall.  
+**Diagnostic:** Replacing “can” with “always” turns a possible mitigation into a guarantee.  
+**Reading status:** Written
+
+### A-160
+
+**Source ID:** A-160  
+**Original sentence:** Ocean acidification occurs as seawater absorbs additional atmospheric carbon dioxide and its pH decreases.  
+**What changed:** Ocean acidification becomes intelligible as a pH decline associated with uptake of atmospheric carbon dioxide.  
+**What made it sufficient:** “As” connects additional carbon dioxide absorption with decreasing seawater pH.  
+**How it remains achieved:** An uptake-related chemical change remains established.  
+**Operative Centre:** As seawater absorbs additional atmospheric carbon dioxide, its pH decreases, constituting ocean acidification.  
+**Diagnostic:** Replacing “decreases” with “increases” reverses the chemical relation.  
+**Reading status:** Written
+
+### A-161
+
+**Source ID:** A-161  
+**Original sentence:** In a right-angled triangle, the square of the hypotenuse's length equals the sum of the squares of the other two side lengths.  
+**What changed:** A right triangle's side lengths become intelligible through a fixed quadratic equality.  
+**What made it sufficient:** “Equals the sum” sets the precise relation of hypotenuse and legs.  
+**How it remains achieved:** The Pythagorean relation remains established for right triangles.  
+**Operative Centre:** In a right triangle, the hypotenuse length squared equals the sum of the squares of the other two side lengths.  
+**Diagnostic:** Removing “right-angled” falsely extends the equality to arbitrary triangles.  
+**Reading status:** Written
+
+### A-162
+
+**Source ID:** A-162  
+**Original sentence:** The angles inside any triangle on a flat Euclidean plane add up to 180 degrees.  
+**What changed:** Triangle angle totals become determinate under Euclidean flat-plane geometry.  
+**What made it sufficient:** “On a flat Euclidean plane” specifies the geometric domain for the 180-degree sum.  
+**How it remains achieved:** A conditional invariant angle sum remains established.  
+**Operative Centre:** Every triangle in the Euclidean plane has interior angles summing to 180 degrees.  
+**Diagnostic:** Removing the Euclidean-plane condition extends the claim to curved geometries where it need not hold.  
+**Reading status:** Written
+
+### A-163
+
+**Source ID:** A-163  
+**Original sentence:** Multiplying a nonzero number by its reciprocal gives one.  
+**What changed:** Multiplication by a reciprocal becomes intelligible as yielding the multiplicative identity.  
+**What made it sufficient:** “Nonzero” ensures the reciprocal exists; multiplication specifies the inverse operation.  
+**How it remains achieved:** The result one remains fixed by the inverse relation.  
+**Operative Centre:** Any nonzero number multiplied by its reciprocal equals one.  
+**Diagnostic:** Removing “nonzero” includes zero, whose reciprocal is undefined.  
+**Reading status:** Written
+
 ### Continuation
 
-The next sequential item is A-139. A-101–A-200 belong to Corpus B (Science); fairy tales and mathematical traversals will follow under their original source grouping. No unwritten item is represented as resolved.
+The next sequential item is A-164. A-101–A-200 belong to Corpus B (Science); fairy tales and mathematical traversals will follow under their original source grouping. No unwritten item is represented as resolved.
 
 ## Part II — Fairy tales
 
@@ -1560,6 +1835,8 @@ The next sequential item is A-139. A-101–A-200 belong to Corpus B (Science); f
 *No written Centre entries yet. Claims and derivation steps will receive separate records in source order.*
 
 ## Revision log
+
+- 2026-11-07 — Added and source-verified A-139–A-163, covering Earth systems, ecology and opening mathematical principles.
 
 - 2026-11-07 — Merged the two reviewed in-chat working batches, A-039–A-138 (100 Centres).
 
