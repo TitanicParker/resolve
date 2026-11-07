@@ -8,10 +8,10 @@
 
 ## Progress register
 
-- **Last contiguous source ID:** A-038
-- **Written Centres:** 38
+- **Last contiguous source ID:** A-138
+- **Written Centres:** 138
 - **Needs further examination:** 0
-- **Next:** A-039
+- **Next:** A-139
 - **Basis for A-001–A-013:** Accepted independent calibration, preserved in substance.
 - **Revision policy:** Substantive changes require a dated, ID-specific revision note; never silently rewrite prior Centres.
 - **Cards:** Resolve reads this Markdown record to populate examined reverse faces; all absent records remain awaiting completion.
@@ -438,9 +438,1118 @@
 **Diagnostic:** Removing “exactly” would change the claim's scope from nonidentity to a much stronger denial of shared experience.  
 **Reading status:** Written
 
+### A-039
+
+**Source ID:** A-039  
+**Original sentence:** The village well once organized meetings as surely as it supplied water.  
+**What changed:** The village well becomes intelligible as a social meeting place as well as a water source.  
+**What made it sufficient:** “As surely as” equates the well's former social and practical organising functions.  
+**How it remains achieved:** A dual civic function remains established as a feature of village life.  
+**Operative Centre:** The well's provision of water and organisation of meetings are presented as equally integral to its former role in the village.  
+**Diagnostic:** Removing “organized meetings” reduces the well to a water source and loses its civic role.  
+**Reading status:** Written
+
+### A-040
+
+**Source ID:** A-040  
+**Original sentence:** An old tree shades grandchildren who never met the person who planted it.  
+**What changed:** A tree's shade becomes an intergenerational benefit linking people who never met.  
+**What made it sufficient:** The contrast between the grandchildren and the absent planter makes that reach intelligible.  
+**How it remains achieved:** A benefit persists beyond the lifetime or acquaintance of its originator.  
+**Operative Centre:** The old tree makes the consequence of an earlier planting available to descendants who never knew the planter.  
+**Diagnostic:** Removing “who never met the person who planted it” loses the intergenerational distance.  
+**Reading status:** Written
+
+### A-041
+
+**Source ID:** A-041  
+**Original sentence:** In a courtroom, a small distinction can redirect the course of lives.  
+**What changed:** A small legal distinction becomes intelligible as potentially life-changing.  
+**What made it sufficient:** “Can redirect” establishes possible consequences that greatly exceed the distinction's apparent size.  
+**How it remains achieved:** A conditional relation between fine discrimination and major life outcomes stands.  
+**Operative Centre:** The sentence establishes that a seemingly minor distinction in court can alter the subsequent course of people's lives.  
+**Diagnostic:** Replacing “can” with “always” falsely makes the possible consequence inevitable.  
+**Reading status:** Written
+
+### A-042
+
+**Source ID:** A-042  
+**Original sentence:** The coral reef shelters creatures whose survival depends upon countless close relationships.  
+**What changed:** Reef shelter becomes intelligible as dependent on numerous ecological relations.  
+**What made it sufficient:** “Whose survival depends” makes close relationships constitutive of continued life.  
+**How it remains achieved:** A relational condition of survival remains established.  
+**Operative Centre:** The sheltering function of a coral reef is presented together with the creatures' dependence on dense ecological relationships.  
+**Diagnostic:** Deleting the dependency clause leaves refuge but loses relational survival.  
+**Reading status:** Written
+
+### A-043
+
+**Source ID:** A-043  
+**Original sentence:** Every public library offers strangers access to work completed by absent minds.  
+**What changed:** A library's collections become intelligible as access to intellectual work across personal absence.  
+**What made it sufficient:** “Offers strangers access” connects unknown readers to completed work by absent creators.  
+**How it remains achieved:** An enduring opportunity for intellectual encounter remains established.  
+**Operative Centre:** A public library makes completed work by people who are not present accessible to readers who never knew them.  
+**Diagnostic:** Replacing “access” with “ownership” changes the enabling achievement.  
+**Reading status:** Written
+
+### A-044
+
+**Source ID:** A-044  
+**Original sentence:** A lost key changes the meaning of an otherwise ordinary locked door.  
+**What changed:** Losing a key changes how a locked door can be understood practically.  
+**What made it sufficient:** “Lost key” transforms a routine closure into a possible barrier without changing the door.  
+**How it remains achieved:** The altered practical significance of the door remains established.  
+**Operative Centre:** The absence of the key turns an otherwise ordinary locked door into a different practical obstacle for the person needing entry.  
+**Diagnostic:** Removing “lost” loses the condition producing that change.  
+**Reading status:** Written
+
+### A-045
+
+**Source ID:** A-045  
+**Original sentence:** The stars remain visible in deserts where city lights conceal their patterns.  
+**What changed:** Visibility of starlight becomes intelligible through contrasting lighting conditions.  
+**What made it sufficient:** The desert's visibility is set against urban lights that obscure stellar patterns.  
+**How it remains achieved:** The location-dependent difference in discernibility remains established.  
+**Operative Centre:** The sentence contrasts the stars' continued visibility in deserts with the concealment of their patterns by city lights.  
+**Diagnostic:** Replacing “conceal” with “illuminate” reverses the governing contrast.  
+**Reading status:** Written
+
+### A-046
+
+**Source ID:** A-046  
+**Original sentence:** A farmer reads the soil through texture, smell, memory, and changing seasons.  
+**What changed:** Soil conditions become intelligible to a farmer through several mutually informing cues.  
+**What made it sufficient:** “Reads the soil through” makes sensory evidence, memory and season together bear on judgement.  
+**How it remains achieved:** An interpretive capacity grounded in multiple cues remains established.  
+**Operative Centre:** The farmer interprets soil by combining texture, smell, remembered experience and seasonal change as sources of information.  
+**Diagnostic:** Omitting “memory, and changing seasons” narrows the account to immediate sensation.  
+**Reading status:** Written
+
+### A-047
+
+**Source ID:** A-047  
+**Original sentence:** The world's busiest ports turn distant intentions into containers moving across oceans.  
+**What changed:** Distant plans become intelligible as material circulation through ports.  
+**What made it sufficient:** “Turn ... into” connects remote intentions with moving shipping containers.  
+**How it remains achieved:** An organised transformation from intention to logistics remains established.  
+**Operative Centre:** Busy ports translate geographically distant purposes into the concrete movement of containers across oceans.  
+**Diagnostic:** Replacing “turn” with “observe” removes the practical conversion.  
+**Reading status:** Written
+
+### A-048
+
+**Source ID:** A-048  
+**Original sentence:** A song crossing generations may retain its shape while gathering new associations.  
+**What changed:** A song's continuity becomes intelligible alongside evolving interpretations.  
+**What made it sufficient:** “While” joins retention of musical shape to the acquisition of new associations across generations.  
+**How it remains achieved:** The possibility of recognisable continuity amid changing meanings stands.  
+**Operative Centre:** A song can retain its identifiable form across generations while gathering different associations in each new context.  
+**Diagnostic:** Removing “while gathering new associations” loses the coexistence of continuity and change.  
+**Reading status:** Written
+
+### A-049
+
+**Source ID:** A-049  
+**Original sentence:** The first snowfall makes familiar streets newly visible by hiding their details.  
+**What changed:** Familiar streets become perceptually renewed through loss of familiar details.  
+**What made it sufficient:** “By hiding” makes snowfall's concealment the means of renewed visibility.  
+**How it remains achieved:** A counterintuitive dependence of revelation on obscuration remains.  
+**Operative Centre:** First snowfall changes how familiar streets appear precisely because it hides details normally used to recognise them.  
+**Diagnostic:** Replacing “by hiding” with “despite revealing” destroys the stated mechanism.  
+**Reading status:** Written
+
+### A-050
+
+**Source ID:** A-050  
+**Original sentence:** A treaty is paper until people organize their conduct around its promises.  
+**What changed:** A treaty's operative significance becomes conditional on people acting according to it.  
+**What made it sufficient:** “Until” contrasts paper existence with coordinated conduct around promises.  
+**How it remains achieved:** The treaty's practical force remains grounded in enacted commitments.  
+**Operative Centre:** The sentence makes a treaty more than paper only when people organise their conduct around the promises it contains.  
+**Diagnostic:** Removing “until” collapses the distinction between inscription and operative commitment.  
+**Reading status:** Written
+
+### A-051
+
+**Source ID:** A-051  
+**Original sentence:** The human body repairs small injuries without asking permission from conscious thought.  
+**What changed:** Bodily repair becomes intelligible as occurring without conscious command.  
+**What made it sufficient:** “Without asking permission” personifies the independence of automatic healing.  
+**How it remains achieved:** An autonomously functioning repair capacity remains intelligible.  
+**Operative Centre:** The body can repair minor injuries through processes that do not require permission or direction from conscious thought.  
+**Diagnostic:** Removing “without asking permission” leaves healing but loses its autonomy.  
+**Reading status:** Written
+
+### A-052
+
+**Source ID:** A-052  
+**Original sentence:** Where rivers meet, sediment builds ground that neither river could build alone.  
+**What changed:** New ground becomes intelligible as the joint result of converging rivers.  
+**What made it sufficient:** “Neither river could build alone” makes the meeting of their sediment-bearing flows decisive.  
+**How it remains achieved:** The combined constructive capacity remains established.  
+**Operative Centre:** Where rivers converge, deposited sediment forms land attributed to their joint contribution rather than to either river individually.  
+**Diagnostic:** Removing “neither ... alone” loses the necessity of the joint contribution.  
+**Reading status:** Written
+
+### A-053
+
+**Source ID:** A-053  
+**Original sentence:** An unanswered message can govern an afternoon more strongly than a ringing bell.  
+**What changed:** An unanswered communication becomes intelligible as more attention-governing than an audible interruption.  
+**What made it sufficient:** “More strongly than” orders the silent expectation above a ringing bell in its effect on the day.  
+**How it remains achieved:** A comparative relation of psychological influence remains.  
+**Operative Centre:** The continued absence of a reply can organise someone's afternoon more powerfully than a ringing bell does.  
+**Diagnostic:** Replacing “unanswered” with “answered” loses the suspense central to the claim.  
+**Reading status:** Written
+
+### A-054
+
+**Source ID:** A-054  
+**Original sentence:** The classroom becomes quieter when the difficult idea finally finds a clear example.  
+**What changed:** A classroom's quiet becomes intelligible as following a moment of explanatory clarity.  
+**What made it sufficient:** “When” ties a clear example to the resolution of difficulty and a quieter room.  
+**How it remains achieved:** The conjunction of improved understanding and quiet remains established.  
+**Operative Centre:** The appearance of a clear example for a difficult idea is presented as the occasion of the classroom becoming quieter.  
+**Diagnostic:** Removing “finally finds a clear example” loses the governing occasion for the change.  
+**Reading status:** Written
+
+### A-055
+
+**Source ID:** A-055  
+**Original sentence:** A compass points north, but travelers must still decide where to go.  
+**What changed:** Directional information becomes distinguished from deciding one's destination.  
+**What made it sufficient:** “But” contrasts the compass's fixed bearing with the traveller's continuing choice.  
+**How it remains achieved:** An unresolved practical decision remains despite available directional guidance.  
+**Operative Centre:** A compass supplies north as orientation without determining where travellers ought to go.  
+**Diagnostic:** Removing “but travelers must still decide” falsely makes orientation the whole practical achievement.  
+**Reading status:** Written
+
+### A-056
+
+**Source ID:** A-056  
+**Original sentence:** Every harvest joins patient cultivation with conditions no farmer can command entirely.  
+**What changed:** A harvest becomes intelligible as the conjunction of human effort and uncontrollable conditions.  
+**What made it sufficient:** “Joins” binds cultivation to conditions no farmer can entirely command.  
+**How it remains achieved:** The crop outcome remains understood as dependent on both kinds of contribution.  
+**Operative Centre:** Every harvest is represented as arising from patient cultivation together with environmental circumstances beyond complete human control.  
+**Diagnostic:** Removing “no farmer can command entirely” loses the limit on human agency.  
+**Reading status:** Written
+
+### A-057
+
+**Source ID:** A-057  
+**Original sentence:** The old harbor became a park, and the city's edge changed purpose.  
+**What changed:** A harbour's purpose becomes intelligibly transformed through conversion into a park.  
+**What made it sufficient:** “Became” establishes changed use, and the second clause extends it to the city's edge.  
+**How it remains achieved:** A new civic role for the place remains established.  
+**Operative Centre:** Converting the old harbour into a park redefines the purpose of the city's waterfront.  
+**Diagnostic:** Removing “the city's edge changed purpose” leaves the site conversion but loses the wider urban reorientation.  
+**Reading status:** Written
+
+### A-058
+
+**Source ID:** A-058  
+**Original sentence:** A telescope extends sight without removing the need to interpret what appears.  
+**What changed:** Greater visual reach becomes intelligible as distinct from interpreting observations.  
+**What made it sufficient:** “Without removing” separates instrumental extension of sight from cognitive understanding.  
+**How it remains achieved:** An enduring interpretive demand remains even with enhanced observation.  
+**Operative Centre:** A telescope expands what can be seen but does not eliminate the need to interpret what becomes visible.  
+**Diagnostic:** Replacing “without removing” with “thereby removing” reverses the distinction.  
+**Reading status:** Written
+
+### A-059
+
+**Source ID:** A-059  
+**Original sentence:** The world contains more unfinished conversations than any archive could possibly preserve.  
+**What changed:** The world's unfinished conversations become intelligible as exceeding archival capacity.  
+**What made it sufficient:** “More ... than any archive could possibly preserve” establishes an asymmetry of scale.  
+**How it remains achieved:** The impossibility of complete documentary preservation remains asserted.  
+**Operative Centre:** The number of unfinished conversations is presented as greater than the capacity of any archive to preserve them.  
+**Diagnostic:** Omitting the archive comparison leaves abundance but not excess beyond preservation.  
+**Reading status:** Written
+
+### A-060
+
+**Source ID:** A-060  
+**Original sentence:** A newborn recognizes rhythms before learning the names of the people nearby.  
+**What changed:** Recognition of patterns becomes intelligible as preceding knowledge of personal names.  
+**What made it sufficient:** “Before” orders rhythmic recognition earlier than naming nearby people.  
+**How it remains achieved:** An early capacity for recognition remains established without explicit naming.  
+**Operative Centre:** A newborn can recognise rhythms prior to learning the names of those nearby, showing recognition without naming.  
+**Diagnostic:** Replacing “before” with “only after” reverses the temporal and cognitive priority.  
+**Reading status:** Written
+
+---
+**Checkpoint: A-060 — 60 contiguous written Centres from A-001.**
+---
+
+### A-061
+
+**Source ID:** A-061  
+**Original sentence:** When the power fails, invisible networks suddenly become visible through their absence.  
+**What changed:** The normally unnoticed network becomes intelligible through the effects of its failure.  
+**What made it sufficient:** “Through their absence” makes lost service reveal the dependence formerly hidden.  
+**How it remains achieved:** An awareness of invisible infrastructure remains established by its interruption.  
+**Operative Centre:** Failure of power makes previously unnoticed networks recognisable through what is no longer available.  
+**Diagnostic:** Removing “through their absence” loses the revealing role of failure.  
+**Reading status:** Written
+
+### A-062
+
+**Source ID:** A-062  
+**Original sentence:** The mountain pass connects communities during summer and separates them through winter.  
+**What changed:** One mountain pass becomes intelligible as connecting or separating communities depending on season.  
+**What made it sufficient:** “During summer” and “through winter” determine opposing seasonal functions.  
+**How it remains achieved:** Season-dependent accessibility remains established.  
+**Operative Centre:** The mountain pass serves as a connection in summer and a barrier in winter, according to changing seasonal conditions.  
+**Diagnostic:** Removing the seasonal clauses erases the conditions that govern the opposition.  
+**Reading status:** Written
+
+### A-063
+
+**Source ID:** A-063  
+**Original sentence:** A recipe changes when ingredients travel, yet dinner still gathers people together.  
+**What changed:** The recipe's change becomes compatible with the meal's continuing social role.  
+**What made it sufficient:** “Yet” contrasts ingredient-driven variation with dinner's enduring power to gather.  
+**How it remains achieved:** Continuity of shared dining remains despite variation in the recipe.  
+**Operative Centre:** A recipe can be altered by the movement of ingredients while dinner still brings people together.  
+**Diagnostic:** Replacing “yet” with “therefore” loses the contrast between variation and continuity.  
+**Reading status:** Written
+
+### A-064
+
+**Source ID:** A-064  
+**Original sentence:** At low tide, hidden rock pools briefly become neighborhoods open to inspection.  
+**What changed:** Normally hidden pools become intelligible as briefly accessible to observation.  
+**What made it sufficient:** “At low tide” establishes the enabling condition and “briefly” its limit.  
+**How it remains achieved:** A temporary opportunity to inspect the pools remains established.  
+**Operative Centre:** Low tide temporarily exposes hidden rock pools, making their small communities available for inspection.  
+**Diagnostic:** Removing “At low tide” loses the condition of access; omitting “briefly” loses its duration.  
+**Reading status:** Written
+
+### A-065
+
+**Source ID:** A-065  
+**Original sentence:** The first bridge across a river changes both banks without moving either.  
+**What changed:** Two riverbanks' practical relation becomes intelligibly changed without either moving.  
+**What made it sufficient:** “Without moving either” contrasts fixed geography with altered connection through the first bridge.  
+**How it remains achieved:** A new relational geography persists through the crossing.  
+**Operative Centre:** The first bridge transforms what the two riverbanks make possible for one another without changing their physical positions.  
+**Diagnostic:** Removing “without moving either” loses the distinction between geographical position and practical relation.  
+**Reading status:** Written
+
+### A-066
+
+**Source ID:** A-066  
+**Original sentence:** A museum preserves objects, but visitors must reconstruct the lives around them.  
+**What changed:** The museum's preservation of objects is distinguished from reconstructing their human contexts.  
+**What made it sufficient:** “But” makes preserved artifacts insufficient by themselves for recovering past lives.  
+**How it remains achieved:** A continuing interpretive task remains alongside material preservation.  
+**Operative Centre:** Museums can preserve objects, while visitors must infer the lives and circumstances in which those objects mattered.  
+**Diagnostic:** Deleting “visitors must reconstruct” wrongly lets preservation stand for complete historical understanding.  
+**Reading status:** Written
+
+### A-067
+
+**Source ID:** A-067  
+**Original sentence:** Under city pavement, roots and pipes compete for space without ever meeting.  
+**What changed:** Separate underground systems become intelligible as rivals for limited space despite noncontact.  
+**What made it sufficient:** “Without ever meeting” distinguishes indirect spatial competition from direct encounter.  
+**How it remains achieved:** A shared constraint on space remains established without literal contact.  
+**Operative Centre:** Roots and pipes beneath pavement compete for available room even though they never physically meet.  
+**Diagnostic:** Removing “without ever meeting” loses the surprising character of indirect competition.  
+**Reading status:** Written
+
+### A-068
+
+**Source ID:** A-068  
+**Original sentence:** A child learns fairness partly by noticing when the rules change unexpectedly.  
+**What changed:** A child's sense of fairness becomes intelligible as partly learned through unexpected rule changes.  
+**What made it sufficient:** “Partly by noticing” provides a limited learning mechanism rather than an exhaustive account.  
+**How it remains achieved:** The contribution of detecting unexpected changes to moral learning remains established.  
+**Operative Centre:** The child develops an understanding of fairness in part by observing when rules change unexpectedly.  
+**Diagnostic:** Replacing “partly” with “entirely” falsely makes one mechanism exhaustive.  
+**Reading status:** Written
+
+### A-069
+
+**Source ID:** A-069  
+**Original sentence:** The newspaper headline compresses complicated events into a doorway for public attention.  
+**What changed:** A headline's compression becomes intelligible as creating an entry point to complex public events.  
+**What made it sufficient:** “Into a doorway” makes abbreviated presentation an enabling passage rather than a full account.  
+**How it remains achieved:** An accessible point of public attention remains established.  
+**Operative Centre:** A newspaper headline condenses complicated events into a brief opening through which readers can attend to them.  
+**Diagnostic:** Replacing “doorway” with “complete account” loses the distinction between entrance and full explanation.  
+**Reading status:** Written
+
+### A-070
+
+**Source ID:** A-070  
+**Original sentence:** A drought begins in missing rain and continues through prices, choices, and migrations.  
+**What changed:** Drought becomes intelligible as a process reaching beyond lack of rainfall.  
+**What made it sufficient:** “Begins ... and continues through” extends a climatic deficit into economic and social consequences.  
+**How it remains achieved:** A cascading sequence of effects remains established.  
+**Operative Centre:** Drought is presented as beginning in absent rain but persisting through altered prices, decisions and migration.  
+**Diagnostic:** Omitting the second clause confines drought to its meteorological beginning.  
+**Reading status:** Written
+
+### A-071
+
+**Source ID:** A-071  
+**Original sentence:** An apology cannot reverse yesterday, but it can alter tomorrow's relationship.  
+**What changed:** An apology's future relational capacity is distinguished from its inability to undo the past.  
+**What made it sufficient:** “Cannot ... but can” establishes a limited but significant power.  
+**How it remains achieved:** A possible altered future relationship remains despite an unchanged yesterday.  
+**Operative Centre:** An apology cannot reverse what happened, yet can change how people relate to one another afterward.  
+**Diagnostic:** Replacing “can alter” with “erases” destroys the distinction between past event and future relation.  
+**Reading status:** Written
+
+### A-072
+
+**Source ID:** A-072  
+**Original sentence:** The train timetable coordinates thousands of decisions made by people who never meet.  
+**What changed:** Decisions by unacquainted people become intelligible as coordinated by one schedule.  
+**What made it sufficient:** The timetable supplies a common temporal ordering without requiring those people to meet.  
+**How it remains achieved:** A distributed practical coordination remains established.  
+**Operative Centre:** A train timetable aligns many independent decisions made by strangers through shared departure and arrival expectations.  
+**Diagnostic:** Removing “people who never meet” loses the impersonal scope of coordination.  
+**Reading status:** Written
+
+### A-073
+
+**Source ID:** A-073  
+**Original sentence:** In spring, a vacant lot becomes a garden through many small commitments.  
+**What changed:** A vacant lot's transformation becomes intelligible through cumulative commitments.  
+**What made it sufficient:** “Through many small commitments” supplies the collective condition of the garden's emergence.  
+**How it remains achieved:** The lot remains identifiable as a cultivated shared project.  
+**Operative Centre:** Many modest commitments together transform a vacant lot into a garden in spring.  
+**Diagnostic:** Removing “through many small commitments” leaves a conversion without its collective basis.  
+**Reading status:** Written
+
+### A-074
+
+**Source ID:** A-074  
+**Original sentence:** A mountain village measures distance in effort where maps measure it in kilometers.  
+**What changed:** Distance becomes intelligible through two distinct measures: effort and kilometres.  
+**What made it sufficient:** “Where” contrasts a local practical measure with abstract cartographic measurement.  
+**How it remains achieved:** A difference in what counts as distance remains established.  
+**Operative Centre:** The mountain village understands distance in terms of exertion while maps express it in kilometres.  
+**Diagnostic:** Replacing “effort” with “kilometers” erases the contrast between lived and cartographic measures.  
+**Reading status:** Written
+
+### A-075
+
+**Source ID:** A-075  
+**Original sentence:** A broken promise can remain active long after its words are forgotten.  
+**What changed:** A broken promise becomes intelligible as continuing to exert force after its words are forgotten.  
+**What made it sufficient:** “Long after” distinguishes remembered wording from persistent obligation or injury.  
+**How it remains achieved:** The unfulfilled commitment's effect remains active despite lost wording.  
+**Operative Centre:** The consequences or binding significance of a broken promise can persist after the original words have been forgotten.  
+**Diagnostic:** Removing “long after its words are forgotten” loses the persistence beyond recollection.  
+**Reading status:** Written
+
+### A-076
+
+**Source ID:** A-076  
+**Original sentence:** Every scientific instrument makes certain differences detectable while leaving others beyond its reach.  
+**What changed:** Scientific measurement becomes intelligible as selective rather than all-revealing.  
+**What made it sufficient:** “While leaving others beyond its reach” limits the differences an instrument detects.  
+**How it remains achieved:** An instrument-specific boundary of discernibility remains established.  
+**Operative Centre:** Each scientific instrument enables detection of some differences while leaving others undetectable by that instrument.  
+**Diagnostic:** Deleting the limiting clause misrepresents selective reach as unrestricted access.  
+**Reading status:** Written
+
+### A-077
+
+**Source ID:** A-077  
+**Original sentence:** The harbor fog erases landmarks, forcing sailors to trust other forms of guidance.  
+**What changed:** Loss of coastal landmarks becomes intelligible as compelling alternative navigation.  
+**What made it sufficient:** “Forcing” links obscuring fog to reliance on other kinds of guidance.  
+**How it remains achieved:** A changed requirement for navigation remains established.  
+**Operative Centre:** When harbour fog hides familiar landmarks, sailors must rely on alternative means of finding their way.  
+**Diagnostic:** Removing “forcing sailors” loses the practical consequence of obscuration.  
+**Reading status:** Written
+
+### A-078
+
+**Source ID:** A-078  
+**Original sentence:** A crowded dinner table can hold several histories inside one shared conversation.  
+**What changed:** Multiple pasts become intelligible as co-present within a single shared exchange.  
+**What made it sufficient:** “Inside one shared conversation” gathers distinct histories without making them identical.  
+**How it remains achieved:** A joint conversational space holding different histories remains established.  
+**Operative Centre:** A crowded dinner-table conversation can bring several personal histories into one common exchange.  
+**Diagnostic:** Replacing “shared” with “separate” loses the achieved common conversational setting.  
+**Reading status:** Written
+
+### A-079
+
+**Source ID:** A-079  
+**Original sentence:** The oldest rocks on earth preserve traces of conditions nobody witnessed directly.  
+**What changed:** Rock strata become intelligible as evidence of unwitnessed ancient conditions.  
+**What made it sufficient:** “Preserve traces” links surviving material marks to circumstances without observers.  
+**How it remains achieved:** Past conditions remain inferable through extant evidence.  
+**Operative Centre:** The oldest rocks retain traces through which conditions unseen by human witnesses can be investigated.  
+**Diagnostic:** Removing “nobody witnessed directly” loses the contrast between evidence and firsthand observation.  
+**Reading status:** Written
+
+### A-080
+
+**Source ID:** A-080  
+**Original sentence:** An election changes who may decide, even when the buildings remain unchanged.  
+**What changed:** An election's effect becomes intelligible as a change in decision-making authority rather than buildings.  
+**What made it sufficient:** “Even when” contrasts altered office-holding with physical institutional continuity.  
+**How it remains achieved:** A change in authorised decision-makers remains established despite unchanged structures.  
+**Operative Centre:** An election can alter who has the right to decide while the buildings of government remain the same.  
+**Diagnostic:** Replacing “who may decide” with “which buildings exist” removes the institutional shift.  
+**Reading status:** Written
+
+### A-081
+
+**Source ID:** A-081  
+**Original sentence:** Birdsong announces territory, attracts companions, and becomes morning music to human listeners.  
+**What changed:** Birdsong becomes intelligible as holding different functions for birds and human listeners.  
+**What made it sufficient:** The three verbs link territorial signalling, attraction and aesthetic reception to one sound.  
+**How it remains achieved:** A multi-audience set of significances remains established.  
+**Operative Centre:** Birdsong can signal territory and attract companions while also being experienced by humans as morning music.  
+**Diagnostic:** Deleting “to human listeners” loses the shift in audience and kind of significance.  
+**Reading status:** Written
+
+### A-082
+
+**Source ID:** A-082  
+**Original sentence:** A bridge under repair reminds commuters how much ordinary life depends on maintenance.  
+**What changed:** Commuters' disrupted crossing becomes intelligible as disclosing dependence on upkeep.  
+**What made it sufficient:** “Reminds” joins visible repair to ordinary life's otherwise unnoticed need for maintenance.  
+**How it remains achieved:** The dependence of daily mobility upon ongoing repair remains recognised.  
+**Operative Centre:** A bridge being repaired makes commuters aware of how much routine life relies on maintenance.  
+**Diagnostic:** Removing “reminds commuters” leaves construction work but loses the recognition of dependency.  
+**Reading status:** Written
+
+### A-083
+
+**Source ID:** A-083  
+**Original sentence:** The marketplace falls silent at closing, but its agreements continue elsewhere overnight.  
+**What changed:** The market's physical silence becomes intelligible alongside the continued life of its agreements.  
+**What made it sufficient:** “But” opposes closing-time quiet to obligations that persist elsewhere.  
+**How it remains achieved:** A continuity of commitments beyond a local trading scene remains established.  
+**Operative Centre:** Even after the marketplace closes and falls silent, agreements made there continue to govern activity beyond it.  
+**Diagnostic:** Removing “but its agreements continue” collapses the achievement to closing-time quiet.  
+**Reading status:** Written
+
+### A-084
+
+**Source ID:** A-084  
+**Original sentence:** A shoreline village learns the sea through gifts, warnings, losses, and returns.  
+**What changed:** A shoreline community's understanding of the sea becomes intelligible through varied encounters over time.  
+**What made it sufficient:** “Through gifts, warnings, losses, and returns” makes experience the composite teacher.  
+**How it remains achieved:** A cumulative practical knowledge of the sea remains established.  
+**Operative Centre:** The village comes to know the sea through the benefits, dangers, losses and recurring arrivals that shape its experience.  
+**Diagnostic:** Replacing the varied encounters with a single event loses the cumulative basis.  
+**Reading status:** Written
+
+### A-085
+
+**Source ID:** A-085  
+**Original sentence:** When children invent a game, they also invent what counts as winning.  
+**What changed:** Inventing a game becomes intelligible as simultaneously defining a success condition.  
+**What made it sufficient:** “Also invent what counts as winning” connects rule-making with standards of achievement.  
+**How it remains achieved:** A criterion for success exists within the created game.  
+**Operative Centre:** When children invent a game, they establish not only its play but the conditions under which someone can win.  
+**Diagnostic:** Removing “what counts as winning” loses the game's internally determined success criterion.  
+**Reading status:** Written
+
+### A-086
+
+**Source ID:** A-086  
+**Original sentence:** The world's glaciers move slowly while transforming valleys over spans beyond memory.  
+**What changed:** Glacial motion becomes intelligible as producing huge landscape changes across deep time.  
+**What made it sufficient:** “While transforming” links slow movement to long-term valley formation, beyond lived memory.  
+**How it remains achieved:** A relationship between gradual process and vast geomorphic consequence remains established.  
+**Operative Centre:** Glaciers can move slowly yet reshape valleys over timespans longer than human remembrance.  
+**Diagnostic:** Deleting “over spans beyond memory” removes the contrast in timescale.  
+**Reading status:** Written
+
+### A-087
+
+**Source ID:** A-087  
+**Original sentence:** A shared meal can settle an argument without anyone declaring a formal victory.  
+**What changed:** A meal becomes intelligible as a possible means of resolving conflict without declared victory.  
+**What made it sufficient:** “Without anyone declaring a formal victory” separates settlement from explicit adjudication.  
+**How it remains achieved:** The possibility of an unannounced reconciliation remains established.  
+**Operative Centre:** A shared meal can settle an argument without anyone formally announcing a winner.  
+**Diagnostic:** Replacing “can settle” with “always settles” makes the possible resolution inevitable.  
+**Reading status:** Written
+
+### A-088
+
+**Source ID:** A-088  
+**Original sentence:** The traffic light turns green, and separate journeys briefly coordinate their movements.  
+**What changed:** Traffic signalling becomes intelligible as coordinating otherwise separate journeys.  
+**What made it sufficient:** “Turns green, and” connects a common signal to briefly aligned movement.  
+**How it remains achieved:** A momentary coordination among independent travellers remains established.  
+**Operative Centre:** A green traffic light enables separate journeys to coordinate their movements for a brief interval.  
+**Diagnostic:** Removing “briefly coordinate” leaves only the signal change, not the joint movement.  
+**Reading status:** Written
+
+
+### A-089
+
+**Source ID:** A-089  
+**Original sentence:** An abandoned factory may become housing, carrying traces of labor into domestic life.  
+**What changed:** An abandoned industrial site becomes intelligible as a possible dwelling place that retains its past.  
+**What made it sufficient:** “May become” marks possible conversion, while “carrying traces” connects the new use to earlier labour.  
+**How it remains achieved:** A potential residential future remains marked by industrial history.  
+**Operative Centre:** The factory may acquire a domestic function without losing every sign of the labour formerly carried out there.  
+**Diagnostic:** Replacing “may become” with “is” would assert completion; removing the traces would erase continuity with industrial labour.  
+**Reading status:** Written
+
+### A-090
+
+**Source ID:** A-090  
+**Original sentence:** The night nurse notices changes that daytime visitors might never recognize as important.  
+**What changed:** The nurse's perception becomes intelligible as recognising changes others might overlook.  
+**What made it sufficient:** The contrast between nocturnal professional attention and daytime visitors' possible failure supplies the significance.  
+**How it remains achieved:** The possibility of clinically important but unevenly recognised changes remains established.  
+**Operative Centre:** The night nurse notices changes whose importance may escape daytime visitors.  
+**Diagnostic:** Removing “might never recognize as important” loses the differential recognition; “might” cannot be replaced by “do not” without strengthening the claim.  
+**Reading status:** Written
+
+### A-091
+
+**Source ID:** A-091  
+**Original sentence:** A dictionary records words, but conversation keeps finding uses no definition anticipated.  
+**What changed:** Dictionary documentation becomes intelligible alongside the continually expanding uses of language.  
+**What made it sufficient:** “But” sets recorded words against conversational uses beyond what definitions have anticipated.  
+**How it remains achieved:** An open-ended distinction between lexical recording and living usage remains.  
+**Operative Centre:** A dictionary can record words without exhausting the new uses conversation may give them.  
+**Diagnostic:** Removing “no definition anticipated” loses the contrast between record and creative use.  
+**Reading status:** Written
+
+### A-092
+
+**Source ID:** A-092  
+**Original sentence:** When a fence comes down, a field becomes a different kind of place.  
+**What changed:** A field acquires a changed practical and social meaning through removal of its fence.  
+**What made it sufficient:** “When a fence comes down” supplies the enabling alteration without specifying exactly what new use results.  
+**How it remains achieved:** A difference in the field's kind of place remains asserted, though its precise new character is unspecified.  
+**Operative Centre:** Removing a fence can transform how a field is accessible or understood as a place.  
+**Diagnostic:** Replacing “a different kind of place” with “a larger field” would impose an unstated physical change.  
+**Reading status:** Written
+
+### A-093
+
+**Source ID:** A-093  
+**Original sentence:** The earthquake lasted seconds; rebuilding the neighborhood may take an entire generation.  
+**What changed:** A brief destructive event is set against a potentially prolonged recovery.  
+**What made it sufficient:** “Seconds” versus “an entire generation” establishes the extreme temporal disparity.  
+**How it remains achieved:** The imbalance between earthquake duration and rebuilding time remains intelligible.  
+**Operative Centre:** An earthquake lasting seconds may generate rebuilding that takes a generation.  
+**Diagnostic:** Removing the generational comparison loses the contrast in timescales; “may” preserves contingency.  
+**Reading status:** Written
+
+### A-094
+
+**Source ID:** A-094  
+**Original sentence:** An island's isolation can protect unusual life while making resources difficult to replace.  
+**What changed:** Island isolation becomes intelligible as simultaneously protective and restrictive.  
+**What made it sufficient:** “While” combines unusual-life protection with difficulty replacing resources.  
+**How it remains achieved:** Two opposed consequences of geographical isolation remain jointly established.  
+**Operative Centre:** An island's separation can safeguard distinctive life while making replacement resources harder to obtain.  
+**Diagnostic:** Removing either consequence turns a double-edged condition into a one-sided description.  
+**Reading status:** Written
+
+### A-095
+
+**Source ID:** A-095  
+**Original sentence:** The first page of a book asks readers to enter an unfamiliar order.  
+**What changed:** The opening of a book becomes intelligible as an invitation into an unfamiliar arrangement.  
+**What made it sufficient:** The personification “asks readers to enter” links the first page to the reader's interpretive passage.  
+**How it remains achieved:** An invitation to encounter a new order remains established, not a guarantee of reader compliance.  
+**Operative Centre:** A book's first page invites readers to engage with a world or arrangement not yet familiar to them.  
+**Diagnostic:** Replacing “asks” with “forces” would turn invitation into compulsion.  
+**Reading status:** Written
+
+### A-096
+
+**Source ID:** A-096  
+**Original sentence:** A river delta grows where moving water finally releases what it carried.  
+**What changed:** Delta growth becomes intelligible through sediment deposition after transport.  
+**What made it sufficient:** “Where moving water finally releases what it carried” specifies how accumulation follows carriage.  
+**How it remains achieved:** The deposited material becomes available as the basis of delta growth.  
+**Operative Centre:** A river delta grows as moving water deposits material it had previously transported.  
+**Diagnostic:** Removing “releases what it carried” leaves growth without its governing depositional relation.  
+**Reading status:** Written
+
+### A-097
+
+**Source ID:** A-097  
+**Original sentence:** Public trust accumulates through repeated actions and can vanish after one betrayal.  
+**What changed:** Public trust becomes intelligible as slow to build but vulnerable to sudden loss.  
+**What made it sufficient:** “Repeated actions” contrasts with “one betrayal” to establish unequal conditions of gain and loss.  
+**How it remains achieved:** An asymmetry of accumulation and collapse remains established as a possibility.  
+**Operative Centre:** Trust can arise through repeated reliable conduct yet disappear after a single betrayal.  
+**Diagnostic:** Replacing “can vanish” with “always vanishes” would overstate the outcome.  
+**Reading status:** Written
+
+### A-098
+
+**Source ID:** A-098  
+**Original sentence:** A child's drawing makes a familiar house visible through unfamiliar proportions and priorities.  
+**What changed:** A familiar home becomes perceptually available through a child's different priorities.  
+**What made it sufficient:** The drawing's unusual proportions and emphases provide the means of renewed recognition.  
+**How it remains achieved:** A different view of the familiar house remains appreciable.  
+**Operative Centre:** A child's drawing can reveal a known house in a new way by emphasising proportions and features differently.  
+**Diagnostic:** Removing “unfamiliar proportions and priorities” loses the source of altered perception.  
+**Reading status:** Written
+
+### A-099
+
+**Source ID:** A-099  
+**Original sentence:** Every evening, millions of lights reveal settlements that daylight conceals within landscapes.  
+**What changed:** Night illumination becomes intelligible as a means of detecting settlements hidden in daylight landscapes.  
+**What made it sufficient:** “Reveal” and “conceals” create a reversal of what different light conditions make salient.  
+**How it remains achieved:** Settlement patterns remain discernible through the distribution of evening lights.  
+**Operative Centre:** After dark, artificial lights can disclose settlements whose presence blends into the landscape by day.  
+**Diagnostic:** Reversing evening and daylight conditions loses the stated visibility contrast.  
+**Reading status:** Written
+
+### A-100
+
+**Source ID:** A-100  
+**Original sentence:** The world continues through countless small completions, each making another beginning possible.  
+**What changed:** Ongoing world-process becomes intelligible as a chain of endings that enable further starts.  
+**What made it sufficient:** “Each making another beginning possible” turns separate completions into conditions of continuation.  
+**How it remains achieved:** An open sequence of achieved transitions and new possibilities remains.  
+**Operative Centre:** The world continues through many local completions that each enable something further to begin.  
+**Diagnostic:** Removing the final clause leaves numerous completions without the generative continuation.  
+**Reading status:** Written
+
+## Corpus B — Science (A-101–A-200)
+
+### A-101
+
+**Source ID:** A-101  
+**Original sentence:** An object moving at constant velocity continues in a straight line unless a net external force acts on it.  
+**What changed:** Uniform straight-line motion is specified as persisting without a net external force.  
+**What made it sufficient:** “Unless” defines the condition under which continuing constant velocity may change.  
+**How it remains achieved:** The conditional principle of inertial motion stands established.  
+**Operative Centre:** An object continues at constant velocity in a straight line unless acted upon by a net external force.  
+**Diagnostic:** Deleting “unless” would make persistence unconditional and alter the stated law.  
+**Reading status:** Written
+
+### A-102
+
+**Source ID:** A-102  
+**Original sentence:** The acceleration of an object equals the net force on it divided by its mass when the mass is constant.  
+**What changed:** Acceleration becomes determinately related to force and mass.  
+**What made it sufficient:** The ratio of net force to mass supplies the mathematical relation, under constant mass.  
+**How it remains achieved:** A conditional quantitative dependence of acceleration on net force and mass remains.  
+**Operative Centre:** For constant mass, an object's acceleration equals its net force divided by that mass.  
+**Diagnostic:** Removing “when the mass is constant” changes the conditions of the stated relationship.  
+**Reading status:** Written
+
+### A-103
+
+**Source ID:** A-103  
+**Original sentence:** For every force one object exerts on another, the second object exerts an equal and opposite force on the first.  
+**What changed:** A force interaction becomes intelligible as necessarily paired.  
+**What made it sufficient:** “For every” establishes the reciprocal second force equal in magnitude and opposite in direction.  
+**How it remains achieved:** The equal-and-opposite pairing between interacting objects remains established.  
+**Operative Centre:** When one object exerts a force on another, the second exerts an equal-magnitude, opposite-direction force on the first.  
+**Diagnostic:** Removing “the second object” could mislocate the two forces on one body.  
+**Reading status:** Written
+
+### A-104
+
+**Source ID:** A-104  
+**Original sentence:** The gravitational attraction between two point masses decreases with the square of the distance between them.  
+**What changed:** Gravitational strength is made quantitatively dependent on separation.  
+**What made it sufficient:** “Decreases with the square” states the inverse-square relation for point masses.  
+**How it remains achieved:** The inverse-square dependence remains established for the described attraction.  
+**Operative Centre:** The gravitational attraction between two point masses falls according to the inverse square of their separation.  
+**Diagnostic:** Replacing “square” with “distance” would replace the quantitative law.  
+**Reading status:** Written
+
+### A-105
+
+**Source ID:** A-105  
+**Original sentence:** In an isolated system, total energy remains constant even when energy changes form.  
+**What changed:** Changing energy forms become compatible with unchanging total energy.  
+**What made it sufficient:** “In an isolated system” specifies the boundary making total conservation applicable.  
+**How it remains achieved:** Conservation of total energy stands despite internal transformations.  
+**Operative Centre:** An isolated system retains the same total energy even as energy changes between forms.  
+**Diagnostic:** Removing “isolated” makes the conservation assertion overbroad.  
+**Reading status:** Written
+
+### A-106
+
+**Source ID:** A-106  
+**Original sentence:** Light travels more slowly through ordinary glass than through a vacuum.  
+**What changed:** Light-speed difference becomes intelligible through comparison of media.  
+**What made it sufficient:** “More slowly ... than” directly orders propagation in glass and vacuum.  
+**How it remains achieved:** A comparative dependence of light speed on medium remains.  
+**Operative Centre:** Light travels at a lower speed in ordinary glass than it does in a vacuum.  
+**Diagnostic:** Removing “than through a vacuum” loses the comparison that fixes the achievement.  
+**Reading status:** Written
+
+### A-107
+
+**Source ID:** A-107  
+**Original sentence:** A sound wave travels through air by producing successive regions of compression and rarefaction.  
+**What changed:** Sound propagation in air is explained through alternating pressure regions.  
+**What made it sufficient:** “By producing successive regions” supplies the mechanism for movement of the wave.  
+**How it remains achieved:** An intelligible propagation mechanism remains identified.  
+**Operative Centre:** An airborne sound wave propagates through successive compressions and rarefactions of the air.  
+**Diagnostic:** Deleting “compression and rarefaction” removes the process that explains transmission.  
+**Reading status:** Written
+
+### A-108
+
+**Source ID:** A-108  
+**Original sentence:** Increasing the temperature of a metal rod generally causes it to expand.  
+**What changed:** Heating and expansion become linked as a general tendency for metal rods.  
+**What made it sufficient:** “Generally causes” expresses a qualified causal dependence.  
+**How it remains achieved:** The tendency toward thermal expansion remains established without being universalised.  
+**Operative Centre:** Raising a metal rod's temperature generally causes its length or size to increase.  
+**Diagnostic:** Replacing “generally” with “always” eliminates the qualification.  
+**Reading status:** Written
+
+### A-109
+
+**Source ID:** A-109  
+**Original sentence:** A moving electric charge experiences a magnetic force when its motion has a component perpendicular to a magnetic field.  
+**What changed:** Magnetic force on a charge is made conditional on motion across the field.  
+**What made it sufficient:** The perpendicular component of velocity is the decisive condition.  
+**How it remains achieved:** A conditional force relation remains established.  
+**Operative Centre:** A moving charge experiences magnetic force when part of its motion is perpendicular to the magnetic field.  
+**Diagnostic:** Removing “perpendicular” changes the geometric condition governing magnetic force.  
+**Reading status:** Written
+
+### A-110
+
+**Source ID:** A-110  
+**Original sentence:** The pressure of a gas increases when its volume decreases at constant temperature and fixed gas quantity.  
+**What changed:** Gas pressure and volume become inversely related under specified constraints.  
+**What made it sufficient:** “When its volume decreases” joined to fixed temperature and quantity supplies the condition.  
+**How it remains achieved:** An inverse pressure–volume dependence remains established.  
+**Operative Centre:** For a fixed amount of gas at constant temperature, decreasing volume increases pressure.  
+**Diagnostic:** Deleting the constancy conditions detaches the claim from its governing scope.  
+**Reading status:** Written
+
+### A-111
+
+**Source ID:** A-111  
+**Original sentence:** At chemical equilibrium, the forward and reverse reactions occur at equal rates.  
+**What changed:** Chemical equilibrium becomes intelligible as equality of opposed reaction rates.  
+**What made it sufficient:** “Forward and reverse ... equal rates” supplies the defining dynamical balance.  
+**How it remains achieved:** A rate-balanced state remains established despite ongoing reactions.  
+**Operative Centre:** At chemical equilibrium, forward and reverse reactions continue at the same rate.  
+**Diagnostic:** Replacing “equal” with “zero” would mistake dynamic equilibrium for no reaction.  
+**Reading status:** Written
+
+### A-112
+
+**Source ID:** A-112  
+**Original sentence:** Adding a reactant to a system at equilibrium can shift its composition toward products when other conditions remain fixed.  
+**What changed:** Adding reactant becomes intelligible as potentially shifting equilibrium composition.  
+**What made it sufficient:** “Can shift” preserves possibility, while fixed other conditions constrain it.  
+**How it remains achieved:** A possible change favouring products remains established.  
+**Operative Centre:** Adding reactant may shift an equilibrium mixture toward products if other relevant conditions remain fixed.  
+**Diagnostic:** Changing “can” to “must” turns a contingent response into necessity.  
+**Reading status:** Written
+
+### A-113
+
+**Source ID:** A-113  
+**Original sentence:** An acid donates a proton to a base in a Brønsted–Lowry acid–base reaction.  
+**What changed:** Acid–base reaction roles are defined through proton transfer.  
+**What made it sufficient:** The donation of a proton from acid to base specifies the Brønsted–Lowry relation.  
+**How it remains achieved:** The respective acid and base roles remain distinguishable.  
+**Operative Centre:** In a Brønsted–Lowry reaction, the acid donates a proton and the base receives it.  
+**Diagnostic:** Replacing “proton” with “electron” would define another chemical process.  
+**Reading status:** Written
+
+### A-114
+
+**Source ID:** A-114  
+**Original sentence:** Water molecules form hydrogen bonds with nearby water molecules.  
+**What changed:** Water molecules become intelligible as connected by intermolecular hydrogen bonds.  
+**What made it sufficient:** “With nearby water molecules” specifies the parties in the hydrogen-bond relationship.  
+**How it remains achieved:** An intermolecular bonding relation remains established.  
+**Operative Centre:** Nearby water molecules can form hydrogen bonds with one another.  
+**Diagnostic:** Removing “nearby water molecules” loses the relational counterpart.  
+**Reading status:** Written
+
+### A-115
+
+**Source ID:** A-115  
+**Original sentence:** Sodium chloride dissolves in water as sodium and chloride ions become surrounded by water molecules.  
+**What changed:** Salt dissolution becomes intelligible through separated ions interacting with water.  
+**What made it sufficient:** “As ... ions become surrounded” connects dissolution to hydration of sodium and chloride ions.  
+**How it remains achieved:** A hydrated, dispersed ionic condition remains established.  
+**Operative Centre:** Sodium chloride dissolves when its constituent ions separate and become surrounded by water molecules.  
+**Diagnostic:** Removing the surrounding water molecules loses the stated hydration relation.  
+**Reading status:** Written
+
+### A-116
+
+**Source ID:** A-116  
+**Original sentence:** A catalyst speeds a reaction by providing a pathway with a lower activation energy.  
+**What changed:** Catalytic acceleration becomes intelligible through a lower-barrier route.  
+**What made it sufficient:** “By providing a pathway with a lower activation energy” supplies the explanatory mechanism.  
+**How it remains achieved:** An alternative reaction pathway accounting for faster reaction remains.  
+**Operative Centre:** A catalyst accelerates a reaction by making a lower-activation-energy pathway available.  
+**Diagnostic:** Removing “lower activation energy” disconnects the faster rate from its stated mechanism.  
+**Reading status:** Written
+
+### A-117
+
+**Source ID:** A-117  
+**Original sentence:** The pH of an aqueous solution decreases as its hydrogen ion activity increases.  
+**What changed:** Solution acidity is linked quantitatively and inversely to hydrogen ion activity.  
+**What made it sufficient:** “Decreases as ... increases” establishes the opposing movement of pH and activity.  
+**How it remains achieved:** An inverse pH–activity relation remains established.  
+**Operative Centre:** As hydrogen ion activity rises in an aqueous solution, its pH falls.  
+**Diagnostic:** Replacing “decreases” with “increases” reverses the relationship.  
+**Reading status:** Written
+
+### A-118
+
+**Source ID:** A-118  
+**Original sentence:** Carbon atoms can form stable chains because they make strong covalent bonds with other carbon atoms.  
+**What changed:** Carbon's chain-forming capacity becomes intelligible through bonding strength.  
+**What made it sufficient:** “Because” makes strong carbon–carbon covalent bonds the supporting condition.  
+**How it remains achieved:** A structural capacity grounded in stable self-bonding remains established.  
+**Operative Centre:** Carbon can make stable chains because carbon atoms form strong covalent bonds with each other.  
+**Diagnostic:** Removing “because” loses the explanatory relation between bond strength and chains.  
+**Reading status:** Written
+
+### A-119
+
+**Source ID:** A-119  
+**Original sentence:** An oxidation reaction involves the loss of electrons by a chemical species.  
+**What changed:** Oxidation is specified through one defining electron-transfer change.  
+**What made it sufficient:** “Loss of electrons” identifies the change constitutive of oxidation.  
+**How it remains achieved:** A chemical classification criterion remains established.  
+**Operative Centre:** A chemical species undergoes oxidation when it loses electrons.  
+**Diagnostic:** Replacing “loss” with “gain” would describe reduction.  
+**Reading status:** Written
+
+### A-120
+
+**Source ID:** A-120  
+**Original sentence:** At constant pressure, a pure substance boils when its vapor pressure equals the surrounding pressure.  
+**What changed:** Boiling is related to equality of vapour pressure and external pressure.  
+**What made it sufficient:** “When ... equals” supplies the pressure condition at a constant external pressure.  
+**How it remains achieved:** A condition for boiling of a pure substance remains established.  
+**Operative Centre:** At constant pressure, a pure substance boils when its vapour pressure equals the surrounding pressure.  
+**Diagnostic:** Removing “equals” removes the defining pressure balance.  
+**Reading status:** Written
+
+### A-121
+
+**Source ID:** A-121  
+**Original sentence:** Cells use ribosomes to assemble proteins from amino acids according to messenger RNA sequences.  
+**What changed:** Protein synthesis becomes intelligible as sequence-directed assembly.  
+**What made it sufficient:** “According to messenger RNA sequences” relates amino-acid assembly by ribosomes to the template.  
+**How it remains achieved:** A directed mechanism of protein assembly remains established.  
+**Operative Centre:** Ribosomes assemble amino acids into proteins in an order directed by messenger RNA sequences.  
+**Diagnostic:** Removing the RNA sequence condition leaves assembly without its ordering principle.  
+**Reading status:** Written
+
+### A-122
+
+**Source ID:** A-122  
+**Original sentence:** During DNA replication, each new DNA double helix normally contains one original strand and one newly synthesized strand.  
+**What changed:** Replication outcomes are specified as containing both parental and new DNA strands.  
+**What made it sufficient:** “One original ... one newly synthesized” establishes the normal semiconservative composition.  
+**How it remains achieved:** The one-old, one-new strand arrangement remains established.  
+**Operative Centre:** A newly replicated DNA double helix normally pairs a parental strand with a newly made strand.  
+**Diagnostic:** Removing “normally” would overstate the claim's scope.  
+**Reading status:** Written
+
+### A-123
+
+**Source ID:** A-123  
+**Original sentence:** Natural selection can increase the frequency of inherited traits that improve reproductive success in a particular environment.  
+**What changed:** Selection is linked to possible changes in inherited-trait frequency under local fitness conditions.  
+**What made it sufficient:** “Can increase” and “in a particular environment” specify contingency and context.  
+**How it remains achieved:** A conditional population-level frequency change remains intelligible.  
+**Operative Centre:** Natural selection can make inherited traits more frequent when they improve reproductive success in the relevant environment.  
+**Diagnostic:** Removing “particular environment” makes reproductive advantage context-free.  
+**Reading status:** Written
+
+### A-124
+
+**Source ID:** A-124  
+**Original sentence:** Most plants use light energy to convert carbon dioxide and water into sugars during photosynthesis.  
+**What changed:** Photosynthetic sugar production is related to the use of light energy and reactants.  
+**What made it sufficient:** “Use light energy to convert” supplies the energy-driven transformation.  
+**How it remains achieved:** An account of sugar production from water and carbon dioxide remains.  
+**Operative Centre:** Most plants use light energy during photosynthesis to make sugars from carbon dioxide and water.  
+**Diagnostic:** Replacing “most” with “all” changes the scope of the biological generalisation.  
+**Reading status:** Written
+
+### A-125
+
+**Source ID:** A-125  
+**Original sentence:** Enzymes accelerate biochemical reactions without being permanently consumed by those reactions.  
+**What changed:** Biochemical acceleration is distinguished from permanent consumption of its agent.  
+**What made it sufficient:** “Without being permanently consumed” sets the persistence of enzymes alongside their catalytic role.  
+**How it remains achieved:** An effective but regenerable catalytic role remains established.  
+**Operative Centre:** Enzymes speed biochemical reactions while not being permanently used up by those reactions.  
+**Diagnostic:** Removing “without” converts a defining property into its opposite.  
+**Reading status:** Written
+
+### A-126
+
+**Source ID:** A-126  
+**Original sentence:** A cell membrane regulates the movement of substances between the cell and its surroundings.  
+**What changed:** A cell boundary becomes intelligible as controlling exchange with its environment.  
+**What made it sufficient:** “Regulates the movement” gives the membrane a selective transport role.  
+**How it remains achieved:** A controlled relation between internal and external substances remains established.  
+**Operative Centre:** The cell membrane regulates movement of substances between the cell and its surroundings.  
+**Diagnostic:** Replacing “regulates” with “prevents” changes controlled exchange to total exclusion.  
+**Reading status:** Written
+
+### A-127
+
+**Source ID:** A-127  
+**Original sentence:** Meiosis produces cells with half the chromosome number of the original diploid cell in typical sexual life cycles.  
+**What changed:** Meiosis is made intelligible through its characteristic reduction of chromosome number.  
+**What made it sufficient:** “Half the chromosome number” states the resulting relation to the original diploid cell.  
+**How it remains achieved:** A reduction to a haploid complement remains established within the specified typical life cycles.  
+**Operative Centre:** In typical sexual life cycles, meiosis produces cells with half the chromosome count of the original diploid cell.  
+**Diagnostic:** Removing “half” loses the defining quantitative change.  
+**Reading status:** Written
+
+### A-128
+
+**Source ID:** A-128  
+**Original sentence:** Mutations introduce changes into DNA sequences that can be passed to daughter cells.  
+**What changed:** Mutation becomes intelligible as sequence alteration with possible transmission.  
+**What made it sufficient:** “That can be passed” links DNA changes to their potential inheritance by daughter cells.  
+**How it remains achieved:** A possible line of cellular transmission remains established.  
+**Operative Centre:** Mutations change DNA sequences and those changes may be transmitted to daughter cells.  
+**Diagnostic:** Replacing “can” with “must” removes the contingency of transmission.  
+**Reading status:** Written
+
+### A-129
+
+**Source ID:** A-129  
+**Original sentence:** Many bacteria reproduce by dividing one cell into two daughter cells.  
+**What changed:** Bacterial reproduction is presented as division of one cell into two.  
+**What made it sufficient:** “By dividing ... into” makes the division the reproductive process.  
+**How it remains achieved:** Two daughter cells remain as the specified outcome.  
+**Operative Centre:** Many bacteria reproduce by dividing one parent cell into two daughter cells.  
+**Diagnostic:** Removing “many” makes the claim apply indiscriminately to all bacteria.  
+**Reading status:** Written
+
+### A-130
+
+**Source ID:** A-130  
+**Original sentence:** In multicellular organisms, specialized cells perform different functions through differences in gene expression.  
+**What changed:** Cell specialisation becomes intelligible through different patterns of gene expression.  
+**What made it sufficient:** “Through differences” relates functional diversity to expression in a multicellular organism.  
+**How it remains achieved:** A causal explanatory relation between expression and specialised roles remains.  
+**Operative Centre:** Specialised cells in multicellular organisms perform different functions through differences in gene expression.  
+**Diagnostic:** Removing “through differences in gene expression” loses the explanatory mechanism.  
+**Reading status:** Written
+
+### A-131
+
+**Source ID:** A-131  
+**Original sentence:** Earth orbits the Sun approximately once every year.  
+**What changed:** Earth's revolution is given an approximate temporal period.  
+**What made it sufficient:** “Approximately once every year” determines the orbital recurrence without asserting exact identity.  
+**How it remains achieved:** An approximate annual recurrence remains established.  
+**Operative Centre:** Earth completes approximately one orbit around the Sun each year.  
+**Diagnostic:** Replacing “approximately” with “exactly” strengthens the temporal assertion beyond its wording.  
+**Reading status:** Written
+
+### A-132
+
+**Source ID:** A-132  
+**Original sentence:** The Moon's changing phases result from the changing portion of its sunlit half visible from Earth.  
+**What changed:** Lunar phases are explained by changing Earth-visible portions of the Moon's sunlit hemisphere.  
+**What made it sufficient:** “Result from” specifies the varying visible illumination as explanatory.  
+**How it remains achieved:** A cause of the observed phase changes remains established.  
+**Operative Centre:** The changing fraction of the Moon's illuminated half visible from Earth explains its observed phases.  
+**Diagnostic:** Removing “visible from Earth” loses the observer-dependent geometry.  
+**Reading status:** Written
+
+### A-133
+
+**Source ID:** A-133  
+**Original sentence:** Stars produce much of their energy by fusing lighter atomic nuclei into heavier ones.  
+**What changed:** Stellar energy production becomes intelligible through fusion of lighter nuclei.  
+**What made it sufficient:** “By fusing” supplies the mechanism for much of the energy produced.  
+**How it remains achieved:** Nuclear fusion remains identified as a major energy source.  
+**Operative Centre:** Stars produce much of their energy through fusion of lighter atomic nuclei into heavier nuclei.  
+**Diagnostic:** Removing “much of” turns a major contributor into an exclusive source.  
+**Reading status:** Written
+
+### A-134
+
+**Source ID:** A-134  
+**Original sentence:** The Sun's gravity keeps the planets in bound orbits around it.  
+**What changed:** Planetary bound motion becomes intelligible through the Sun's gravitational attraction.  
+**What made it sufficient:** “Keeps ... in bound orbits” establishes gravity as the sustaining condition.  
+**How it remains achieved:** The orbital binding relation remains established.  
+**Operative Centre:** Solar gravity maintains the planets in gravitationally bound orbits around the Sun.  
+**Diagnostic:** Replacing “bound” with “unbound” reverses the governing condition.  
+**Reading status:** Written
+
+### A-135
+
+**Source ID:** A-135  
+**Original sentence:** Light from distant galaxies is generally redshifted as the universe expands.  
+**What changed:** Observed galaxy-light redshift becomes intelligible in connection with cosmic expansion.  
+**What made it sufficient:** “As the universe expands” relates the general redshift tendency to expansion.  
+**How it remains achieved:** An explanatory cosmological relation remains established.  
+**Operative Centre:** Light received from distant galaxies is generally redshifted in association with the expanding universe.  
+**Diagnostic:** Removing “generally” wrongly eliminates exceptions and qualifications.  
+**Reading status:** Written
+
+### A-136
+
+**Source ID:** A-136  
+**Original sentence:** A black hole has an event horizon beyond which light cannot escape to distant observers.  
+**What changed:** The black hole's horizon becomes intelligible as a boundary to light escaping outward to distant observers.  
+**What made it sufficient:** “Beyond which” establishes the limiting relation between location and escape.  
+**How it remains achieved:** A causal-geometric escape boundary remains established.  
+**Operative Centre:** A black hole's event horizon separates the region from which light cannot reach distant observers.  
+**Diagnostic:** Replacing “cannot escape” with “is dimmed” loses the decisive boundary.  
+**Reading status:** Written
+
+### A-137
+
+**Source ID:** A-137  
+**Original sentence:** The cosmic microwave background is radiation left over from an early hot phase of the universe.  
+**What changed:** Background microwave radiation becomes intelligible as a remnant of an earlier cosmic condition.  
+**What made it sufficient:** “Left over from” links present radiation to an early hot phase.  
+**How it remains achieved:** A persisting evidential remnant remains identified.  
+**Operative Centre:** The cosmic microwave background consists of radiation surviving from an early hot stage of the universe.  
+**Diagnostic:** Removing “left over from” loses the historical-origin relationship.  
+**Reading status:** Written
+
+### A-138
+
+**Source ID:** A-138  
+**Original sentence:** A planet transiting its star can cause a small, periodic decrease in the star's observed brightness.  
+**What changed:** A transiting planet becomes intelligible as producing a repeatable dimming signal from its star.  
+**What made it sufficient:** “Can cause ... periodic decrease” links transit geometry to an observable light curve change.  
+**How it remains achieved:** A possible recurring observation remains established.  
+**Operative Centre:** A planet crossing in front of its star may cause a small periodic reduction in the star's observed brightness.  
+**Diagnostic:** Removing “periodic” loses recurrence, while removing “can” overstates inevitability.  
+**Reading status:** Written
+
+
+
 ### Continuation
 
-The next sequential item is A-039. A-101–A-200 belong to Corpus B (Science); fairy tales and mathematical traversals will follow under their original source grouping. No unwritten item is represented as resolved.
+The next sequential item is A-139. A-101–A-200 belong to Corpus B (Science); fairy tales and mathematical traversals will follow under their original source grouping. No unwritten item is represented as resolved.
 
 ## Part II — Fairy tales
 
@@ -451,6 +1560,8 @@ The next sequential item is A-039. A-101–A-200 belong to Corpus B (Science); f
 *No written Centre entries yet. Claims and derivation steps will receive separate records in source order.*
 
 ## Revision log
+
+- 2026-11-07 — Merged the two reviewed in-chat working batches, A-039–A-138 (100 Centres).
 
 - 2026-11-07 — Added the next 25 source-faithful Centre readings, A-014–A-038; complete, contiguous record through A-038.
 
