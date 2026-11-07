@@ -3,9 +3,9 @@
   "asOf": "2026-11-07",
   "canonicalSource": "Project_54_Combined_Corpus_1_Onward.md",
   "writtenRecord": "OPERATIVE_CENTRES.md",
-  "lastContiguousSourceId": "A-138",
-  "nextSourceId": "A-139",
-  "writtenCentres": 138,
+  "lastContiguousSourceId": "A-163",
+  "nextSourceId": "A-164",
+  "writtenCentres": 163,
   "needsFurtherExamination": 0,
   "sourceItems": 7569,
   "status": "Written Centre readings; not blind structural classifications",
@@ -33,6 +33,12 @@
       "to": "A-138",
       "count": 50,
       "kind": "in-chat production merged after source check"
+    },
+    {
+      "from": "A-139",
+      "to": "A-163",
+      "count": 25,
+      "kind": "science and mathematics production, source verified"
     }
   ]
 }
