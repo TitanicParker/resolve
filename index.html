@@ -81,12 +81,58 @@ function parse(md){
  }
 }
 function parseCentres(markdown){
- // The intermediate Markdown is authoritative; source-text equality is required.
  writtenCentres.clear();
- const blocks=markdown.split(/^### (A-\\d{3})\\s*$/m);
+ const blocks=markdown.split(/^### (A-\d{3})\s*$/m);
  for(let i=1;i+1<blocks.length;i+=2){
-  const id=blocks[i],block=blocks[i+1];
-  const field=(label)=>{const safe=label.replace(/[.*+?^$\\{\\}()|[\\]\\]/g,'\\function view(name){');const match=block.match(new RegExp('^\\*\\*'+safe+':\\*\\* (.*)for(const id of ['home','catalogSection','readerSection','cardsSection'])$(id).classList.add('hidden');const map={home:'home',catalog:'catalogSection',reader:'readerSection',cards:'cardsSection'};$(map[name]).classList.remove('hidden');document.querySelectorAll('[data-view]').forEach(b=>b.setAttribute('aria-selected',String(b.dataset.view===name)));window.scrollTo(0,0);if(name==='cards')renderCard()}
+  const id=blocks[i], block=blocks[i+1];
+  const field=(label)=>{
+   const prefix='**'+label+':** ';
+   const line=block.split('\n').find(x=>x.startsWith(prefix));
+   return line?line.slice(prefix.length).trim():'';
+  };
+  const entry={id,original:field('Original sentence'),changed:field('What changed'),sufficient:field('What made it sufficient'),remains:field('How it remains achieved'),centre:field('Operative Centre'),diagnostic:field('Diagnostic'),status:field('Reading status')};
+  if(entry.original&&entry.centre&&entry.status==='Written')writtenCentres.set(id,entry);
+ }
+}
+function renderCentreBack(s){
+ const id=s.kind==='original'?'A-'+String(s.number).padStart(3,'0'):null;
+ const rec=id?writtenCentres.get(id):null;
+ const valid=!!rec&&rec.original===s.text;
+ $('centreFields').replaceChildren();
+ $('card').classList.toggle('recorded',valid);
+ $('centreFields').hidden=!valid;
+ $('backNote').hidden=valid;
+ if(!valid){
+  $('cardStatus').textContent=rec?'Needs further examination · source mismatch':'Reading awaiting completion';
+  $('backNote').textContent=rec?'The written record and canonical source differ. This card is withheld pending verification.':'This sentence has not yet received a written Operative Centre in the intermediate record.';
+  return;
+ }
+ $('cardStatus').textContent='Written · '+id;
+ const add=(title,value,css)=>{
+  const h=document.createElement('h4');h.textContent=title;
+  const p=document.createElement('p');p.textContent=value;
+  if(css)p.className=css;
+  $('centreFields').append(h,p);
+ };
+ add('Operative Centre',rec.centre,'centre-quote');
+ add('What changed?',rec.changed);
+ add('What made it sufficient?',rec.sufficient);
+ add('How does it remain achieved?',rec.remains);
+ add('Diagnostic',rec.diagnostic);
+}
+async function loadCentres(){
+ try{
+  const r=await fetch(CENTRES+'?v='+Date.now(),{cache:'no-cache'});
+  if(!r.ok)throw Error('HTTP '+r.status);
+  parseCentres(await r.text());
+  renderCard();
+ }catch(err){
+  console.warn('Written Centres unavailable',err);
+  $('cardStatus').textContent='Reading register unavailable';
+  $('backNote').textContent='The written record could not be loaded. Please revisit the canonical record directly.';
+ }
+}
+function view(name){for(const id of ['home','catalogSection','readerSection','cardsSection'])$(id).classList.add('hidden');const map={home:'home',catalog:'catalogSection',reader:'readerSection',cards:'cardsSection'};$(map[name]).classList.remove('hidden');document.querySelectorAll('[data-view]').forEach(b=>b.setAttribute('aria-selected',String(b.dataset.view===name)));window.scrollTo(0,0);if(name==='cards')renderCard()}
 function showCatalog(type){state.collection=type;const titles={original:'Original sentences',tales:'Fairy tales',math:'Mathematics'};$('catalogTitle').textContent=titles[type];$('catalogSearch').value='';renderCatalog();view('catalog')}
 function renderCatalog(){const q=$('catalogSearch').value.trim().toLowerCase(),type=state.collection;const rows=type==='tales'?state.tales:type==='math'?state.traversals:[{title:'Statements about the world',label:'1–100',segment:'A'},{title:'Science',label:'101–200',segment:'B'}];const filtered=rows.filter(r=>(r.title+' '+(r.number||'')+' '+(r.label||'')).toLowerCase().includes(q));$('catalog').innerHTML='';for(const x of filtered){const b=document.createElement('button');b.className='item';const title=document.createElement('b');title.textContent=x.title;b.append(title);const sub=document.createElement('span');sub.textContent=type==='tales'?x.sentences.length+' sentences':type==='math'?'Traversal '+String(x.number).padStart(3,'0')+' · '+x.steps.length+' steps':x.label;b.append(sub);b.onclick=()=>openReader(x,type);$('catalog').append(b)}if(!filtered.length)$('catalog').textContent='No matches found.'}
 function openReader(x,type){state.reading={x,type};$('readerCategory').textContent=type==='tales'?'Fairy tales':type==='math'?'Mathematics':'Original corpus';$('readerTitle').textContent=x.title;$('readerContent').innerHTML='';const root=$('readerContent');if(type==='math'){$('readerMeta').textContent='Traversal '+String(x.number).padStart(3,'0')+' · '+x.steps.length+' derivation steps';const lead=document.createElement('div');lead.className='label';lead.textContent='Claim';root.append(lead);const p=document.createElement('p');p.className='math-claim';p.textContent=x.claim;p.onclick=()=>openCard(x.cards[0]);p.style.cursor='pointer';root.append(p);const lab=document.createElement('div');lab.className='label';lab.textContent='Derivation';root.append(lab);const ol=document.createElement('ol');ol.className='steps';x.steps.forEach((st,i)=>{const li=document.createElement('li');li.textContent=st.text;li.onclick=()=>openCard(x.cards[i+1]);ol.append(li)});root.append(ol)}else{const ids=type==='tales'?x.sentences:state.sentences.map((s,i)=>({s,i})).filter(({s})=>s.kind==='original'&&s.parent===x.segment).map(({i})=>i);$('readerMeta').textContent=ids.length+' sentences · Tap any sentence to inspect its card';for(let i=0;i<ids.length;i+=8){const p=document.createElement('p');ids.slice(i,i+8).forEach(id=>{const span=document.createElement('span');span.className='inline-sentence';span.textContent=state.sentences[id].text+' ';span.title='Open sentence '+(id+1);span.onclick=()=>openCard(id);p.append(span)});root.append(p)}}view('reader')}
