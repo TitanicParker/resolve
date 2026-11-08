@@ -8,10 +8,10 @@
 
 ## Progress register
 
-- **Last contiguous source ID:** A-200 (original sentences); fairy tales through 383 (Cinderella 201–285; The Elves and the Shoemaker 286–339; Sleeping Beauty 340–383)
-- **Written Centres:** 383 (200 original-sentence Centres; 183 fairy-tale Centres)
+- **Last contiguous source ID:** A-200 (original sentences); fairy tales through 393 (Cinderella 201–285; The Elves and the Shoemaker 286–339; Sleeping Beauty 340–393)
+- **Written Centres:** 393 (200 original-sentence Centres; 193 fairy-tale Centres)
 - **Needs further examination:** 0
-- **Next:** Sleeping Beauty 384
+- **Next:** Sleeping Beauty 394
 - **Basis for A-001–A-013:** Accepted independent calibration, preserved in substance.
 - **Revision policy:** Substantive changes require a dated, ID-specific revision note; never silently rewrite prior Centres.
 - **Cards:** Resolve reads this Markdown record to populate examined reverse faces; all absent records remain awaiting completion.
@@ -2232,7 +2232,7 @@
 
 ### Continuation
 
-The original science corpus ends at A-200. The next sequential source item is 384 (Sleeping Beauty).; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
+The original science corpus ends at A-200. The next sequential source item is 394 (Sleeping Beauty).; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
 
 ## Part II — Fairy tales
 
@@ -4255,13 +4255,125 @@ The original science corpus ends at A-200. The next sequential source item is 38
 **Diagnostic:** Replace “heard the story” with “personally saw the sleeping princess.” The princes and princess remain, but mediated knowledge through a tale is replaced with direct observation.  
 **Reading status:** Written
 
-The next sequential fairy-tale sentence is 384 (Sleeping Beauty).
+### 384
+
+**Source ID:** 384  
+**Original sentence:** Some tried to pass through the thorns, but they could not enter.  
+**What changed:** A portion of the princes who had heard the story attempt to cross the hedge and fail to gain entry.  
+**What made it sufficient:** “Some” restricts those who try; “tried to pass” gives attempted action; “but they could not enter” directly opposes intention and result.  
+**How it remains achieved:** Certain princes attempt passage but are unable to enter. The sentence does not assert that all princes made the attempt or that no one will ever enter.  
+**Operative Centre:** The narrative establishment of unsuccessful attempts by some princes to enter through the thorn hedge.  
+**Diagnostic:** Replace “but they could not enter” with “and every one entered easily.” The attempts remain, but their governing failure is reversed.  
+**Reading status:** Written
+
+### 385
+
+**Source ID:** 385  
+**Original sentence:** At last, one hundred years had passed.  
+**What changed:** The century-long interval predicted for the princess's sleep becomes a completed span of elapsed time.  
+**What made it sufficient:** “At last” marks arrival after a long wait; “one hundred years had passed” asserts completion of the stated duration.  
+**How it remains achieved:** A hundred years have elapsed; the sentence does not yet state that anyone has awakened or that the hedge has opened.  
+**Operative Centre:** The narrative completion of the one hundred years named in the earlier prediction.  
+**Diagnostic:** Replace “one hundred years had passed” with “only one year had passed.” Time still elapses, but the prophesied duration has not been completed.  
+**Reading status:** Written
+
+### 386
+
+**Source ID:** 386  
+**Original sentence:** A young prince came riding through the forest.  
+**What changed:** A new young prince becomes present in the story through his horseback journey in the forest.  
+**What made it sufficient:** “A young prince” introduces the figure; “came riding” establishes the movement and its manner; “through the forest” locates the path.  
+**How it remains achieved:** The prince rides through the forest; the sentence does not say he has reached the castle or knows about it.  
+**Operative Centre:** The narrative introduction of a young prince riding through the forest after the elapsed century.  
+**Diagnostic:** Replace “came riding through the forest” with “remained inside his palace.” The prince remains, but the journey bringing him into the scene disappears.  
+**Reading status:** Written
+
+### 387
+
+**Source ID:** 387  
+**Original sentence:** He heard the old tale of the castle and the princess who slept within it.  
+**What changed:** The new prince becomes acquainted with the sleeping castle through hearing an existing story.  
+**What made it sufficient:** “He heard” establishes reception of a narrated account rather than direct observation; “the old tale” marks it as pre-existing; “the castle and the princess who slept within it” identifies its subject.  
+**How it remains achieved:** The prince has heard the tale of the castle and its sleeping princess; his belief in it, intentions and direct encounter are not yet established.  
+**Operative Centre:** The narrative acquisition by the prince of the old account of the castle and its sleeping princess through hearing it.  
+**Diagnostic:** Replace “heard the old tale” with “personally saw the princess.” Awareness remains, but mediated knowledge is replaced by firsthand observation.  
+**Reading status:** Written
+
+### 388
+
+**Source ID:** 388  
+**Original sentence:** He rode toward the hedge.  
+**What changed:** The prince's journey becomes directed toward the thorn barrier encircling the castle.  
+**What made it sufficient:** “Rode toward” establishes purposeful direction of movement, without saying he has reached or crossed the hedge; “the hedge” refers to the previously established barrier.  
+**How it remains achieved:** The prince approaches the hedge on horseback; passage, resistance or admission are not yet stated.  
+**Operative Centre:** The narrative direction of the prince's riding toward the thorn hedge.  
+**Diagnostic:** Replace “toward the hedge” with “away from the hedge.” Riding remains, but the approach to the barrier is reversed.  
+**Reading status:** Written
+
+### 389
+
+**Source ID:** 389  
+**Original sentence:** As he approached, the thorns opened before him.  
+**What changed:** The barrier yields during the prince's approach by opening a passage in front of him.  
+**What made it sufficient:** “As he approached” connects the opening temporally to his advance; “the thorns opened before him” states the change in the obstructing hedge.  
+**How it remains achieved:** The thorns open in front of the prince as he approaches. The sentence does not explicitly give the cause, say he cut them or state that he has entered the castle.  
+**Operative Centre:** The narrative opening of the thorn barrier before the approaching prince, in contrast to earlier failed passage.  
+**Diagnostic:** Replace “the thorns opened before him” with “the thorns closed more tightly before him.” His approach remains, but the barrier's yielding is reversed.  
+**Reading status:** Written
+
+### 390
+
+**Source ID:** 390  
+**Original sentence:** They became branches covered with flowers, and they made a path to the castle gate.  
+**What changed:** The thorns transform into flower-covered branches that form a route to the castle entrance.  
+**What made it sufficient:** “They became” makes the hedge's elements undergo a change of form; “covered with flowers” characterises the result; “made a path to the castle gate” gives its passage-enabling consequence.  
+**How it remains achieved:** Flowering branches form a path to the gate. The sentence does not yet say the prince has walked that path or entered the castle.  
+**Operative Centre:** The narrative transformation of the thorns into flowering branches that create a path to the castle gate.  
+**Diagnostic:** Replace “made a path to the castle gate” with “sealed every route to the gate.” The flowering branches remain possible, but their passage-enabling achievement disappears.  
+**Reading status:** Written
+
+### 391
+
+**Source ID:** 391  
+**Original sentence:** The prince entered the silent castle.  
+**What changed:** The prince's approach becomes actual entry into the castle now characterised by silence.  
+**What made it sufficient:** “Entered” marks accomplished passage beyond the gate; “silent castle” identifies the place and its continuing condition.  
+**How it remains achieved:** The prince is inside the silent castle; no awakening or encounter with the princess is yet narrated.  
+**Operative Centre:** The narrative accomplishment of the prince's entrance into the silent castle.  
+**Diagnostic:** Replace “entered” with “remained outside.” The silent castle remains, but entry is denied.  
+**Reading status:** Written
+
+### 392
+
+**Source ID:** 392  
+**Original sentence:** He passed sleeping guards, sleeping servants, sleeping horses, and sleeping hounds.  
+**What changed:** The prince travels through the castle past several specifically identified groups still asleep.  
+**What made it sufficient:** “Passed” establishes his movement beyond them; the repeated “sleeping” identifies their persistent state, and the list specifies guards, servants, horses and hounds.  
+**How it remains achieved:** The prince passes these sleepers without the sentence claiming they awaken or describing the princess's location.  
+**Operative Centre:** The narrative passage of the prince past the castle's still-sleeping guards, servants, horses and hounds.  
+**Diagnostic:** Replace “sleeping guards, sleeping servants, sleeping horses, and sleeping hounds” with “awake guards, busy servants, running horses, and barking hounds.” Passage remains, but the still-persistent enchantment of the listed groups disappears.  
+**Reading status:** Written
+
+### 393
+
+**Source ID:** 393  
+**Original sentence:** He climbed the tower stairs and opened the door of the little room.  
+**What changed:** The prince reaches the tower chamber through ascent and opens its door.  
+**What made it sufficient:** “Climbed the tower stairs” states upward movement to the relevant place; “opened the door of the little room” establishes access to the room but not what lies inside.  
+**How it remains achieved:** The prince has reached and opened the door of the little tower room; the princess's encounter and awakening are not yet narrated.  
+**Operative Centre:** The narrative culmination of the prince's ascent in opening the little room's door at the tower.  
+**Diagnostic:** Replace “opened the door” with “found the door locked and turned back.” The climb remains, but access to the room disappears.  
+**Reading status:** Written
+
+The next sequential fairy-tale sentence is 394 (Sleeping Beauty).
 
 ## Part III — Mathematical traversals
 
 *No written Centre entries yet. Claims and derivation steps will receive separate records in source order.*
 
 ## Revision log
+
+- 2026-11-08 — Published autonomous Batch 23, Sleeping Beauty 384–393 (10 written Centres), distinguishing unsuccessful approaches, the elapsed century, the opened passage and actual entry into the castle.
 
 - 2026-11-08 — Published autonomous Batch 22, Sleeping Beauty 374–383 (10 written Centres), preserving the distinct spread of sleep, the enchanted fire's stillness, the concealing hedge and the circulation of the princess's story.
 
