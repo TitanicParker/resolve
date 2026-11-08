@@ -102,21 +102,21 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of impersonal mutual usefulness as a governing means of urban growth.
 
-**X–Y transformation:** X returns to Y in a loop.
+**X–Y transformation:** X fills its role within system Y.
 
-**Ultra-short form:** Back into itself.
+**Ultra-short form:** In operation.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** Relating
+- **Transformation Pattern:** Integration
 - **Completion Topology:** Distributed
 - **Persistence Mode:** Efficacy
 
-**Canonical cell name:** 24 — Relational cycle
+**Canonical cell name:** 42 — Role activation
 
-**Resolution rationale:** Impersonal usefulness among strangers constitutes an operative relational field through which urban growth proceeds. Efficacy concerns the established growth-producing relation, not merely an abstract connection.
+**Resolution rationale:** The Centre says urban growth is achieved by making otherwise unintroduced strangers useful to one another. The operative achievement is coordinated contribution across an urban organisation, not a return loop; no feedback or cycling is asserted.
 
-**Closest rival:** 42 would require differentiated complementary roles within an integrated organisation; the Centre establishes mutual usefulness as the governing means, not a specified role array. The canonical name does not license inventing a literal feedback loop.
+**Closest rival:** 24 — Relational cycle would require an operative returning or self-propagating course; mutual usefulness alone does not establish one.
 
 ### A-006
 
@@ -324,17 +324,21 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The meeting of ancient light and newly awakened eyes in one present encounter, despite the difference in their temporal origins.
 
-**X–Y transformation:** X indicates absent Y.
+**X–Y transformation:** X and Y collapse into one interpretive frame.
 
-**Ultra-short form:** This here.
+**Ultra-short form:** Held as one.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** Differentiation
-- **Completion Topology:** Distributed
+- **Transformation Pattern:** Integration
+- **Completion Topology:** Focal
 - **Persistence Mode:** Bearing
 
-**Canonical cell name:** 05 — Context-bound mark
+**Canonical cell name:** 38 — Frame-held whole
+
+**Resolution rationale:** The Centre joins light from the distant past and newly awakened eyes in one present encounter. Unity is constituted through their common focal encounter, despite their different temporal origins; this is more than differentiation within a contextual field.
+
+**Closest rival:** 05 — Context-bound mark identifies context-dependent difference, but the Centre's achieved point is the encounter that holds the disparate contributions together.
 
 ### A-017
 
@@ -396,17 +400,21 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment that differently organised languages can nonetheless enable people to recognise comparable situations.
 
-**X–Y transformation:** X indicates absent Y.
+**X–Y transformation:** X shares deep pattern with Y.
 
-**Ultra-short form:** This here.
+**Ultra-short form:** This plays that role.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** Differentiation
-- **Completion Topology:** Distributed
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Release
 - **Persistence Mode:** Bearing
 
-**Canonical cell name:** 05 — Context-bound mark
+**Canonical cell name:** 26 — Role correspondence
+
+**Resolution rationale:** Differing linguistic organisations nevertheless enable recognition of comparable situations. Correspondence remains available through a recognisable role across changing linguistic embodiments rather than through a single context-bound mark.
+
+**Closest rival:** 05 — Context-bound mark would centre how a member is distinguished by its environment; here the common recognitional bearing survives differences in the carriers.
 
 ### A-021
 
@@ -450,17 +458,21 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of the possibility that a very small community can contain disagreements as complex as those in a capital.
 
-**X–Y transformation:** X changes in response to Y.
+**X–Y transformation:** X indicates absent Y.
 
-**Ultra-short form:** Each changes the other.
+**Ultra-short form:** This here.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** Relating
+- **Transformation Pattern:** Differentiation
 - **Completion Topology:** Distributed
 - **Persistence Mode:** Bearing
 
-**Canonical cell name:** 23 — Reciprocal shift
+**Canonical cell name:** 05 — Context-bound mark
+
+**Resolution rationale:** The Centre establishes a comparison between small-community and capital-city disagreements: intricate social differences remain possible within distinct community contexts. It establishes no reciprocal alteration between the village and the capital.
+
+**Closest rival:** 23 — Reciprocal shift requires constitutive mutual change; a statement of comparable intricacy is not reciprocal change.
 
 ### A-024
 
@@ -594,17 +606,21 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment that a judicial determination can endure beyond the physical scene in which it was pronounced.
 
-**X–Y transformation:** X leads sequentially to Y.
+**X–Y transformation:** X aligns structurally with Y.
 
-**Ultra-short form:** Then.
+**Ultra-short form:** The same arrangement.
 
 **Triaxial coordinates:**
 
 - **Transformation Pattern:** Relating
-- **Completion Topology:** Distributed
+- **Completion Topology:** Release
 - **Persistence Mode:** Standing
 
-**Canonical cell name:** 22 — Sequential link
+**Canonical cell name:** 25 — Pattern alignment
+
+**Resolution rationale:** The Centre establishes a judicial determination remaining intelligible and operative beyond the room of its original utterance. What remains identifiable is the same determination across changed physical carriers or occasions, not a sequence of linked events.
+
+**Closest rival:** 22 — Sequential link would establish an order of events; mere endurance beyond the original scene does not make sequential relation the governing achievement.
 
 ### A-032
 
@@ -612,17 +628,21 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment that a fixed mountain can be approached differently by every climber.
 
-**X–Y transformation:** X is constrained to the specific Y.
+**X–Y transformation:** X reaches Y by different path Z.
 
-**Ultra-short form:** Within this.
+**Ultra-short form:** Another way through.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** Differentiation
+- **Transformation Pattern:** Opening
 - **Completion Topology:** Distributed
 - **Persistence Mode:** Standing
 
-**Canonical cell name:** 04 — Scope standing
+**Canonical cell name:** 13 — Alternate passage
+
+**Resolution rationale:** Against the mountain's fixed position, each climber discovers a different avenue of approach. The achieved point is a field of possible approaches, not a differentiated scope in its own right.
+
+**Closest rival:** 04 — Scope standing specifies a determinate field of differences, but the Centre foregrounds alternate passages of access to the same mountain.
 
 ### A-033
 
@@ -648,17 +668,21 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of an open door as a single sign admitting several distinct possible meanings.
 
-**X–Y transformation:** X is constrained to the specific Y.
+**X–Y transformation:** X reaches Y by different path Z.
 
-**Ultra-short form:** Within this.
+**Ultra-short form:** Another way through.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** Differentiation
+- **Transformation Pattern:** Opening
 - **Completion Topology:** Distributed
 - **Persistence Mode:** Standing
 
-**Canonical cell name:** 04 — Scope standing
+**Canonical cell name:** 13 — Alternate passage
+
+**Resolution rationale:** One open door admits several distinct possible interpretations: welcome, escape, opportunity or obligation. The achieved multiplicity is a range of available interpretive passages, not merely a field whose members have been distinguished.
+
+**Closest rival:** 04 — Scope standing would emphasise articulated differences as the result; the Centre expressly makes several alternative meanings available from one sign.
 
 ### A-035
 
@@ -702,17 +726,21 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of city water pipes as an uncelebrated shared condition enabling millions of private morning routines.
 
-**X–Y transformation:** X mirrors Y.
+**X–Y transformation:** X is spread as field Y.
 
-**Ultra-short form:** Answered.
+**Ultra-short form:** Available throughout.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** Relating
-- **Completion Topology:** Focal
+- **Transformation Pattern:** Opening
+- **Completion Topology:** Distributed
 - **Persistence Mode:** Efficacy
 
-**Canonical cell name:** 21 — Responsive return
+**Canonical cell name:** 15 — Field distribution
+
+**Resolution rationale:** A citywide pipe network makes private routines possible at millions of points without direct recognition. The opening is effective throughout a distributed span; a single responding focal locus is not constitutive of the result.
+
+**Closest rival:** 21 — Responsive return would consummate a relation at a particular responsive locus, while the Centre emphasises enabled routines across an extensive city network.
 
 ### A-038
 
@@ -738,17 +766,21 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The well's provision of water and organisation of meetings are presented as equally integral to its former role in the village.
 
-**X–Y transformation:** X mirrors Y.
+**X–Y transformation:** X and Y interlock to form system Z.
 
-**Ultra-short form:** Answered.
+**Ultra-short form:** Together able.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** Relating
+- **Transformation Pattern:** Integration
 - **Completion Topology:** Focal
 - **Persistence Mode:** Efficacy
 
-**Canonical cell name:** 21 — Responsive return
+**Canonical cell name:** 39 — Joint capacity
+
+**Resolution rationale:** The well's water-supplying and meeting-organising roles form one practical village capacity at a shared focal resource. The Centre establishes jointly available functions, not a relation ending in an isolated response.
+
+**Closest rival:** 21 — Responsive return would require a particular relation consummated through response; neither water provision nor social gathering is presented as that kind of response.
 
 ### A-040
 
@@ -900,17 +932,21 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** A song can retain its identifiable form across generations while gathering different associations in each new context.
 
-**X–Y transformation:** X indicates absent Y.
+**X–Y transformation:** X aligns structurally with Y.
 
-**Ultra-short form:** This here.
+**Ultra-short form:** The same arrangement.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** Differentiation
-- **Completion Topology:** Distributed
-- **Persistence Mode:** Bearing
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Release
+- **Persistence Mode:** Standing
 
-**Canonical cell name:** 05 — Context-bound mark
+**Canonical cell name:** 25 — Pattern alignment
+
+**Resolution rationale:** The Centre expressly preserves the song's identifiable form across changing generations and associations. Relational arrangement stands across variation in its carriers or contexts.
+
+**Closest rival:** 05 — Context-bound mark would make contextual differentiation itself the achievement; the Centre also requires the same retained song-form despite those differences.
 
 ### A-049
 
@@ -936,17 +972,21 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The sentence makes a treaty more than paper only when people organise their conduct around the promises it contains.
 
-**X–Y transformation:** X mirrors Y.
+**X–Y transformation:** X fills its role within system Y.
 
-**Ultra-short form:** Answered.
+**Ultra-short form:** In operation.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** Relating
-- **Completion Topology:** Focal
+- **Transformation Pattern:** Integration
+- **Completion Topology:** Distributed
 - **Persistence Mode:** Efficacy
 
-**Canonical cell name:** 21 — Responsive return
+**Canonical cell name:** 42 — Role activation
+
+**Resolution rationale:** The Centre makes the treaty operative only when different people organise their conduct through its promises. The achieved effect is coordinated performance under a common organisation, not a focal response by a single recipient.
+
+**Closest rival:** 21 — Responsive return would focus one responding locus; the Centre concerns collectively activated conduct.
 
 ### A-051
 
@@ -1026,17 +1066,21 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** A compass supplies north as orientation without determining where travellers ought to go.
 
-**X–Y transformation:** X is constrained to the specific Y.
+**X–Y transformation:** X is classified as one of Y₁ / Y₂.
 
-**Ultra-short form:** Within this.
+**Ultra-short form:** This, not that.
 
 **Triaxial coordinates:**
 
 - **Transformation Pattern:** Differentiation
-- **Completion Topology:** Distributed
-- **Persistence Mode:** Standing
+- **Completion Topology:** Focal
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** 04 — Scope standing
+**Canonical cell name:** 02 — Binary bearing
+
+**Resolution rationale:** The Centre sets the compass's determinate provision of north against a separate, still-open choice of destination. The distinction is established through the bearing between orientation and practical decision, not as a plurality of differentiated cases.
+
+**Closest rival:** 04 — Scope standing would require an articulated field of differences; the Centre instead marks the particular boundary between orienting and deciding.
 
 ### A-056
 
@@ -1098,17 +1142,21 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The number of unfinished conversations is presented as greater than the capacity of any archive to preserve them.
 
-**X–Y transformation:** X changes in response to Y.
+**X–Y transformation:** X indicates absent Y.
 
-**Ultra-short form:** Each changes the other.
+**Ultra-short form:** This here.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** Relating
+- **Transformation Pattern:** Differentiation
 - **Completion Topology:** Distributed
 - **Persistence Mode:** Bearing
 
-**Canonical cell name:** 23 — Reciprocal shift
+**Canonical cell name:** 05 — Context-bound mark
+
+**Resolution rationale:** The Centre determines the scale of unfinished human conversations through comparison with what archival capacity can hold. The distinction arises in the comparative field between conversations and archives; neither side is said to alter the other.
+
+**Closest rival:** 23 — Reciprocal shift would require reciprocal constitutive change, absent from this simple asymmetry of quantity and archival capacity.
 
 ### A-060
 
@@ -3649,6 +3697,23 @@ This is a working research document, not a claim that any of the 200 sentences h
 - **Persistence Mode:** Bearing
 
 **Canonical cell name:** 23 — Reciprocal shift
+
+## Independent Structural Audit
+
+**Date:** 2026-11-08  
+**Scope:** A-001–A-060 independently examined against the exact recorded Operative Centres, Appendix A, Appendix B and the controlling 54-cell definitions. **Partial audit; A-061–A-200 are not yet independently audited by this pass.**  
+**Examined:** 60  
+**Assignments retained after examination:** 47  
+**Assignments corrected:** 13  
+**Marked REVIEW REQUIRED:** 0
+
+**Corrected records (old → new):** A-005: 24 → 42; A-016: 05 → 38; A-020: 05 → 26; A-023: 23 → 05; A-031: 22 → 25; A-032: 04 → 13; A-034: 04 → 13; A-037: 21 → 15; A-039: 21 → 39; A-048: 05 → 25; A-050: 21 → 42; A-055: 04 → 02; A-059: 23 → 05.
+
+**Method:** Each inspected assignment was tested against the source-faithful Centre. Changed assignments now carry an ID-specific rationale and an explicit rejected rival. Unchanged assignments were examined, not simply counted as verified by their presence. This is an editorial structural judgement, not a blind derivation or proof of unique classification.
+
+**Continuing work:** Audit A-061 onward. Further examination may revisit previously retained or corrected assignments if a decisive structural comparison warrants an ID-specific revision.
+
+---
 
 ## Appendix A — The 54 Canonical Cells: X–Y Expressions and Structural Characterisations
 
