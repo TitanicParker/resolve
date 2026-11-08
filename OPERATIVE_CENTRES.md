@@ -11,7 +11,7 @@
 - **Last contiguous source ID:** A-200 (original sentences); Cinderella 283 (fairy tales)
 - **Written Centres:** 283 (200 original-sentence Centres; 83 fairy-tale Centres)
 - **Needs further examination:** 0
-- **Next:** Source sentence 284 (verify next fairy-tale grouping)
+- **Next:** Cinderella 284–285, followed by The Elves and the Shoemaker 286
 - **Basis for A-001–A-013:** Accepted independent calibration, preserved in substance.
 - **Revision policy:** Substantive changes require a dated, ID-specific revision note; never silently rewrite prior Centres.
 - **Cards:** Resolve reads this Markdown record to populate examined reverse faces; all absent records remain awaiting completion.
@@ -2232,7 +2232,7 @@
 
 ### Continuation
 
-The original science corpus ends at A-200. The next sequential source item is 284 (verify grouping); fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
+The original science corpus ends at A-200. The next sequential source item is Cinderella 284; the next tale, The Elves and the Shoemaker, starts at 286.; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
 
 ## Part II — Fairy tales
 
@@ -3151,7 +3151,7 @@ The original science corpus ends at A-200. The next sequential source item is 28
 **Diagnostic:** Remove “where she married the prince.” The trip remains, but the marriage that completes this sentence's achievement disappears.  
 **Reading status:** Written
 
-The next sequential fairy-tale sentence is 284.
+The next sequential fairy-tale sentence is Cinderella 284; the next tale starts at 286.
 
 ## Part III — Mathematical traversals
 
