@@ -8,10 +8,10 @@
 
 ## Progress register
 
-- **Last contiguous source ID:** A-200 (original sentences); fairy tales through 313 (Cinderella 201–285; The Elves and the Shoemaker 286–313)
-- **Written Centres:** 313 (200 original-sentence Centres; 113 fairy-tale Centres)
+- **Last contiguous source ID:** A-200 (original sentences); fairy tales through 323 (Cinderella 201–285; The Elves and the Shoemaker 286–323)
+- **Written Centres:** 323 (200 original-sentence Centres; 123 fairy-tale Centres)
 - **Needs further examination:** 0
-- **Next:** The Elves and the Shoemaker 314
+- **Next:** The Elves and the Shoemaker 324
 - **Basis for A-001–A-013:** Accepted independent calibration, preserved in substance.
 - **Revision policy:** Substantive changes require a dated, ID-specific revision note; never silently rewrite prior Centres.
 - **Cards:** Resolve reads this Markdown record to populate examined reverse faces; all absent records remain awaiting completion.
@@ -2232,7 +2232,7 @@
 
 ### Continuation
 
-The original science corpus ends at A-200. The next sequential source item is 314 (The Elves and the Shoemaker).; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
+The original science corpus ends at A-200. The next sequential source item is 324 (The Elves and the Shoemaker).; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
 
 ## Part II — Fairy tales
 
@@ -3483,13 +3483,125 @@ The original science corpus ends at A-200. The next sequential source item is 31
 **Diagnostic:** Replace “agreed” with “refused.” The proposal remains contextual, but shared assent is reversed.  
 **Reading status:** Written
 
-The next sequential fairy-tale sentence is 314 (The Elves and the Shoemaker).
+### 314
+
+**Source ID:** 314  
+**Original sentence:** That night, they hid behind a curtain in the workshop and waited.  
+**What changed:** The shoemaker and his wife put their joint intention to discover the helper into practice by concealing themselves in the workshop and waiting.  
+**What made it sufficient:** “That night” locates the action; “they hid behind a curtain” specifies concealment; “in the workshop and waited” establishes a watch directed toward an event not yet disclosed.  
+**How it remains achieved:** They are hidden and waiting in the workshop; the sentence does not establish that they see anyone or succeed in identifying the helper.  
+**Operative Centre:** The narrative enactment of the couple's investigation through hiding behind a workshop curtain and waiting that night.  
+**Diagnostic:** Replace “hid behind a curtain ... and waited” with “left the workshop unattended.” The planned watch becomes absence, removing the means of observation.  
+**Reading status:** Written
+
+### 315
+
+**Source ID:** 315  
+**Original sentence:** At midnight, two tiny elves came into the room.  
+**What changed:** The previously unidentified nocturnal visitors are now introduced as two tiny elves entering the room at midnight.  
+**What made it sufficient:** “At midnight” specifies the time; “two tiny elves” identifies the visitors and their number; “came into the room” establishes actual entrance.  
+**How it remains achieved:** Two elves enter at midnight; the sentence itself does not yet identify them as the makers of the shoes or describe what they do.  
+**Operative Centre:** The narrative introduction of two tiny elves entering the workshop at midnight.  
+**Diagnostic:** Replace “two tiny elves came into the room” with “the room remained empty.” The time survives, but the arrival of the previously unseen visitors disappears.  
+**Reading status:** Written
+
+### 316
+
+**Source ID:** 316  
+**Original sentence:** They wore old, ragged clothes, and they had no shoes upon their feet.  
+**What changed:** The elves' appearance becomes determinate through worn clothing and bare feet.  
+**What made it sufficient:** “Old, ragged clothes” specifies the poor condition of their garments; “no shoes upon their feet” establishes absence of footwear.  
+**How it remains achieved:** The two elves are described as raggedly dressed and barefoot; the sentence does not assert why they are in that condition.  
+**Operative Centre:** The establishment of the elves' ragged clothing and lack of shoes as features of their appearance.  
+**Diagnostic:** Replace “had no shoes upon their feet” with “wore fine new boots.” Ragged clothing remains, but barefoot need disappears.  
+**Reading status:** Written
+
+### 317
+
+**Source ID:** 317  
+**Original sentence:** They climbed onto the workbench and began to sew.  
+**What changed:** The elves move to the workbench and initiate sewing.  
+**What made it sufficient:** “Climbed onto” specifies the movement onto the work surface; “began to sew” identifies the onset of shoemaking action rather than its completion.  
+**How it remains achieved:** The elves have started sewing on the workbench; the sentence does not state that any pair is yet finished.  
+**Operative Centre:** The narrative establishment of the elves' entry into work through climbing onto the bench and beginning to sew.  
+**Diagnostic:** Replace “began to sew” with “sat without touching the leather.” Presence remains, but the commencement of work disappears.  
+**Reading status:** Written
+
+### 318
+
+**Source ID:** 318  
+**Original sentence:** Their little hands moved swiftly.  
+**What changed:** The elves' manual activity is characterised by rapid movement.  
+**What made it sufficient:** “Their little hands” identifies the bodily means and small scale; “moved swiftly” supplies the manner of movement.  
+**How it remains achieved:** Their hands move rapidly; the sentence does not specify each particular task or its completion.  
+**Operative Centre:** The narrative establishment of the swift movement of the elves' small hands as they work.  
+**Diagnostic:** Replace “swiftly” with “slowly.” Movement remains, but the governing character of speed changes.  
+**Reading status:** Written
+
+### 319
+
+**Source ID:** 319  
+**Original sentence:** They stitched, tapped, shaped, and polished.  
+**What changed:** The elves' work becomes concrete as a coordinated sequence of four distinct shoemaking actions.  
+**What made it sufficient:** The four verbs state stitching, tapping, shaping and polishing; their conjunction specifies the range of work performed without establishing exact timing for each.  
+**How it remains achieved:** The elves perform these four actions; the sentence alone does not declare every pair complete.  
+**Operative Centre:** The narrative specification of the elves' workmanship through stitching, tapping, shaping and polishing.  
+**Diagnostic:** Replace “and polished” with “and abandoned the work.” The fourth step becomes cessation rather than a finishing action, changing the account of their labour.  
+**Reading status:** Written
+
+### 320
+
+**Source ID:** 320  
+**Original sentence:** Before morning, every pair of shoes was finished.  
+**What changed:** The elves' night work reaches complete production before morning.  
+**What made it sufficient:** “Before morning” fixes the deadline met; “every pair” establishes universal completion of the relevant pairs; “was finished” asserts the result.  
+**How it remains achieved:** Every pair of shoes in the night's work is finished before morning; the sentence does not establish how many pairs that is or who later buys them.  
+**Operative Centre:** The narrative establishment that all pairs of shoes in the night's work were completed before morning.  
+**Diagnostic:** Replace “every pair of shoes was finished” with “one pair remained unfinished.” The before-morning time remains, but total completion disappears.  
+**Reading status:** Written
+
+### 321
+
+**Source ID:** 321  
+**Original sentence:** Then the elves slipped away.  
+**What changed:** The elves depart unobtrusively after finishing their work.  
+**What made it sufficient:** “Then” orders the departure after completion; “slipped away” characterises the manner as quiet or unobtrusive.  
+**How it remains achieved:** The elves have departed; the sentence does not state where they go or whether they will return.  
+**Operative Centre:** The narrative departure of the elves in a discreet manner after completing the shoes.  
+**Diagnostic:** Replace “slipped away” with “stayed at the workbench.” The temporal setting remains, but departure disappears.  
+**Reading status:** Written
+
+### 322
+
+**Source ID:** 322  
+**Original sentence:** The shoemaker and his wife were deeply grateful.  
+**What changed:** The couple's response to the observed help is established as intense gratitude.  
+**What made it sufficient:** “The shoemaker and his wife” includes both characters; “deeply grateful” attributes a strong shared feeling.  
+**How it remains achieved:** Both are very grateful; the sentence does not yet specify what they do to express or repay that gratitude.  
+**Operative Centre:** The narrative establishment of profound gratitude felt by both the shoemaker and his wife.  
+**Diagnostic:** Replace “deeply grateful” with “completely indifferent.” Both subjects remain but their appreciative response is reversed.  
+**Reading status:** Written
+
+### 323
+
+**Source ID:** 323  
+**Original sentence:** The wife said, “Those poor little elves have helped us so much.”  
+**What changed:** The wife explicitly acknowledges the magnitude of the elves' help and characterises them sympathetically as poor and little.  
+**What made it sufficient:** “The wife said” attributes the evaluation to her; “Those poor little elves” identifies its objects and sympathetic description; “have helped us so much” stresses the assistance's extent.  
+**How it remains achieved:** She states gratitude and concern for the elves; the sentence does not yet narrate any gift or decision to repay them.  
+**Operative Centre:** The narrative establishment of the wife's spoken recognition of the elves' considerable help alongside her sympathetic description of them as poor.  
+**Diagnostic:** Replace “have helped us so much” with “have never helped us.” Her speech would no longer acknowledge the substantial aid that governs her response.  
+**Reading status:** Written
+
+The next sequential fairy-tale sentence is 324 (The Elves and the Shoemaker).
 
 ## Part III — Mathematical traversals
 
 *No written Centre entries yet. Claims and derivation steps will receive separate records in source order.*
 
 ## Revision log
+
+- 2026-11-08 — Published autonomous Batch 16, The Elves and the Shoemaker 314–323, preserving the distinction between watching, identifying visitors, seeing their work and expressing gratitude.
 
 - 2026-11-08 — Published autonomous Batch 15, The Elves and the Shoemaker 304–313 (10 written Centres), preserving recurrence, prosperity and the still-unresolved identity of the helper.
 
