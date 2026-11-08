@@ -1856,17 +1856,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** An object continues at constant velocity in a straight line unless acted upon by a net external force.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X always implies Y under valid conditions.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Settled if.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Settlement
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 50 — Condition-bound settlement
 
 ### A-102
 
@@ -1874,17 +1874,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** For constant mass, an object's acceleration equals its net force divided by that mass.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X always implies Y under valid conditions.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Settled if.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Settlement
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 50 — Condition-bound settlement
 
 ### A-103
 
@@ -1892,17 +1892,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** When one object exerts a force on another, the second exerts an equal-magnitude, opposite-direction force on the first.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X changes in response to Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Each changes the other.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 23 — Reciprocal shift
 
 ### A-104
 
@@ -1910,17 +1910,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The gravitational attraction between two point masses falls according to the inverse square of their separation.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X changes in response to Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Each changes the other.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 23 — Reciprocal shift
 
 ### A-105
 
@@ -1928,17 +1928,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** An isolated system retains the same total energy even as energy changes between forms.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X aligns structurally with Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** The same arrangement.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Release
+- **Persistence Mode:** Standing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 25 — Pattern alignment
 
 ### A-106
 
@@ -1946,17 +1946,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** Light travels at a lower speed in ordinary glass than it does in a vacuum.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X varies toward Y along a continuum.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** More and less.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Differentiation
+- **Completion Topology:** Release
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 08 — Graded contrast
 
 ### A-107
 
@@ -1964,17 +1964,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** An airborne sound wave propagates through successive compressions and rarefactions of the air.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X leads sequentially to Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Then.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Standing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 22 — Sequential link
 
 ### A-108
 
@@ -1982,17 +1982,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** Raising a metal rod's temperature generally causes its length or size to increase.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X mirrors Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Answered.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Focal
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 21 — Responsive return
 
 ### A-109
 
@@ -2000,17 +2000,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** A moving charge experiences magnetic force when part of its motion is perpendicular to the magnetic field.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X always implies Y under valid conditions.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Settled if.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Settlement
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 50 — Condition-bound settlement
 
 ### A-110
 
@@ -2018,17 +2018,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** For a fixed amount of gas at constant temperature, decreasing volume increases pressure.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X changes in response to Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Each changes the other.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 23 — Reciprocal shift
 
 ### A-111
 
@@ -2036,17 +2036,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** At chemical equilibrium, forward and reverse reactions continue at the same rate.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X and Y oscillate into stability.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Tension that holds.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Integration
+- **Completion Topology:** Release
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 44 — Sustained equilibrium
 
 ### A-112
 
@@ -2054,17 +2054,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** Adding reactant may shift an equilibrium mixture toward products if other relevant conditions remain fixed.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X changes in response to Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Each changes the other.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 23 — Reciprocal shift
 
 ### A-113
 
@@ -2072,17 +2072,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** In a Brønsted–Lowry reaction, the acid donates a proton and the base receives it.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X changes in response to Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Each changes the other.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 23 — Reciprocal shift
 
 ### A-114
 
@@ -2090,17 +2090,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** Nearby water molecules can form hydrogen bonds with one another.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X and Y support one another’s constraints.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Held through each other.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Integration
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 41 — Mutual-support structure
 
 ### A-115
 
@@ -2108,17 +2108,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** Sodium chloride dissolves when its constituent ions separate and become surrounded by water molecules.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X changes in response to Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Each changes the other.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 23 — Reciprocal shift
 
 ### A-116
 
@@ -2126,17 +2126,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** A catalyst accelerates a reaction by making a lower-activation-energy pathway available.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X reaches Y by different path Z.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Another way through.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Opening
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Standing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 13 — Alternate passage
 
 ### A-117
 
@@ -2144,17 +2144,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** As hydrogen ion activity rises in an aqueous solution, its pH falls.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X varies toward Y along a continuum.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** More and less.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Differentiation
+- **Completion Topology:** Release
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 08 — Graded contrast
 
 ### A-118
 
@@ -2162,17 +2162,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** Carbon can make stable chains because carbon atoms form strong covalent bonds with each other.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X and Y support one another’s constraints.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Held through each other.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Integration
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 41 — Mutual-support structure
 
 ### A-119
 
@@ -2180,17 +2180,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** A chemical species undergoes oxidation when it loses electrons.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X is simply placed as Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** This.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Differentiation
+- **Completion Topology:** Focal
+- **Persistence Mode:** Standing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 01 — Focal mark
 
 ### A-120
 
@@ -2198,17 +2198,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** At constant pressure, a pure substance boils when its vapour pressure equals the surrounding pressure.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X always implies Y under valid conditions.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Settled if.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Settlement
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 50 — Condition-bound settlement
 
 ### A-121
 
@@ -2216,17 +2216,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** Ribosomes assemble amino acids into proteins in an order directed by messenger RNA sequences.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X fills its role within system Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** In operation.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Integration
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 42 — Role activation
 
 ### A-122
 
@@ -2234,17 +2234,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** A newly replicated DNA double helix normally pairs a parental strand with a newly made strand.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X aligns within structural matrix Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Each in its place.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Integration
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Standing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 40 — Role array
 
 ### A-123
 
@@ -2252,17 +2252,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** Natural selection can make inherited traits more frequent when they improve reproductive success in the relevant environment.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X returns to Y in a loop.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Back into itself.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 24 — Relational cycle
 
 ### A-124
 
@@ -2270,17 +2270,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** Most plants use light energy during photosynthesis to make sugars from carbon dioxide and water.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X fills its role within system Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** In operation.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Integration
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 42 — Role activation
 
 ### A-125
 
@@ -2288,17 +2288,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** Enzymes speed biochemical reactions while not being permanently used up by those reactions.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X and Y interlock to form system Z.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Together able.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Integration
+- **Completion Topology:** Focal
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 39 — Joint capacity
 
 ### A-126
 
@@ -2306,17 +2306,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The cell membrane regulates movement of substances between the cell and its surroundings.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X is separated from Y by a boundary.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** This far.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Differentiation
+- **Completion Topology:** Focal
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 03 — Boundary act
 
 ### A-127
 
@@ -2324,17 +2324,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** In typical sexual life cycles, meiosis produces cells with half the chromosome count of the original diploid cell.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X fills its role within system Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** In operation.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Integration
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 42 — Role activation
 
 ### A-128
 
@@ -2342,17 +2342,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** Mutations change DNA sequences and those changes may be transmitted to daughter cells.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X mirrors Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Answered.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Focal
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 21 — Responsive return
 
 ### A-129
 
@@ -2360,17 +2360,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** Many bacteria reproduce by dividing one parent cell into two daughter cells.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X branches into multiple Y’s.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** More ways open.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Opening
+- **Completion Topology:** Focal
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 12 — Branching output
 
 ### A-130
 
@@ -2378,17 +2378,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** Specialised cells in multicellular organisms perform different functions through differences in gene expression.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X aligns within structural matrix Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Each in its place.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Integration
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Standing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 40 — Role array
 
 ### A-131
 
@@ -2396,17 +2396,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** Earth completes approximately one orbit around the Sun each year.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X regularly leads to Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** It returns.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Settlement
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Standing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 49 — Recurrence settlement
 
 ### A-132
 
@@ -2414,17 +2414,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The changing fraction of the Moon's illuminated half visible from Earth explains its observed phases.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X changes in response to Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Each changes the other.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 23 — Reciprocal shift
 
 ### A-133
 
@@ -2432,17 +2432,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** Stars produce much of their energy through fusion of lighter atomic nuclei into heavier nuclei.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X and Y interlock to form system Z.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Together able.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Integration
+- **Completion Topology:** Focal
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 39 — Joint capacity
 
 ### A-134
 
@@ -2450,17 +2450,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** Solar gravity maintains the planets in gravitationally bound orbits around the Sun.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X and Y support one another’s constraints.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Held through each other.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Integration
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 41 — Mutual-support structure
 
 ### A-135
 
@@ -2468,17 +2468,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** Light received from distant galaxies is generally redshifted in association with the expanding universe.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X changes in response to Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Each changes the other.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 23 — Reciprocal shift
 
 ### A-136
 
@@ -2486,17 +2486,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** A black hole's event horizon separates the region from which light cannot reach distant observers.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X is separated from Y by a boundary.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** This far.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Differentiation
+- **Completion Topology:** Focal
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 03 — Boundary act
 
 ### A-137
 
@@ -2504,17 +2504,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The cosmic microwave background consists of radiation surviving from an early hot stage of the universe.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X aligns structurally with Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** The same arrangement.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Release
+- **Persistence Mode:** Standing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 25 — Pattern alignment
 
 ### A-138
 
@@ -2522,17 +2522,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** A planet crossing in front of its star may cause a small periodic reduction in the star's observed brightness.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X mirrors Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Answered.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Focal
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 21 — Responsive return
 
 ### A-139
 
@@ -2540,17 +2540,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** Earth's seasons are primarily caused by the tilt of its rotational axis relative to its orbit.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X changes in response to Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Each changes the other.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 23 — Reciprocal shift
 
 ### A-140
 
@@ -2558,17 +2558,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** A star's apparent brightness is determined jointly by its luminosity and its distance from the observer.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X changes in response to Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Each changes the other.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 23 — Reciprocal shift
 
 ### A-141
 
@@ -2576,17 +2576,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** Tectonic plates undergo slow motion relative to other plates across Earth's surface.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X changes in response to Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Each changes the other.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 23 — Reciprocal shift
 
 ### A-142
 
@@ -2594,17 +2594,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** Earthquakes occur through sudden release of elastic strain stored along faults.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X mirrors Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Answered.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Focal
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 21 — Responsive return
 
 ### A-143
 
@@ -2612,17 +2612,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** Igneous rock forms through cooling and solidification of molten rock.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X mirrors Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Answered.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Focal
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 21 — Responsive return
 
 ### A-144
 
@@ -2630,17 +2630,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** Sedimentary layers often retain evidence of the environments in which their constituent sediments accumulated.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X indicates absent Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** This here.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Differentiation
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 05 — Context-bound mark
 
 ### A-145
 
@@ -2648,17 +2648,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** Water's expansion on freezing enables ice to widen existing cracks in rocks.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X mirrors Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Answered.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Focal
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 21 — Responsive return
 
 ### A-146
 
@@ -2666,17 +2666,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** Volcanoes can develop where one tectonic plate subducts beneath another.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X mirrors Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Answered.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Focal
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 21 — Responsive return
 
 ### A-147
 
@@ -2684,17 +2684,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** Earth's magnetic field is generated chiefly by movement of electrically conducting liquid iron in the outer core.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X fills its role within system Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** In operation.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Integration
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 42 — Role activation
 
 ### A-148
 
@@ -2702,17 +2702,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** Rivers carry sediment downstream when flowing water applies sufficient force to mobilise particles.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X always implies Y under valid conditions.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Settled if.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Settlement
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 50 — Condition-bound settlement
 
 ### A-149
 
@@ -2720,17 +2720,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** Metamorphic rocks form when existing rock is changed by heat, pressure or active fluids without completely melting.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X mirrors Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Answered.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Focal
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 21 — Responsive return
 
 ### A-150
 
@@ -2738,17 +2738,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The age of certain rocks can be estimated from the measured ratio of radioactive parent isotopes to their decay products.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X balances with Y around pivot Z.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Held in counterbalance.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Focal
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 20 — Pivoted balance
 
 ### A-151
 
@@ -2756,17 +2756,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** Plants capture sunlight-derived energy that can pass along food webs through consumption.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X returns to Y in a loop.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Back into itself.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 24 — Relational cycle
 
 ### A-152
 
@@ -2774,17 +2774,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** Decomposers transfer nutrients from dead organisms back into soil and water.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X returns to Y in a loop.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Back into itself.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 24 — Relational cycle
 
 ### A-153
 
@@ -2792,17 +2792,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** A predator population may decrease when its main prey becomes scarce.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X changes in response to Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Each changes the other.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 23 — Reciprocal shift
 
 ### A-154
 
@@ -2810,17 +2810,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** Increasing atmospheric carbon dioxide strengthens Earth's greenhouse effect when other relevant factors are unchanged.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X mirrors Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Answered.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Focal
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 21 — Responsive return
 
 ### A-155
 
@@ -2828,17 +2828,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** Excess nitrogen and phosphorus entering a lake may stimulate algal blooms.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X mirrors Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Answered.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Focal
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 21 — Responsive return
 
 ### A-156
 
@@ -2846,17 +2846,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** Habitat fragmentation may isolate wildlife populations and restrict movement among them.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X differs from Y only within scope S.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** These among these.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Differentiation
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 06 — Field separation
 
 ### A-157
 
@@ -2864,17 +2864,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** Pollinators move pollen between flowers, thereby enabling reproduction in many flowering plants.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X fills its role within system Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** In operation.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Integration
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 42 — Role activation
 
 ### A-158
 
@@ -2882,17 +2882,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** An invasive species may reduce native populations by competing with them for limited resources.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X changes in response to Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Each changes the other.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 23 — Reciprocal shift
 
 ### A-159
 
@@ -2900,17 +2900,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** Wetlands may lessen downstream flooding by retaining water during heavy rainfall.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X mirrors Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Answered.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Focal
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 21 — Responsive return
 
 ### A-160
 
@@ -2918,17 +2918,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** As seawater absorbs additional atmospheric carbon dioxide, its pH decreases, constituting ocean acidification.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X changes in response to Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Each changes the other.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 23 — Reciprocal shift
 
 ### A-161
 
@@ -2936,17 +2936,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** In a right triangle, the hypotenuse length squared equals the sum of the squares of the other two side lengths.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X always implies Y under valid conditions.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Settled if.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Settlement
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 50 — Condition-bound settlement
 
 ### A-162
 
@@ -2954,17 +2954,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** Every triangle in the Euclidean plane has interior angles summing to 180 degrees.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X aligns structurally with Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** The same arrangement.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Release
+- **Persistence Mode:** Standing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 25 — Pattern alignment
 
 ### A-163
 
@@ -2972,17 +2972,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** Any nonzero number multiplied by its reciprocal equals one.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X always implies Y under valid conditions.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Settled if.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Settlement
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 50 — Condition-bound settlement
 
 ### A-164
 
@@ -2990,17 +2990,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of differentiation as determining a differentiable function's rate of change at an instant, rather than merely over an interval.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X balances with Y around pivot Z.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Held in counterbalance.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Focal
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 20 — Pivoted balance
 
 ### A-165
 
@@ -3008,17 +3008,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of an exact equality between the definite integral of a nonnegative continuous function and the geometric area beneath its graph over the same interval.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X always implies Y under valid conditions.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Settled if.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Settlement
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 50 — Condition-bound settlement
 
 ### A-166
 
@@ -3026,17 +3026,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The determination of the arithmetic mean by distributing the total numerical sum equally across the count of values.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X aligns within structural matrix Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Each in its place.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Integration
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Standing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 40 — Role array
 
 ### A-167
 
@@ -3044,17 +3044,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of the median through its central separating relationship to the lower and upper halves of an ordered numerical dataset.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X is constrained to the specific Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Within this.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Differentiation
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Standing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 04 — Scope standing
 
 ### A-168
 
@@ -3062,17 +3062,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of independence as the condition under which joint occurrence has a probability equal to the product of the events' individual probabilities.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X always implies Y under valid conditions.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Settled if.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Settlement
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 50 — Condition-bound settlement
 
 ### A-169
 
@@ -3080,17 +3080,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of increased random sample size as generally reducing the sampling variability of the mean when observations are independent and have finite variance.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X changes in response to Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Each changes the other.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 23 — Reciprocal shift
 
 ### A-170
 
@@ -3098,17 +3098,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of the inferential insufficiency of correlation alone to demonstrate causation in either direction between two variables.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X is separated from Y by a boundary.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** This far.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Differentiation
+- **Completion Topology:** Focal
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 03 — Boundary act
 
 ### A-171
 
@@ -3116,17 +3116,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of chemical neurotransmitter release as a means by which neurons communicate across many synapses.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X mirrors Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Answered.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Focal
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 21 — Responsive return
 
 ### A-172
 
@@ -3134,17 +3134,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of a sufficient membrane-voltage threshold as the condition under which a neuron can generate an action potential.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X is separated from Y by a boundary.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** This far.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Differentiation
+- **Completion Topology:** Focal
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 03 — Boundary act
 
 ### A-173
 
@@ -3152,17 +3152,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of myelin as an enhancer of electrical signal conduction speed along many nerve fibres.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X mirrors Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Answered.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Focal
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 21 — Responsive return
 
 ### A-174
 
@@ -3170,17 +3170,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of the hippocampus as an important contributor to the formation of many new episodic memories.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X balances with Y around pivot Z.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Held in counterbalance.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Focal
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 20 — Pivoted balance
 
 ### A-175
 
@@ -3188,17 +3188,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of the optic nerve as the pathway carrying retina-originating visual signals toward the brain.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X affects distant Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Reachable across.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Opening
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 14 — Span-carried reach
 
 ### A-176
 
@@ -3206,17 +3206,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of neural-processing change as a means through which repeated practice can improve motor-skill performance.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X mirrors Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Answered.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Focal
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 21 — Responsive return
 
 ### A-177
 
@@ -3224,17 +3224,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of attention's capacity to favour selected information through improved processing alongside reduced processing of other information.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X differs from Y only within scope S.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** These among these.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Differentiation
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 06 — Field separation
 
 ### A-178
 
@@ -3242,17 +3242,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of sleep as a supporting condition for the consolidation of some forms of memory.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X balances with Y around pivot Z.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Held in counterbalance.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Focal
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 20 — Pivoted balance
 
 ### A-179
 
@@ -3260,17 +3260,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of multisensory information combination as a means by which the brain estimates properties of its environment.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X and Y interlock to form system Z.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Together able.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Integration
+- **Completion Topology:** Focal
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 39 — Joint capacity
 
 ### A-180
 
@@ -3278,17 +3278,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment that damage to particular brain regions can produce selective cognitive impairment, with some functions affected while others remain relatively intact.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X differs from Y only within scope S.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** These among these.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Differentiation
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 06 — Field separation
 
 ### A-181
 
@@ -3296,17 +3296,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of the heart's pumping function as driving blood through both the lungs and the rest of the body.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X fills its role within system Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** In operation.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Integration
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 42 — Role activation
 
 ### A-182
 
@@ -3314,17 +3314,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of insulin as a facilitator of glucose uptake from the blood by many body cells.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X mirrors Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Answered.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Focal
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 21 — Responsive return
 
 ### A-183
 
@@ -3332,17 +3332,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of kidney function as combining blood filtration with regulation of the excretion of water and dissolved substances.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X fills its role within system Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** In operation.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Integration
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 42 — Role activation
 
 ### A-184
 
@@ -3350,17 +3350,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of vaccination as capable of preparing the immune system for a more effective response to subsequent infection by a targeted pathogen.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X and Y interlock to form system Z.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Together able.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Integration
+- **Completion Topology:** Focal
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 39 — Joint capacity
 
 ### A-185
 
@@ -3368,17 +3368,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of haemoglobin within red blood cells as the predominant carrier of oxygen transported in human blood.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X balances with Y around pivot Z.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Held in counterbalance.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Focal
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 20 — Pivoted balance
 
 ### A-186
 
@@ -3386,17 +3386,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of diaphragm contraction as a contributing means of chest-cavity expansion and air intake during inhalation.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X mirrors Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Answered.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Focal
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 21 — Responsive return
 
 ### A-187
 
@@ -3404,17 +3404,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of an immune-signal-driven rise in the body's temperature set point during infection as a condition under which fever can occur.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X always implies Y under valid conditions.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Settled if.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Settlement
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 50 — Condition-bound settlement
 
 ### A-188
 
@@ -3422,17 +3422,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment that antibiotics directed against bacteria do not themselves directly kill viruses.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X is separated from Y by a boundary.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** This far.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Differentiation
+- **Completion Topology:** Focal
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 03 — Boundary act
 
 ### A-189
 
@@ -3440,17 +3440,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of hepatic conversion of ammonia arising from amino acid metabolism into urea as a transformation directed toward excretion.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X mirrors Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Answered.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Focal
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 21 — Responsive return
 
 ### A-190
 
@@ -3458,17 +3458,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of regular aerobic exercise as capable of enhancing the heart's capacity to deliver oxygenated blood during physical activity.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X and Y interlock to form system Z.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Together able.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Integration
+- **Completion Topology:** Focal
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 39 — Joint capacity
 
 ### A-191
 
@@ -3476,17 +3476,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of a binary digit as a representation restricted to one of exactly two possible values.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X is classified as one of Y₁ / Y₂.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** This, not that.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Differentiation
+- **Completion Topology:** Focal
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 02 — Binary bearing
 
 ### A-192
 
@@ -3494,17 +3494,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of specified instructions as governing the operations on data followed by a computer program.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X typically produces Y across cases.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Settled across the cases.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Settlement
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 51 — Case settlement
 
 ### A-193
 
@@ -3512,17 +3512,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of a specified ordering rule as the governing condition of the arrangement produced by a sorting algorithm.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X always implies Y under valid conditions.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Settled if.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Settlement
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 50 — Condition-bound settlement
 
 ### A-194
 
@@ -3530,17 +3530,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of repeated elimination of half the remaining search interval as the means by which binary search can locate a target in a sorted array.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X typically produces Y across cases.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Settled across the cases.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Settlement
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 51 — Case settlement
 
 ### A-195
 
@@ -3548,17 +3548,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of encryption as a transformation that makes recovery of the original readable information dependent on an appropriate key.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X always implies Y under valid conditions.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Settled if.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Settlement
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 50 — Condition-bound settlement
 
 ### A-196
 
@@ -3566,17 +3566,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of a checksum's limited capacity to detect some accidental alterations in transmitted data.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X is separated from Y by a boundary.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** This far.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Differentiation
+- **Completion Topology:** Focal
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 03 — Boundary act
 
 ### A-197
 
@@ -3584,17 +3584,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of a reduced-bit representation that preserves the ability to reconstruct the original data exactly.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X aligns structurally with Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** The same arrangement.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Release
+- **Persistence Mode:** Standing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 25 — Pattern alignment
 
 ### A-198
 
@@ -3602,17 +3602,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of structured record location without exhaustive scanning as a means by which a database index can accelerate searches.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X mirrors Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Answered.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Focal
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 21 — Responsive return
 
 ### A-199
 
@@ -3620,17 +3620,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of successive router forwarding toward a destination address as a means by which a network packet can reach its destination.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X leads sequentially to Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Then.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Standing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 22 — Sequential link
 
 ### A-200
 
@@ -3638,17 +3638,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of the probabilities of a random variable's possible outcomes as determining its measure of average uncertainty through Shannon entropy.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X changes in response to Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Each changes the other.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 23 — Reciprocal shift
 
 ## Appendix A — The 54 Canonical Cells: X–Y Expressions and Structural Characterisations
 
