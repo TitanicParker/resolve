@@ -8,10 +8,10 @@
 
 ## Progress register
 
-- **Last contiguous source ID:** A-200 (original sentences); Cinderella 273 (fairy tales)
-- **Written Centres:** 273 (200 original-sentence Centres; 73 fairy-tale Centres)
+- **Last contiguous source ID:** A-200 (original sentences); Cinderella 283 (fairy tales)
+- **Written Centres:** 283 (200 original-sentence Centres; 83 fairy-tale Centres)
 - **Needs further examination:** 0
-- **Next:** Cinderella 274
+- **Next:** Source sentence 284 (verify next fairy-tale grouping)
 - **Basis for A-001–A-013:** Accepted independent calibration, preserved in substance.
 - **Revision policy:** Substantive changes require a dated, ID-specific revision note; never silently rewrite prior Centres.
 - **Cards:** Resolve reads this Markdown record to populate examined reverse faces; all absent records remain awaiting completion.
@@ -2232,7 +2232,7 @@
 
 ### Continuation
 
-The original science corpus ends at A-200. The next sequential source item is Cinderella 274; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
+The original science corpus ends at A-200. The next sequential source item is 284 (verify grouping); fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
 
 ## Part II — Fairy tales
 
@@ -3041,13 +3041,125 @@ The original science corpus ends at A-200. The next sequential source item is Ci
 **Diagnostic:** Replace “placed her foot inside the slipper” with “looked at the slipper from a distance.” The prospect of a trial remains, but the physical attempt disappears.  
 **Reading status:** Written
 
-The next sequential fairy-tale sentence is 274.
+### 274
+
+**Source ID:** 274  
+**Original sentence:** It fitted perfectly.  
+**What changed:** The slipper trial reaches a definite successful result: the slipper fits Cinderella exactly.  
+**What made it sufficient:** “It” refers to the glass slipper placed on Cinderella's foot in the preceding sentence; “fitted perfectly” determines the outcome rather than merely recording an attempt.  
+**How it remains achieved:** An exact fit is now established; the sentence alone does not announce a marriage or the messenger's next action.  
+**Operative Centre:** The narrative determination that the glass slipper fits Cinderella perfectly.  
+**Diagnostic:** Replace “fitted perfectly” with “was too small.” The attempted wearing remains contextual, but success becomes failure.  
+**Reading status:** Written
+
+### 275
+
+**Source ID:** 275  
+**Original sentence:** Then she drew the other glass slipper from her pocket and placed it on her other foot.  
+**What changed:** Cinderella reveals possession of the matching slipper and puts it on her other foot after the first has fitted.  
+**What made it sufficient:** “Then” establishes the order; “the other glass slipper” identifies the counterpart; “from her pocket” locates its prior possession; “placed it on her other foot” states the new action.  
+**How it remains achieved:** Both slippers are now present on her feet through the described action; no explicit judgement of how the second fits is added.  
+**Operative Centre:** The narrative revelation and placement of Cinderella's matching glass slipper from her pocket onto her other foot.  
+**Diagnostic:** Replace “drew the other glass slipper from her pocket” with “borrowed an unrelated shoe.” The action remains footwear-related, but the revealed matching slipper and prior possession disappear.  
+**Reading status:** Written
+
+### 276
+
+**Source ID:** 276  
+**Original sentence:** At that moment, her fairy godmother appeared again.  
+**What changed:** The fairy godmother returns at the particular moment after Cinderella's slipper demonstration.  
+**What made it sufficient:** “At that moment” makes her arrival simultaneous with the preceding scene; “appeared again” marks reappearance rather than first introduction.  
+**How it remains achieved:** The fairy godmother is present again at that moment; the sentence does not yet say what she does.  
+**Operative Centre:** The narrative reappearance of Cinderella's fairy godmother at the moment of the slipper revelation.  
+**Diagnostic:** Replace “appeared again” with “remained absent.” The timing remains, but renewed presence is lost.  
+**Reading status:** Written
+
+### 277
+
+**Source ID:** 277  
+**Original sentence:** She touched Cinderella with her wand, and Cinderella’s beautiful gown returned.  
+**What changed:** The fairy godmother's wand-touch restores Cinderella's beautiful gown.  
+**What made it sufficient:** “Touched Cinderella with her wand” identifies the initiating act; “and ... gown returned” explicitly establishes restoration to an earlier enchanted appearance.  
+**How it remains achieved:** Cinderella's beautiful gown is restored; the sentence does not say that every earlier magical transformation also returns.  
+**Operative Centre:** The narrative restoration of Cinderella's beautiful gown through the fairy godmother's wand-touch.  
+**Diagnostic:** Replace “gown returned” with “dress remained unchanged.” The wand-touch remains but restoration disappears.  
+**Reading status:** Written
+
+### 278
+
+**Source ID:** 278  
+**Original sentence:** The stepsisters stared in silence.  
+**What changed:** The stepsisters' response becomes a silent, sustained gaze rather than speech or action.  
+**What made it sufficient:** “Stared” establishes concentrated looking; “in silence” gives the manner and absence of speech.  
+**How it remains achieved:** They stare without speaking; the sentence does not specify shock, remorse, jealousy or other motive.  
+**Operative Centre:** The narrative establishment of the stepsisters' silent staring in response to Cinderella's restored appearance.  
+**Diagnostic:** Replace “stared in silence” with “spoke excitedly.” The response becomes speech rather than silent looking.  
+**Reading status:** Written
+
+### 279
+
+**Source ID:** 279  
+**Original sentence:** They knew then that Cinderella was the mysterious lady from the ball.  
+**What changed:** The stepsisters' earlier failure to identify the ball's mysterious lady is resolved through recognition that she was Cinderella.  
+**What made it sufficient:** “Knew then” establishes an achieved recognition at this moment; “Cinderella was the mysterious lady from the ball” specifies the identity recognised.  
+**How it remains achieved:** The stepsisters now identify Cinderella as the lady from the ball; the sentence does not specify their feelings about this discovery.  
+**Operative Centre:** The narrative resolution of the stepsisters' earlier nonrecognition through their discovery that Cinderella was the mysterious lady at the ball.  
+**Diagnostic:** Replace “knew then” with “continued not to recognise.” The earlier uncertainty would persist rather than be resolved.  
+**Reading status:** Written
+
+### 280
+
+**Source ID:** 280  
+**Original sentence:** The prince was told the news, and he came to Cinderella’s house.  
+**What changed:** News of the discovery reaches the prince, followed by his arrival at Cinderella's house.  
+**What made it sufficient:** “Was told the news” establishes communication to the prince; “and he came to Cinderella's house” establishes his consequent narrated movement without explicitly naming his motive.  
+**How it remains achieved:** The prince has received the news and come to the house; the sentence does not yet report what he says to Cinderella.  
+**Operative Centre:** The narrative connection of the prince's receipt of the news with his coming to Cinderella's house.  
+**Diagnostic:** Replace “and he came to Cinderella's house” with “but he stayed at the palace.” The news is still received, but the stated arrival disappears.  
+**Reading status:** Written
+
+### 281
+
+**Source ID:** 281  
+**Original sentence:** He was overjoyed to find her again.  
+**What changed:** The prince's reunion with Cinderella is established as bringing him exceptional joy.  
+**What made it sufficient:** “Overjoyed” specifies the intensity of feeling; “to find her again” links that joy to renewed encounter rather than a first meeting.  
+**How it remains achieved:** The prince is exceedingly happy to have found Cinderella again; the sentence does not yet narrate a proposal or wedding.  
+**Operative Centre:** The narrative establishment of the prince's great joy at finding Cinderella again.  
+**Diagnostic:** Replace “overjoyed” with “unmoved.” Reunion remains but its emotional achievement is lost.  
+**Reading status:** Written
+
+### 282
+
+**Source ID:** 282  
+**Original sentence:** Cinderella forgave her stepsisters, because her heart was gentle and generous.  
+**What changed:** Cinderella's forgiveness becomes intelligible through the tenderness and generosity of her disposition.  
+**What made it sufficient:** “Forgave her stepsisters” states the act; “because” explicitly presents her gentle and generous heart as the reason for it.  
+**How it remains achieved:** Cinderella has forgiven her stepsisters, explained by her character; the sentence does not specify an apology, reconciliation terms or later household arrangements.  
+**Operative Centre:** The establishment of Cinderella's gentle and generous disposition as the stated reason she forgave her stepsisters.  
+**Diagnostic:** Replace “because” with “although.” The forgiveness would remain, but the explicit grounding of the act in her character would disappear.  
+**Reading status:** Written
+
+### 283
+
+**Source ID:** 283  
+**Original sentence:** Then she went to the palace, where she married the prince.  
+**What changed:** Cinderella's journey to the palace leads to marriage with the prince at that location.  
+**What made it sufficient:** “Then” gives sequence; “went to the palace” establishes the movement; “where she married the prince” states the culminating event and its location.  
+**How it remains achieved:** Cinderella has gone to the palace and married the prince; the sentence does not assert subsequent happiness, descendants or any further events.  
+**Operative Centre:** The narrative culmination of Cinderella's movement to the palace in her marriage to the prince there.  
+**Diagnostic:** Remove “where she married the prince.” The trip remains, but the marriage that completes this sentence's achievement disappears.  
+**Reading status:** Written
+
+The next sequential fairy-tale sentence is 284.
 
 ## Part III — Mathematical traversals
 
 *No written Centre entries yet. Claims and derivation steps will receive separate records in source order.*
 
 ## Revision log
+
+- 2026-11-08 — Published autonomous Batch 12, Cinderella 274–283 (10 written Centres), recording fit, recognition, forgiveness and marriage without anticipation.
 
 - 2026-11-08 — Published autonomous Batch 11, Cinderella 264–273 (10 written Centres), preserving the exceptional slipper, announced criterion, failed trials and permission to try.
 
