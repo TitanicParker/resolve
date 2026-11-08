@@ -8,10 +8,10 @@
 
 ## Progress register
 
-- **Last contiguous source ID:** A-200 (original sentences); Cinderella 223 (fairy tales)
-- **Written Centres:** 223 (200 original-sentence Centres; 23 fairy-tale Centres)
+- **Last contiguous source ID:** A-200 (original sentences); Cinderella 233 (fairy tales)
+- **Written Centres:** 233 (200 original-sentence Centres; 33 fairy-tale Centres)
 - **Needs further examination:** 0
-- **Next:** Cinderella 224
+- **Next:** Cinderella 234
 - **Basis for A-001–A-013:** Accepted independent calibration, preserved in substance.
 - **Revision policy:** Substantive changes require a dated, ID-specific revision note; never silently rewrite prior Centres.
 - **Cards:** Resolve reads this Markdown record to populate examined reverse faces; all absent records remain awaiting completion.
@@ -2232,7 +2232,7 @@
 
 ### Continuation
 
-The original science corpus ends at A-200. The next sequential source item is Cinderella 224; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
+The original science corpus ends at A-200. The next sequential source item is Cinderella 234; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
 
 ## Part II — Fairy tales
 
@@ -2491,13 +2491,125 @@ The original science corpus ends at A-200. The next sequential source item is Ci
 **Diagnostic:** Replace “the work was done” with “the work was only beginning.” The house might still be clean, but the decisive completion of her labour would disappear.  
 **Reading status:** Written
 
-The next sequential fairy-tale sentence is 224.
+### 224
+
+**Source ID:** 224  
+**Original sentence:** Then the stepsisters laughed at her.  
+**What changed:** The stepsisters' response to Cinderella becomes established as laughter following completion of her work.  
+**What made it sufficient:** “Then” connects the laughter temporally to the preceding completed work; “laughed at her” makes Cinderella the object of their laughter.  
+**How it remains achieved:** They laugh at Cinderella at this narrative point; the sentence does not explicitly supply their spoken words or an independent motive.  
+**Operative Centre:** The narrative establishment of the stepsisters' laughter directed at Cinderella immediately after her work was completed.  
+**Diagnostic:** Replace “laughed at her” with “congratulated her.” The timing remains, but mockery or derisive laughter directed at Cinderella is no longer the stated response.  
+**Reading status:** Written
+
+### 225
+
+**Source ID:** 225  
+**Original sentence:** “You cannot go to the ball dressed like that,” they said.  
+**What changed:** The stepsisters' spoken objection becomes intelligible as denying Cinderella's attendance in her present clothing.  
+**What made it sufficient:** “Cannot go” expresses their prohibition or assertion of impossibility; “dressed like that” makes the clothing the stated ground; “they said” attributes it to the stepsisters.  
+**How it remains achieved:** The stepsisters deny that Cinderella can attend dressed as she is; the sentence does not establish that their pronouncement is an enforceable law or that attendance is impossible in all circumstances.  
+**Operative Centre:** The establishment of the stepsisters' stated exclusion of Cinderella from the ball on the grounds of her present dress.  
+**Diagnostic:** Replace “dressed like that” with “because the ball was cancelled.” The stated objection would concern the event's cancellation rather than Cinderella's clothing, changing the achievement.  
+**Reading status:** Written
+
+### 226
+
+**Source ID:** 226  
+**Original sentence:** They climbed into their carriage with their mother and rode away to the palace.  
+**What changed:** The stepsisters and their mother become established as departing together in a carriage for the palace.  
+**What made it sufficient:** “Climbed into their carriage with their mother” specifies the companions and vehicle; “rode away to the palace” establishes the departure and destination.  
+**How it remains achieved:** The group departs for the palace; the sentence does not establish that they have arrived or describe Cinderella's position.  
+**Operative Centre:** The narrative departure of the stepsisters and their mother together by carriage toward the palace.  
+**Diagnostic:** Replace “rode away to the palace” with “remained at the house.” The same people and carriage may still be mentioned, but the departure toward the palace is lost.  
+**Reading status:** Written
+
+### 227
+
+**Source ID:** 227  
+**Original sentence:** Cinderella stood alone in the kitchen.  
+**What changed:** Cinderella's situation becomes intelligible as solitary presence in the kitchen after the others' departure.  
+**What made it sufficient:** “Stood alone” establishes her immediate isolation; “in the kitchen” locates it.  
+**How it remains achieved:** She stands alone in the kitchen at this moment; the sentence does not establish how long she stays or what she feels.  
+**Operative Centre:** The narrative establishment of Cinderella's solitary presence in the kitchen.  
+**Diagnostic:** Replace “alone” with “beside her stepsisters.” The kitchen setting remains, but her solitude is removed.  
+**Reading status:** Written
+
+### 228
+
+**Source ID:** 228  
+**Original sentence:** Her eyes filled with tears, and she sat beside the hearth.  
+**What changed:** Cinderella's emotional response becomes visible through tears together with her movement to sit by the hearth.  
+**What made it sufficient:** “Eyes filled with tears” narrates an outward sign of distress; “and she sat beside the hearth” adds the action and location.  
+**How it remains achieved:** She is tearful and sits beside the hearth; the sentence does not state that she speaks, falls asleep or receives assistance.  
+**Operative Centre:** The narrative establishment of Cinderella's tearful distress as she sits beside the hearth.  
+**Diagnostic:** Replace “eyes filled with tears” with “eyes shone with laughter.” Sitting by the hearth remains, but the expressed distress disappears.  
+**Reading status:** Written
+
+### 229
+
+**Source ID:** 229  
+**Original sentence:** Then a soft light shone in the room.  
+**What changed:** A new luminous occurrence enters the room following Cinderella's distress.  
+**What made it sufficient:** “Then” orders it after the preceding scene; “a soft light shone in the room” establishes the appearance and gentle quality of the light without naming its cause.  
+**How it remains achieved:** A soft light is shining in the room; the sentence does not yet disclose where it came from or whether it is magical.  
+**Operative Centre:** The narrative arrival of a soft light in the room after Cinderella's tearful moment.  
+**Diagnostic:** Replace “a soft light shone in the room” with “the room remained dark.” The temporal continuation remains, but the new luminous occurrence disappears.  
+**Reading status:** Written
+
+### 230
+
+**Source ID:** 230  
+**Original sentence:** An old woman stood before her, dressed in a silver cloak and carrying a wand.  
+**What changed:** An unfamiliar old woman is introduced as present before Cinderella, visibly distinguished by a silver cloak and wand.  
+**What made it sufficient:** “Stood before her” establishes her immediate presence relative to Cinderella; the clothing and wand supply the specific description.  
+**How it remains achieved:** The old woman is present before Cinderella with the named objects; her identity and intentions are not yet stated by this sentence.  
+**Operative Centre:** The narrative introduction of an old woman before Cinderella, identified in appearance by a silver cloak and a wand.  
+**Diagnostic:** Replace “stood before her” with “was remembered from long ago.” The descriptive details remain possible, but the woman's immediate physical presence before Cinderella disappears.  
+**Reading status:** Written
+
+### 231
+
+**Source ID:** 231  
+**Original sentence:** “I am your fairy godmother,” said the old woman.  
+**What changed:** The old woman identifies herself to Cinderella as her fairy godmother through direct speech.  
+**What made it sufficient:** “I am your fairy godmother” supplies the claimed identity and relationship; “said the old woman” attributes the declaration to the newly arrived figure.  
+**How it remains achieved:** Her self-identification is established as speech; the sentence does not yet narrate a demonstration of her powers.  
+**Operative Centre:** The narrative establishment of the old woman's self-identification as Cinderella's fairy godmother.  
+**Diagnostic:** Replace “I am your fairy godmother” with “I am a stranger passing through.” The speaker remains, but the claimed role and relationship are lost.  
+**Reading status:** Written
+
+### 232
+
+**Source ID:** 232  
+**Original sentence:** “You shall go to the ball.”  
+**What changed:** Cinderella's attendance becomes the subject of a firm future assurance in the woman's speech.  
+**What made it sufficient:** “Shall go” expresses a positive prospective assurance, directly reversing the stepsisters' earlier denial; “to the ball” fixes the anticipated destination.  
+**How it remains achieved:** Cinderella is told she will go; the sentence does not yet narrate her departure, arrival or means of attendance.  
+**Operative Centre:** The establishment of a spoken assurance that Cinderella will attend the ball, countering the earlier assertion that she cannot go.  
+**Diagnostic:** Replace “shall go” with “might not go.” The confident assurance becomes uncertainty or possible exclusion, altering the speech's achievement.  
+**Reading status:** Written
+
+### 233
+
+**Source ID:** 233  
+**Original sentence:** Cinderella looked at her in wonder.  
+**What changed:** Cinderella's response to the woman becomes established as a look marked by wonder.  
+**What made it sufficient:** “Looked at her” identifies the action and addressee in context; “in wonder” determines the quality of Cinderella's response.  
+**How it remains achieved:** Cinderella looks at the woman with wonder; the sentence does not say what she believes, asks or does next.  
+**Operative Centre:** The narrative establishment of Cinderella's wondering gaze toward the woman who has assured her of attending the ball.  
+**Diagnostic:** Replace “in wonder” with “without interest.” The look remains, but its characteristic response of wonder disappears.  
+**Reading status:** Written
+
+The next sequential fairy-tale sentence is 234.
 
 ## Part III — Mathematical traversals
 
 *No written Centre entries yet. Claims and derivation steps will receive separate records in source order.*
 
 ## Revision log
+
+- 2026-11-08 — Published autonomous Batch 7, Cinderella 224–233 (10 written Centres), distinguishing exclusion, solitude, appearance, self-identification and future assurance.
 
 - 2026-11-08 — Published autonomous Batch 6, Cinderella 214–223 (10 written Centres), preserving the royal invitation, conditional permission, work sequence and its completion.
 
