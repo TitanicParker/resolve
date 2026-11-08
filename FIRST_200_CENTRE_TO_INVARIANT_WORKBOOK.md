@@ -14,17 +14,21 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of a temporal precedence through which the mountain villages' earlier encounter with the morning sun becomes intelligible in relation to the valleys' delayed warmth.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X changes in response to Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Each changes the other.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 23 — Reciprocal shift
+
+**Resolution rationale:** The substantial temporal lead is constituted across the two different arrivals: village sunlight is earlier relative to valley warmth. The distinction depends on this comparative field rather than a single arrival.
+
+**Closest rival:** 22 would retain the completed order as a standing configuration; the recorded Centre specifically makes the earlier encounter intelligible through its relation to the delayed warmth.
 
 ### A-002
 
@@ -32,17 +36,21 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of an opposition between the river's boundary-independent existence and the politically divided claims made upon its water.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X indicates absent Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** This here.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Differentiation
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 05 — Context-bound mark
+
+**Resolution rationale:** The river's border-independence becomes distinctive within the contrasting field of nations' territorial claims upon the same water. The opposition is the governing determination.
+
+**Closest rival:** 07 would require a formerly governing categorisation to lose force; the recorded Centre does not establish such a release.
 
 ### A-003
 
@@ -50,17 +58,21 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The metaphorical integration of decay, nourishment, and renewal into one intelligible organisation of the forest floor.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X aligns within structural matrix Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Each in its place.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Integration
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Standing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 40 — Role array
+
+**Resolution rationale:** Decay, nourishment and renewal are brought into one articulated forest-floor organisation. Its completed achievement is their integrated composition across the named contributions.
+
+**Closest rival:** 41 would make mutual sustaining dependence the achieved identity, whereas the recorded Centre establishes the metaphorical integration itself.
 
 ### A-004
 
@@ -68,17 +80,21 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The intelligible anticipation of a child's discovery that the moon's apparent personal following is not an actual relationship of accompaniment.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X is simply placed as Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** This.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Differentiation
+- **Completion Topology:** Focal
+- **Persistence Mode:** Standing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 01 — Focal mark
+
+**Resolution rationale:** The projected discovery differentiates actual non-following from apparent personal accompaniment at the child's anticipated point of learning. Its content becomes determinate, but the learning is not asserted to have happened already.
+
+**Closest rival:** 10 would treat the governing achievement as newly available access, rather than the particular distinction specified in the Centre.
 
 ### A-005
 
@@ -86,17 +102,21 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of impersonal mutual usefulness as a governing means of urban growth.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X returns to Y in a loop.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Back into itself.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 24 — Relational cycle
+
+**Resolution rationale:** Impersonal usefulness among strangers constitutes an operative relational field through which urban growth proceeds. Efficacy concerns the established growth-producing relation, not merely an abstract connection.
+
+**Closest rival:** 42 would require differentiated complementary roles within an integrated organisation; the Centre establishes mutual usefulness as the governing means, not a specified role array. The canonical name does not license inventing a literal feedback loop.
 
 ### A-006
 
@@ -104,17 +124,21 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of oceanic heat transfer as a process whose influence extends from intercontinental movement into climatic and agricultural conditions.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X mirrors Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Answered.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Focal
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 21 — Responsive return
+
+**Resolution rationale:** Oceanic heat transfer is the governing source whose reach establishes consequential influence on weather and harvests. The operative relation is completed through its attributed effects.
+
+**Closest rival:** 24 would place sufficiency in a distributed operative relational course; the Centre privileges heat transfer as the source and does not state return or feedback.
 
 ### A-007
 
@@ -122,17 +146,21 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The representation of the seed's internal developmental organisation as a capacity to engage with diverse conditions over time.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X and Y interlock to form system Z.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Together able.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Integration
+- **Completion Topology:** Focal
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 39 — Joint capacity
+
+**Resolution rationale:** The seed's internal developmental organisation is presented as a unified capacity for engagement with diverse conditions. Completion gathers at that one organised endowment and remains as potential efficacy, without asserting successful execution.
+
+**Closest rival:** 42 would locate coordinated competence across differentiated functional roles; the Centre does not specify such a distributed role system.
 
 ### A-008
 
@@ -140,17 +168,21 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The restoration of practical neighbourliness between two communities through the reopening of the bridge that connects them.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X transfers strain to Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** The burden shifts.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Repair
+- **Completion Topology:** Focal
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 30 — Load transfer
+
+**Resolution rationale:** The bridge reopening is the decisive restoring locus through which practical neighbourliness between the communities becomes operative again. The result is restored practical connection, not simply a report of two places.
+
+**Closest rival:** 20 would characterise relation-constituted neighbouring status, but does not foreground the restoration of practical functioning explicitly governing this Centre.
 
 ### A-009
 
@@ -158,17 +190,21 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of a reversal in practical dependence whereby instruments created to measure time become structures around which human activity is organised.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X changes in response to Y.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Each changes the other.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 23 — Reciprocal shift
+
+**Resolution rationale:** The measuring instruments first made for human purposes become organising structures for human life. Their significance changes through the articulated reversal of dependence between makers and instruments.
+
+**Closest rival:** 22 would retain an ordered sequence alone; the Centre explicitly identifies a reversal in practical dependence, not just the order of two occurrences.
 
 ### A-010
 
@@ -176,17 +212,21 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of embodied or remembered knowledge as the sustaining condition through which a recipe survives beyond what can be written.
 
-**X–Y transformation:** [UNRESOLVED]
+**X–Y transformation:** X balances with Y around pivot Z.
 
-**Ultra-short form:** [UNRESOLVED]
+**Ultra-short form:** Held in counterbalance.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** [UNRESOLVED]
-- **Completion Topology:** [UNRESOLVED]
-- **Persistence Mode:** [UNRESOLVED]
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Focal
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** [UNRESOLVED]
+**Canonical cell name:** 20 — Pivoted balance
+
+**Resolution rationale:** The recipe's survival is constituted through remembered knowledge that writing cannot preserve. Memory functions as the privileged sustaining support for the recipe's continuing availability.
+
+**Closest rival:** 19 would establish a connection between memory and survival without retaining the Centre's constitutive sustaining condition. No actual cooking or transmission is asserted.
 
 ### A-011
 
