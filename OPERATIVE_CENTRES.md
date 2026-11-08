@@ -8,10 +8,10 @@
 
 ## Progress register
 
-- **Last contiguous source ID:** A-200 (original sentences); fairy tales through 333 (Cinderella 201–285; The Elves and the Shoemaker 286–333)
-- **Written Centres:** 333 (200 original-sentence Centres; 133 fairy-tale Centres)
+- **Last contiguous source ID:** A-200 (original sentences); fairy tales through 343 (Cinderella 201–285; The Elves and the Shoemaker 286–339; Sleeping Beauty 340–343)
+- **Written Centres:** 343 (200 original-sentence Centres; 143 fairy-tale Centres)
 - **Needs further examination:** 0
-- **Next:** The Elves and the Shoemaker 334
+- **Next:** Sleeping Beauty 344
 - **Basis for A-001–A-013:** Accepted independent calibration, preserved in substance.
 - **Revision policy:** Substantive changes require a dated, ID-specific revision note; never silently rewrite prior Centres.
 - **Cards:** Resolve reads this Markdown record to populate examined reverse faces; all absent records remain awaiting completion.
@@ -2232,7 +2232,7 @@
 
 ### Continuation
 
-The original science corpus ends at A-200. The next sequential source item is 334 (The Elves and the Shoemaker).; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
+The original science corpus ends at A-200. The next sequential source item is 344 (Sleeping Beauty).; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
 
 ## Part II — Fairy tales
 
@@ -3703,13 +3703,127 @@ The original science corpus ends at A-200. The next sequential source item is 33
 **Diagnostic:** Replace “with great delight” with “in deep sorrow.” Their dancing remains, but its stated joyful meaning disappears.  
 **Reading status:** Written
 
-The next sequential fairy-tale sentence is 334 (The Elves and the Shoemaker).
+### 334
+
+**Source ID:** 334  
+**Original sentence:** They sang that they were finely dressed and needed to cobble no more.  
+**What changed:** The elves' song asserts that their new clothing is fine and that they no longer need to make shoes.  
+**What made it sufficient:** “Sang that” presents the content as their own sung declaration; “finely dressed” describes their current state, while “needed to cobble no more” expresses the end of a necessity rather than inability.  
+**How it remains achieved:** The elves sing of being well dressed and released from the need to cobble; the sentence does not independently explain their future livelihood.  
+**Operative Centre:** The narrative establishment, in the elves' song, of their satisfaction with fine clothing and release from the need to cobble further.  
+**Diagnostic:** Replace “needed to cobble no more” with “must cobble every night.” Their song remains, but its claim of release from work becomes an obligation to continue.  
+**Reading status:** Written
+
+### 335
+
+**Source ID:** 335  
+**Original sentence:** Then they danced out of the door and disappeared into the night.  
+**What changed:** The elves' joyful movement carries them out of the shop and beyond sight into the night.  
+**What made it sufficient:** “Then” orders the departure after their song; “danced out of the door” identifies the manner and path; “disappeared into the night” establishes loss from view.  
+**How it remains achieved:** The elves depart dancing and disappear into the night; no claim is made that they cease to exist or where they go.  
+**Operative Centre:** The narrative departure of the elves through dancing out of the doorway and disappearing into the night.  
+**Diagnostic:** Replace “disappeared into the night” with “returned immediately to the workbench.” The dancing remains, but the outward disappearance is lost.  
+**Reading status:** Written
+
+### 336
+
+**Source ID:** 336  
+**Original sentence:** The elves never returned, but the shoemaker and his wife did not forget them.  
+**What changed:** The elves' permanent absence is contrasted with the couple's continuing remembrance.  
+**What made it sufficient:** “Never returned” gives the unrestricted absence of later visits within the tale; “but” opposes this to “did not forget them,” the persistence of memory.  
+**How it remains achieved:** The elves do not return, yet the couple remembers them; the sentence does not assert continued contact or additional gifts.  
+**Operative Centre:** The establishment of the contrast between the elves' never returning and the shoemaker and his wife's enduring remembrance of them.  
+**Diagnostic:** Replace “but ... did not forget them” with “and soon forgot them.” The elves' absence remains, but remembrance no longer persists despite it.  
+**Reading status:** Written
+
+### 337
+
+**Source ID:** 337  
+**Original sentence:** The shoemaker continued to work carefully and honestly.  
+**What changed:** The shoemaker's established virtues persist in his work after the elves' departure.  
+**What made it sufficient:** “Continued” explicitly links present action to earlier practice; “carefully and honestly” specifies the manner and ethical quality of his work.  
+**How it remains achieved:** He maintains careful, honest work; no new magical aid or financial result is stated here.  
+**Operative Centre:** The narrative establishment of the shoemaker's continuing careful and honest workmanship.  
+**Diagnostic:** Replace “continued” with “began for the first time.” The virtues may still be named, but continuity with his earlier work disappears.  
+**Reading status:** Written
+
+### 338
+
+**Source ID:** 338  
+**Original sentence:** His business prospered, and he and his wife lived in comfort and gratitude for the rest of their days.  
+**What changed:** The tale gives the shoemaker enduring business success and a lifelong shared condition of comfort and gratitude.  
+**What made it sufficient:** “Business prospered” establishes commercial success; “he and his wife lived in comfort and gratitude” gives the couple's condition; “for the rest of their days” specifies its duration.  
+**How it remains achieved:** The couple's business prospers and they live comfortably and gratefully for the remainder of their lives; no additional events are asserted.  
+**Operative Centre:** The concluding establishment of the shoemaker's prosperity together with the couple's lifelong comfort and gratitude.  
+**Diagnostic:** Replace “for the rest of their days” with “for one afternoon.” Their favourable circumstances remain, but the lasting conclusion of the tale disappears.  
+**Reading status:** Written
+
+### 339
+
+**Source ID:** 339  
+**Original sentence:** That is the tale of The Elves and the Shoemaker.  
+**What changed:** The narrator formally identifies the preceding narrative as the completed tale of The Elves and the Shoemaker.  
+**What made it sufficient:** “That” refers to the recounted events; “is the tale” marks closure; the title identifies which account is being closed.  
+**How it remains achieved:** The story is expressly concluded; no new event within it is narrated.  
+**Operative Centre:** The formal narrative closure identifying the preceding account as the tale of The Elves and the Shoemaker.  
+**Diagnostic:** Replace “That is the tale” with “Here begins the tale.” The title survives but conclusion becomes introduction.  
+**Reading status:** Written
+
+### Sleeping Beauty
+
+### 340
+
+**Source ID:** 340  
+**Original sentence:** Once upon a time, there lived a king and queen who longed for a child.  
+**What changed:** A new tale introduces a royal couple defined in part by their shared desire for a child.  
+**What made it sufficient:** “Once upon a time” establishes the unspecified narrative past; “king and queen” introduces the characters; “who longed for a child” supplies their wish without its fulfilment.  
+**How it remains achieved:** A royal couple exists within the new story and longs for a child; no birth or fulfilled wish is asserted.  
+**Operative Centre:** The narrative introduction of a king and queen whose shared longing for a child defines their initial situation.  
+**Diagnostic:** Replace “who longed for a child” with “who wished to remain childless.” The royal pair remains, but their governing desire reverses.  
+**Reading status:** Written
+
+### 341
+
+**Source ID:** 341  
+**Original sentence:** At last, their wish was granted.  
+**What changed:** The king and queen's previously stated desire becomes fulfilled after a period of waiting.  
+**What made it sufficient:** “At last” marks the eventual resolution; “their wish” refers to the desire for a child; “was granted” establishes fulfilment, not merely renewed hope.  
+**How it remains achieved:** Their wish for a child is granted; the sentence does not yet give the form or details of the fulfilment.  
+**Operative Centre:** The narrative fulfilment of the king and queen's longing for a child after waiting.  
+**Diagnostic:** Replace “was granted” with “remained unfulfilled.” The wish persists, but its achieved resolution disappears.  
+**Reading status:** Written
+
+### 342
+
+**Source ID:** 342  
+**Original sentence:** A little princess was born, and the whole kingdom rejoiced.  
+**What changed:** The wish's fulfilment becomes concrete through the birth of a princess and a kingdom-wide response of joy.  
+**What made it sufficient:** “A little princess was born” states the new child and royal status; “and the whole kingdom rejoiced” gives the collective reaction and its unrestricted scope within the narrated kingdom.  
+**How it remains achieved:** A princess has been born and the kingdom rejoices; the sentence does not assign each person's precise reason or describe the child beyond what is stated.  
+**Operative Centre:** The narrative establishment of a princess's birth together with the rejoicing of the whole kingdom.  
+**Diagnostic:** Replace “and the whole kingdom rejoiced” with “and no one in the kingdom noticed.” The birth remains, but its shared celebratory response disappears.  
+**Reading status:** Written
+
+### 343
+
+**Source ID:** 343  
+**Original sentence:** The king and queen held a great feast to celebrate her birth.  
+**What changed:** The royal parents' joy becomes enacted in a substantial feast expressly held for the princess's birth.  
+**What made it sufficient:** “Held a great feast” establishes the event and its scale; “to celebrate her birth” provides the feast's stated purpose.  
+**How it remains achieved:** The feast is held to celebrate the birth; no guest list, gifts or later incidents are yet asserted.  
+**Operative Centre:** The narrative establishment of a grand feast held by the king and queen for the purpose of celebrating the princess's birth.  
+**Diagnostic:** Replace “to celebrate her birth” with “to mourn an unrelated loss.” The feast remains, but its governing celebratory purpose is changed.  
+**Reading status:** Written
+
+The next sequential fairy-tale sentence is 344 (Sleeping Beauty).
 
 ## Part III — Mathematical traversals
 
 *No written Centre entries yet. Claims and derivation steps will receive separate records in source order.*
 
 ## Revision log
+
+- 2026-11-08 — Published autonomous Batch 18, The Elves and the Shoemaker 334–339 and Sleeping Beauty 340–343, preserving the explicit tale boundary and 10 consecutive source IDs.
 
 - 2026-11-08 — Published autonomous Batch 17, The Elves and the Shoemaker 324–333 (10 written Centres), distinguishing reciprocity, gift-making, substitution and delighted receipt.
 
