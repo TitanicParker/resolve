@@ -8,10 +8,10 @@
 
 ## Progress register
 
-- **Last contiguous source ID:** A-183
-- **Written Centres:** 183
+- **Last contiguous source ID:** A-193
+- **Written Centres:** 193
 - **Needs further examination:** 0
-- **Next:** A-184
+- **Next:** A-194
 - **Basis for A-001–A-013:** Accepted independent calibration, preserved in substance.
 - **Revision policy:** Substantive changes require a dated, ID-specific revision note; never silently rewrite prior Centres.
 - **Cards:** Resolve reads this Markdown record to populate examined reverse faces; all absent records remain awaiting completion.
@@ -2043,9 +2043,119 @@
 **Diagnostic:** Replace “and regulate the excretion of water and dissolved substances” with “and pass all filtered material directly out of the body.” The altered sentence would no longer establish a regulatory relationship governing excretion. It would replace regulation with undifferentiated removal. The diagnostic distinguishes the proposed Centre from a reading that reduces kidney function to filtration alone.  
 **Reading status:** Written
 
+### A-184
+
+**Source ID:** A-184  
+**Original sentence:** Vaccination can prepare the immune system to respond more effectively to a later infection by a targeted pathogen.  
+**What changed:** Vaccination becomes intelligible as capable of preparing the immune system for a more effective response to a subsequent infection by a particular pathogen. The sentence establishes a possible benefit directed toward a future encounter, rather than claiming that vaccination itself constitutes a response to an infection already occurring.  
+**What made it sufficient:** “Can prepare” establishes a capacity or possibility, not an inevitable outcome. “To respond more effectively” identifies the intended improvement in immune response. “A later infection” establishes the temporal relationship between preparation and subsequent exposure, while “a targeted pathogen” restricts the infection to the pathogen concerned.  
+**How it remains achieved:** Vaccination remains established as capable of preparing the immune system for a more effective response to a later infection by the targeted pathogen. The sentence does not guarantee prevention of infection, perfect protection, or an improved response in every vaccinated individual. Nor does it extend the claimed preparation to all pathogens.  
+**Operative Centre:** The establishment of vaccination as capable of preparing the immune system for a more effective response to subsequent infection by a targeted pathogen.  
+**Diagnostic:** Replace “a later infection” with “an infection already resolved.” The altered sentence would no longer establish preparation for a future encounter. It would shift the relationship toward an infection that has already ended. The governing achievement depends on the temporal direction from vaccination toward a potentially improved later immune response.  
+**Reading status:** Written
+
+### A-185
+
+**Source ID:** A-185  
+**Original sentence:** Hemoglobin in red blood cells carries most of the oxygen transported in human blood.  
+**What changed:** The transport of oxygen in human blood becomes intelligible as being carried predominantly by haemoglobin located in red blood cells.  
+**What made it sufficient:** “Hemoglobin in red blood cells” identifies both the carrier and its location. “Carries most” establishes the carrier's predominant contribution without making it exclusive. “Of the oxygen transported in human blood” defines the substance and transport context concerned.  
+**How it remains achieved:** Haemoglobin in red blood cells remains established as carrying most, but not necessarily all, of the oxygen transported in human blood. The sentence does not assert that haemoglobin carries every oxygen molecule or describe the complete physiological process of oxygen delivery to tissues.  
+**Operative Centre:** The establishment of haemoglobin within red blood cells as the predominant carrier of oxygen transported in human blood.  
+**Diagnostic:** Replace “most of the oxygen” with “a small fraction of the oxygen.” The altered sentence would still describe haemoglobin as an oxygen carrier but would remove its predominance. The governing achievement is not merely the capacity to carry oxygen; it is the establishment of haemoglobin's major share of oxygen transport.  
+**Reading status:** Written
+
+### A-186
+
+**Source ID:** A-186  
+**Original sentence:** During inhalation, contraction of the diaphragm helps expand the chest cavity and draw air into the lungs.  
+**What changed:** The movement of air into the lungs during inhalation becomes intelligible through the contribution of diaphragm contraction to chest-cavity expansion and air intake.  
+**What made it sufficient:** “During inhalation” identifies the phase of breathing. “Contraction of the diaphragm” identifies the contributing bodily action. “Helps expand the chest cavity and draw air into the lungs” connects this action to both expansion and the entry of air. “Helps” is decisive because it establishes a contribution rather than exclusive responsibility.  
+**How it remains achieved:** Diaphragm contraction remains established as contributing to chest-cavity expansion and the drawing of air into the lungs during inhalation. The sentence does not claim that the diaphragm acts alone, that contraction is the only mechanism involved, or that inhalation necessarily occurs whenever the diaphragm contracts.  
+**Operative Centre:** The establishment of diaphragm contraction as a contributing means of chest-cavity expansion and air intake during inhalation.  
+**Diagnostic:** Replace “contraction of the diaphragm” with “relaxation of the diaphragm.” The altered sentence would retain the breathing phase and the stated outcomes but replace the muscular action that the original identifies as contributing to them. This destroys the original account of the diaphragm's contribution to inhalation.  
+**Reading status:** Written
+
+### A-187
+
+**Source ID:** A-187  
+**Original sentence:** Fever can occur when immune signals raise the body's temperature set point during infection.  
+**What changed:** Fever becomes intelligible as a possible consequence of immune signals raising the body's temperature set point during infection. The sentence identifies a regulatory change associated with fever rather than merely describing an elevated measured temperature.  
+**What made it sufficient:** “Can occur” establishes possibility. “When immune signals raise” supplies the relevant condition and action. “The body's temperature set point” identifies what is changed, while “during infection” provides the stated physiological context. The sentence does not present immune signalling as guaranteeing fever whenever infection occurs.  
+**How it remains achieved:** Fever remains established as capable of occurring when immune signals raise the body's temperature set point during infection. The sentence does not assert that all infections produce fever, that every fever occurs through precisely this circumstance, or that a raised set point invariably results in fever.  
+**Operative Centre:** The establishment of an immune-signal-driven rise in the body's temperature set point during infection as a condition under which fever can occur.  
+**Diagnostic:** Replace “raise the body's temperature set point” with “leave the body's temperature set point unchanged.” The altered sentence would no longer establish the regulatory change that makes this particular account of fever intelligible. It might still mention immune signals and infection, but the governing temperature-set-point relation would be absent.  
+**Reading status:** Written
+
+### A-188
+
+**Source ID:** A-188  
+**Original sentence:** Antibiotics that target bacteria do not directly kill viruses.  
+**What changed:** A limit is established on the direct action of antibiotics that target bacteria: their antibacterial targeting does not constitute direct killing of viruses.  
+**What made it sufficient:** “Antibiotics that target bacteria” identifies the agents within the stated scope. “Do not directly kill viruses” establishes the negative claim. “Directly” is essential because the sentence concerns direct viral killing, not every possible indirect effect associated with antibiotic use.  
+**How it remains achieved:** Antibiotics that target bacteria remain established as not directly killing viruses. The sentence does not claim that antibiotics can have no indirect effects relevant to a viral illness, that bacterial and viral infections cannot coexist, or that all medications used against infections act in the same manner.  
+**Operative Centre:** The establishment that antibiotics directed against bacteria do not themselves directly kill viruses.  
+**Diagnostic:** Remove “directly.” The altered sentence would say that these antibiotics “do not kill viruses,” without retaining the original restriction to direct killing. That would broaden the negative claim and obscure the distinction between direct antiviral action and possible indirect consequences. The governing achievement is precisely the exclusion of direct viral killing.  
+**Reading status:** Written
+
+### A-189
+
+**Source ID:** A-189  
+**Original sentence:** The liver converts ammonia produced during amino acid metabolism into urea for excretion.  
+**What changed:** Ammonia arising during amino acid metabolism becomes intelligible as undergoing conversion by the liver into urea for excretion. The sentence establishes both a chemical transformation and the excretory purpose associated with its product.  
+**What made it sufficient:** “Ammonia produced during amino acid metabolism” identifies the source material and its origin. “Converts ... into urea” establishes the transformation performed by the liver. “For excretion” connects the resulting substance with its subsequent elimination.  
+**How it remains achieved:** The liver remains established as converting ammonia from amino acid metabolism into urea for excretion. The sentence does not claim that the liver itself performs the final excretion, that all ammonia in the body arises from one process, or that this conversion exhausts the liver's functions.  
+**Operative Centre:** The establishment of hepatic conversion of ammonia arising from amino acid metabolism into urea as a transformation directed toward excretion.  
+**Diagnostic:** Replace “into urea for excretion” with “into another compound for storage.” The altered sentence would preserve the liver's involvement in conversion, but it would no longer establish the specific product or its excretory purpose. The governing achievement depends on the transformation into urea for excretion, not conversion as an unspecified chemical activity.  
+**Reading status:** Written
+
+### A-190
+
+**Source ID:** A-190  
+**Original sentence:** Regular aerobic exercise can improve the heart's ability to deliver oxygenated blood during physical activity.  
+**What changed:** Regular aerobic exercise becomes intelligible as capable of improving the heart's ability to deliver oxygenated blood during physical activity. The improvement concerns a functional capacity, not merely an isolated change in heart activity.  
+**What made it sufficient:** “Regular aerobic exercise” identifies the qualifying activity. “Can improve” establishes a possible beneficial effect rather than an assured outcome. “The heart's ability to deliver oxygenated blood during physical activity” specifies the capacity being improved and the circumstances in which it matters.  
+**How it remains achieved:** Regular aerobic exercise remains established as capable of improving the heart's capacity to deliver oxygenated blood during physical activity. The sentence does not guarantee that every person undertaking exercise will achieve the same improvement, describe the precise mechanism of adaptation, or claim that the improvement is an immediate result of a single exercise session.  
+**Operative Centre:** The establishment of regular aerobic exercise as capable of enhancing the heart's capacity to deliver oxygenated blood during physical activity.  
+**Diagnostic:** Replace “the heart's ability to deliver oxygenated blood during physical activity” with “the heart's rate of beating during a single exercise session.” The altered sentence would concern a particular rate during one session rather than the heart's capacity for blood delivery during activity. It would lose the original functional-capacity achievement while retaining the general subject of exercise and cardiac activity.  
+**Reading status:** Written
+
+### A-191
+
+**Source ID:** A-191  
+**Original sentence:** A binary digit represents one of two possible values.  
+**What changed:** The representational capacity of a binary digit becomes determinate through a choice between exactly two possible values.  
+**What made it sufficient:** “Represents” establishes the digit's symbolic function. “One of two possible values” determines the range of values available to the representation and specifies that an individual binary digit represents one of them. The sentence does not specify that the values must carry particular meanings beyond belonging to a two-valued system.  
+**How it remains achieved:** A binary digit remains established as representing one value from a set of two possibilities. The sentence does not claim that a single binary digit can distinguish more than two alternatives or that its two values necessarily represent any particular real-world states.  
+**Operative Centre:** The establishment of a binary digit as a representation restricted to one of exactly two possible values.  
+**Diagnostic:** Replace “two possible values” with “three possible values.” The altered sentence would preserve the act of representation but remove the two-valued restriction that makes the digit binary. The achievement depends on the number of available alternatives, not merely on the existence of a symbol.  
+**Reading status:** Written
+
+### A-192
+
+**Source ID:** A-192  
+**Original sentence:** A computer program follows instructions that specify operations on data.  
+**What changed:** The operation of a computer program becomes intelligible through its following of instructions that determine operations to be performed on data. The sentence connects program behaviour to specified instructions rather than treating it as an unspecified sequence of activity.  
+**What made it sufficient:** “Follows instructions” establishes the governing relationship between a program and its instructions. “That specify operations on data” identifies what those instructions determine. The sentence does not merely say that programs contain instructions; it establishes their role in specifying the data operations the program follows.  
+**How it remains achieved:** A computer program remains established as following instructions that specify operations on data. The sentence does not claim that all programs perform identical operations, that all instructions are valid, or that following instructions necessarily produces a desired result.  
+**Operative Centre:** The establishment of specified instructions as governing the operations on data followed by a computer program.  
+**Diagnostic:** Replace “follows instructions that specify operations on data” with “performs unspecified operations on data.” The altered sentence would preserve the program and its activity involving data but remove the instructions that specify the operations. The original achievement is instruction-governed operation, not data processing considered independently of its specification.  
+**Reading status:** Written
+
+### A-193
+
+**Source ID:** A-193  
+**Original sentence:** A sorting algorithm arranges items according to a specified ordering rule.  
+**What changed:** The arrangement produced by a sorting algorithm becomes intelligible as being governed by a specified ordering rule. The sentence establishes what makes the resulting arrangement a sorting achievement rather than an arbitrary redistribution of items.  
+**What made it sufficient:** “Arranges items” identifies the algorithm's activity. “According to a specified ordering rule” determines the standard governing the arrangement. The sentence does not impose a particular ordering rule, such as ascending numerical order or alphabetical order.  
+**How it remains achieved:** A sorting algorithm remains established as arranging items in accordance with a specified ordering rule. The sentence does not require that all sorting algorithms use the same rule, that the rule be numerical, or that the items possess an intrinsic order independently of the rule.  
+**Operative Centre:** The establishment of a specified ordering rule as the governing condition of the arrangement produced by a sorting algorithm.  
+**Diagnostic:** Replace “according to a specified ordering rule” with “in an arbitrary sequence.” The altered sentence would retain an arrangement of items but remove the rule that makes that arrangement an instance of sorting. This distinguishes the Centre from the weaker reading that a sorting algorithm merely moves or rearranges items.  
+**Reading status:** Written
+
 ### Continuation
 
-The next sequential item is A-184. A-101–A-200 belong to Corpus B (Science); fairy tales and mathematical traversals will follow under their original source grouping. No unwritten item is represented as resolved.
+The next sequential item is A-194. A-101–A-200 belong to Corpus B (Science); fairy tales and mathematical traversals will follow under their original source grouping. No unwritten item is represented as resolved.
 
 ## Part II — Fairy tales
 
@@ -2056,6 +2166,8 @@ The next sequential item is A-184. A-101–A-200 belong to Corpus B (Science); f
 *No written Centre entries yet. Claims and derivation steps will receive separate records in source order.*
 
 ## Revision log
+
+- 2026-11-08 — Published approved Batch 3, A-184–A-193 (10 written Centres), retaining the approved Centres and diagnostics and advancing the contiguous original-sentence record.
 
 - 2026-11-08 — Published approved Batch 2, A-174–A-183 (10 written Centres); refined only A-174 and A-178 diagnostics to isolate forming/recalling and consolidation/formation respectively.
 
