@@ -8,10 +8,10 @@
 
 ## Progress register
 
-- **Last contiguous source ID:** A-200 (original sentences); Cinderella 233 (fairy tales)
-- **Written Centres:** 233 (200 original-sentence Centres; 33 fairy-tale Centres)
+- **Last contiguous source ID:** A-200 (original sentences); Cinderella 243 (fairy tales)
+- **Written Centres:** 243 (200 original-sentence Centres; 43 fairy-tale Centres)
 - **Needs further examination:** 0
-- **Next:** Cinderella 234
+- **Next:** Cinderella 244
 - **Basis for A-001–A-013:** Accepted independent calibration, preserved in substance.
 - **Revision policy:** Substantive changes require a dated, ID-specific revision note; never silently rewrite prior Centres.
 - **Cards:** Resolve reads this Markdown record to populate examined reverse faces; all absent records remain awaiting completion.
@@ -2232,7 +2232,7 @@
 
 ### Continuation
 
-The original science corpus ends at A-200. The next sequential source item is Cinderella 234; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
+The original science corpus ends at A-200. The next sequential source item is Cinderella 244; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
 
 ## Part II — Fairy tales
 
@@ -2601,13 +2601,125 @@ The original science corpus ends at A-200. The next sequential source item is Ci
 **Diagnostic:** Replace “in wonder” with “without interest.” The look remains, but its characteristic response of wonder disappears.  
 **Reading status:** Written
 
-The next sequential fairy-tale sentence is 234.
+### 234
+
+**Source ID:** 234  
+**Original sentence:** Her fairy godmother told her to fetch a pumpkin from the garden.  
+**What changed:** Cinderella receives a definite instruction from the fairy godmother to bring a pumpkin from the garden.  
+**What made it sufficient:** “Told her to fetch” establishes a directive rather than an action already accomplished; “a pumpkin from the garden” identifies what and where.  
+**How it remains achieved:** The instruction is given, but its performance is not yet narrated in this sentence.  
+**Operative Centre:** The narrative establishment of the fairy godmother's instruction that Cinderella fetch a pumpkin from the garden.  
+**Diagnostic:** Replace “told her to fetch” with “watched her admire.” The pumpkin may remain the subject, but a directive to obtain it disappears.  
+**Reading status:** Written
+
+### 235
+
+**Source ID:** 235  
+**Original sentence:** Cinderella brought the finest pumpkin she could find.  
+**What changed:** Cinderella's response becomes established as bringing a pumpkin selected as the finest available to her.  
+**What made it sufficient:** “Brought” establishes performance; “the finest pumpkin she could find” qualifies selection relative to what was accessible to her.  
+**How it remains achieved:** She has brought the best pumpkin she could locate, without the sentence asserting it was objectively the finest pumpkin anywhere.  
+**Operative Centre:** The narrative fulfilment of the pumpkin-fetching instruction through Cinderella's bringing the finest pumpkin she could find.  
+**Diagnostic:** Replace “brought” with “searched for.” The careful selection might remain intended, but completed delivery of the pumpkin disappears.  
+**Reading status:** Written
+
+### 236
+
+**Source ID:** 236  
+**Original sentence:** The fairy godmother touched it with her wand, and it became a golden coach.  
+**What changed:** The pumpkin changes into a golden coach in connection with the fairy godmother's touch with her wand.  
+**What made it sufficient:** “Touched it with her wand” identifies the initiating act, and “and it became” establishes the transformation of the same referent into a coach.  
+**How it remains achieved:** A golden coach has replaced the pumpkin's previous form in the story; no further properties or mechanism beyond the narrated magical act are established.  
+**Operative Centre:** The narrative transformation of the fetched pumpkin into a golden coach following the fairy godmother's wand-touch.  
+**Diagnostic:** Replace “it became a golden coach” with “it remained a pumpkin.” The touch remains, but the transformation that governs the achievement disappears.  
+**Reading status:** Written
+
+### 237
+
+**Source ID:** 237  
+**Original sentence:** Then she touched six little mice, and they became six fine horses.  
+**What changed:** Six mice become six horses following the fairy godmother's next touch.  
+**What made it sufficient:** “Then” establishes sequence; “touched six little mice” identifies the original beings; “they became six fine horses” preserves number while changing their kind.  
+**How it remains achieved:** Six fine horses now stand in place of the six mice; the sentence does not specify any further function they perform.  
+**Operative Centre:** The narrative transformation of six little mice into six fine horses through the fairy godmother's subsequent touch.  
+**Diagnostic:** Replace “they became six fine horses” with “they ran away as mice.” The six animals and touch can remain, but the species transformation disappears.  
+**Reading status:** Written
+
+### 238
+
+**Source ID:** 238  
+**Original sentence:** She touched a rat, and he became a coachman.  
+**What changed:** A rat becomes a coachman following the fairy godmother's touch.  
+**What made it sufficient:** “Touched a rat” identifies the starting subject and initiating action; “he became a coachman” supplies the changed social role and identity.  
+**How it remains achieved:** The former rat is now narrated as a coachman; the sentence does not yet describe him driving.  
+**Operative Centre:** The narrative transformation of a rat into a coachman through the fairy godmother's touch.  
+**Diagnostic:** Replace “became a coachman” with “remained a rat.” The transformation into a human occupational role is lost.  
+**Reading status:** Written
+
+### 239
+
+**Source ID:** 239  
+**Original sentence:** She touched six lizards, and they became footmen in splendid coats.  
+**What changed:** Six lizards become splendidly dressed footmen following the fairy godmother's touch.  
+**What made it sufficient:** The initial six lizards and the resulting footmen are linked by “they became”; “in splendid coats” contributes the specific dressed appearance.  
+**How it remains achieved:** Six lizards have been transformed into footmen wearing splendid coats; they are not yet narrated performing their duties.  
+**Operative Centre:** The narrative transformation of six lizards into splendidly coated footmen through the fairy godmother's touch.  
+**Diagnostic:** Replace “they became footmen in splendid coats” with “they remained lizards.” The touch is retained but the transformation and dressed role are removed.  
+**Reading status:** Written
+
+### 240
+
+**Source ID:** 240  
+**Original sentence:** At last, the fairy godmother touched Cinderella’s worn dress with her wand.  
+**What changed:** The fairy godmother's wand-touch is directed at Cinderella's worn dress as the final touch in the described series.  
+**What made it sufficient:** “At last” situates the action after earlier transformations; “touched Cinderella's worn dress with her wand” establishes the target and act without yet stating a changed result.  
+**How it remains achieved:** The worn dress has been touched; transformation is not explicitly accomplished by this sentence alone.  
+**Operative Centre:** The narrative culmination of the fairy godmother's sequence of wand-touches in an action directed at Cinderella's worn dress.  
+**Diagnostic:** Replace “touched Cinderella's worn dress” with “admired Cinderella's worn dress.” The dress remains, but the wand action that culminates the sequence disappears.  
+**Reading status:** Written
+
+### 241
+
+**Source ID:** 241  
+**Original sentence:** The plain cloth became a beautiful gown that shimmered like moonlight.  
+**What changed:** Cinderella's previously plain dress becomes an elegant gown characterised by moonlight-like shimmer.  
+**What made it sufficient:** “Became” establishes the change of the cloth into a gown; “beautiful” characterises the result; “like moonlight” is an explicit simile for its shimmer.  
+**How it remains achieved:** A beautiful shimmering gown is established as the transformed dress, without asserting that the material literally becomes moonlight.  
+**Operative Centre:** The narrative transformation of plain cloth into a beautiful gown whose shimmer is compared to moonlight.  
+**Diagnostic:** Replace “became a beautiful gown” with “remained plain cloth.” The simile might still be mentioned, but the governing transformation into a gown disappears.  
+**Reading status:** Written
+
+### 242
+
+**Source ID:** 242  
+**Original sentence:** On Cinderella’s feet appeared a pair of glass slippers.  
+**What changed:** Cinderella's attire is further changed by the appearance of two glass slippers on her feet.  
+**What made it sufficient:** “Appeared” establishes the occurrence without specifying its cause; “a pair of glass slippers” identifies the new items and “on Cinderella's feet” their location.  
+**How it remains achieved:** A pair of glass slippers is now present on her feet; the sentence does not explicitly say who produced them or describe Cinderella putting them on.  
+**Operative Centre:** The narrative appearance of a pair of glass slippers on Cinderella's feet.  
+**Diagnostic:** Replace “appeared” with “were imagined.” A pair of slippers could remain in thought, but their narrated arrival on her feet would be lost.  
+**Reading status:** Written
+
+### 243
+
+**Source ID:** 243  
+**Original sentence:** Cinderella looked more graceful than anyone in the kingdom.  
+**What changed:** Cinderella's appearance becomes established through a superlative comparison of grace with everyone else in the kingdom.  
+**What made it sufficient:** “Looked more graceful than” identifies an appearance-based comparison; “anyone in the kingdom” gives it universal scope within that domain.  
+**How it remains achieved:** Cinderella is described as appearing more graceful than every other person in the kingdom, not as having proved greater moral worth or actual superiority in all respects.  
+**Operative Centre:** The narrative establishment of Cinderella's appearance as more graceful than that of anyone else in the kingdom.  
+**Diagnostic:** Replace “more graceful than anyone in the kingdom” with “as graceful as some people nearby.” The broad comparative pre-eminence disappears.  
+**Reading status:** Written
+
+The next sequential fairy-tale sentence is 244.
 
 ## Part III — Mathematical traversals
 
 *No written Centre entries yet. Claims and derivation steps will receive separate records in source order.*
 
 ## Revision log
+
+- 2026-11-08 — Published autonomous Batch 8, Cinderella 234–243 (10 written Centres), distinguishing instructions, fulfilment, successive transformations and narrated appearance.
 
 - 2026-11-08 — Published autonomous Batch 7, Cinderella 224–233 (10 written Centres), distinguishing exclusion, solitude, appearance, self-identification and future assurance.
 
