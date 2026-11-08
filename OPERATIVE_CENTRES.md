@@ -8,10 +8,10 @@
 
 ## Progress register
 
-- **Last contiguous source ID:** A-163
-- **Written Centres:** 163
+- **Last contiguous source ID:** A-173
+- **Written Centres:** 173
 - **Needs further examination:** 0
-- **Next:** A-164
+- **Next:** A-174
 - **Basis for A-001–A-013:** Accepted independent calibration, preserved in substance.
 - **Revision policy:** Substantive changes require a dated, ID-specific revision note; never silently rewrite prior Centres.
 - **Cards:** Resolve reads this Markdown record to populate examined reverse faces; all absent records remain awaiting completion.
@@ -1822,9 +1822,120 @@
 **Diagnostic:** Removing “nonzero” includes zero, whose reciprocal is undefined.  
 **Reading status:** Written
 
+
+### A-164
+
+**Source ID:** A-164  
+**Original sentence:** The derivative of a differentiable function gives its instantaneous rate of change.  
+**What changed:** A differentiable function's change becomes intelligible as having a rate determinable at an instant, rather than only across an interval.  
+**What made it sufficient:** "Derivative" supplies the mathematical determination of rate, while "differentiable" establishes the necessary qualification. "Instantaneous" distinguishes the rate at a point from an average rate over an interval.  
+**How it remains achieved:** For a differentiable function, its derivative gives the instantaneous rate of change at points where the derivative is defined. The sentence asserts this mathematical relationship, not that every function possesses a derivative or that the rate is constant.  
+**Operative Centre:** The establishment of differentiation as determining a differentiable function's rate of change at an instant, rather than merely over an interval.  
+**Diagnostic:** Replace "instantaneous rate of change" with "average rate of change over an interval." The altered sentence would no longer establish the pointwise rate furnished by the derivative. It would substitute a different determination of change, one based on an interval. Both concern change, but their mathematical achievements are distinct.  
+**Reading status:** Written
+
+### A-165
+
+**Source ID:** A-165  
+**Original sentence:** The definite integral of a nonnegative continuous function over an interval equals the area beneath its graph on that interval.  
+**What changed:** A definite integral becomes intelligible through an exact geometric equality with the area beneath a function's graph over the specified interval.  
+**What made it sufficient:** "Equals" establishes the precise mathematical relationship. "Nonnegative" ensures that the area between the graph and the horizontal axis is not offset by signed contributions below that axis. "Continuous" and "over an interval" specify the function and domain to which the statement applies.  
+**How it remains achieved:** For a nonnegative continuous function on the stated interval, the definite integral equals the ordinary geometric area beneath its graph over that interval. The sentence does not assert this unsigned-area equality for functions taking negative values.  
+**Operative Centre:** The establishment of an exact equality between the definite integral of a nonnegative continuous function and the geometric area beneath its graph over the same interval.  
+**Diagnostic:** Remove "nonnegative." The altered statement would extend the ordinary-area equality to continuous functions that may take negative values. A definite integral can then include negative contributions, whereas ordinary geometric area remains nonnegative. The restriction is therefore essential to the particular equality established.  
+**Reading status:** Written
+
+### A-166
+
+**Source ID:** A-166  
+**Original sentence:** The mean of a finite set of numbers equals their sum divided by the number of values.  
+**What changed:** The mean becomes mathematically determinate through a precise relationship between the total of the given values and how many values there are.  
+**What made it sufficient:** "Equals" establishes the exact result, while "their sum divided by the number of values" specifies the operation that determines it. "Finite" restricts the collection. The calculation presupposes that at least one value is present, since division by zero is undefined.  
+**How it remains achieved:** For a finite, nonempty numerical collection, the arithmetic mean is fixed by dividing the total sum by the count of values. The statement is exact, not a statistical approximation. It does not claim that the mean must equal one of the values.  
+**Operative Centre:** The determination of the arithmetic mean by distributing the total numerical sum equally across the count of values.  
+**Diagnostic:** Replace "divided by the number of values" with "divided by the largest value." The sum would remain present, but the divisor would no longer represent how many values contribute to it. The altered calculation would therefore lose the equal-per-value determination that constitutes the arithmetic mean.  
+**Reading status:** Written
+
+### A-167
+
+**Source ID:** A-167  
+**Original sentence:** The median of an ordered numerical dataset separates its lower and upper halves.  
+**What changed:** The median becomes intelligible as the dividing position between the lower and upper portions of an ordered dataset.  
+**What made it sufficient:** "Ordered numerical dataset" provides the necessary arrangement of the values. "Separates its lower and upper halves" establishes the median's governing positional relationship, rather than defining it through the magnitude or sum of all values.  
+**How it remains achieved:** The median remains established as the central separator of lower and upper halves in an ordered numerical dataset. The sentence does not specify the procedure for calculating the median when the number of observations is even, nor does it establish that the median must be an observed value.  
+**Operative Centre:** The establishment of the median through its central separating relationship to the lower and upper halves of an ordered numerical dataset.  
+**Diagnostic:** Replace "ordered numerical dataset" with "unordered numerical dataset." The altered wording removes the arrangement in which lower and upper halves can be identified by position. A median can still be determined from the same values after ordering them, but the sentence's explicit positional account would no longer be supported by the supplied arrangement. This tests the role of order rather than suggesting that the underlying observations lose their median.  
+**Reading status:** Written
+
+### A-168
+
+**Source ID:** A-168  
+**Original sentence:** Independent events have a joint probability equal to the product of their individual probabilities.  
+**What changed:** The probability of events occurring together becomes mathematically determined through the individual probabilities when the events are independent.  
+**What made it sufficient:** "Independent events" provides the governing condition. "Joint probability equal to the product" states the exact multiplicative relationship. The equality is not presented as a general rule for arbitrary dependent events.  
+**How it remains achieved:** For independent events, the probability of their joint occurrence equals the product of their individual probabilities. The result is an exact mathematical relationship under the stated condition, not a claim that the events must occur or that their probabilities are equal.  
+**Operative Centre:** The establishment of independence as the condition under which joint occurrence has a probability equal to the product of the events' individual probabilities.  
+**Diagnostic:** Replace "Independent events" with "Mutually exclusive events." Mutually exclusive events cannot occur together, so their joint probability is zero. Their individual probabilities need not have a product of zero. The alteration replaces independence with a different relationship between events and destroys the original general equality.  
+**Reading status:** Written
+
+### A-169
+
+**Source ID:** A-169  
+**Original sentence:** A larger random sample generally reduces the sampling variability of a sample mean when observations are independent and have finite variance.  
+**What changed:** The precision of a sample mean becomes intelligible as generally improving with increased random sample size under specified statistical conditions.  
+**What made it sufficient:** "Larger random sample" identifies the change in sample size. "Generally reduces" states a qualified tendency, not a guarantee concerning every observed sample. "When observations are independent and have finite variance" supplies the conditions under which the sample-size relationship is asserted. "Sampling variability" is essential: the sentence concerns variation in the sample mean across possible samples, rather than variation among the individual observations themselves.  
+**How it remains achieved:** Under the stated conditions, increasing random sample size generally reduces the sampling variability of the sample mean. The claim concerns the sampling behaviour of the mean. It does not guarantee that any particular larger sample produces an estimate closer to the population mean, nor does it assert that the observations themselves become less variable.  
+**Operative Centre:** The establishment of increased random sample size as generally reducing the sampling variability of the mean when observations are independent and have finite variance.  
+**Diagnostic:** Replace "sampling variability of a sample mean" with "variability of the individual observations." The altered sentence would claim that taking a larger sample generally makes the observations themselves less variable. That is different from the original relationship, which concerns the variability of the mean as an estimator across repeated sampling. The diagnostic distinguishes improved precision of a sample mean from a change in the dispersion of the sampled values.  
+**Reading status:** Written
+
+### A-170
+
+**Source ID:** A-170  
+**Original sentence:** A correlation between two variables does not by itself establish that either variable causes the other.  
+**What changed:** A limit is established on what may legitimately be inferred from an observed correlation: association alone is insufficient to determine causal direction in either direction between the variables.  
+**What made it sufficient:** "Does not by itself establish" specifies the insufficiency of correlation as evidence of causation. "Either variable causes the other" extends that insufficiency to both possible causal directions. The sentence does not reject causal relationships. It rejects the sufficiency of correlation alone to establish them.  
+**How it remains achieved:** Correlation remains insufficient, on its own, to establish causation from either variable to the other. The sentence leaves open the possibility that a causal relationship exists and that further evidence might establish it.  
+**Operative Centre:** The establishment of the inferential insufficiency of correlation alone to demonstrate causation in either direction between two variables.  
+**Diagnostic:** Replace "does not by itself establish" with "establishes." The altered sentence would make correlation sufficient evidence of causation, reversing the original limitation. A second, important contrast is with "establishes that neither variable causes the other." That would also misread the sentence, converting an absence of causal proof into proof of causal absence. The governing achievement is a limit on inference, not a denial of causation.  
+**Reading status:** Written
+
+### A-171
+
+**Source ID:** A-171  
+**Original sentence:** Neurons communicate across many synapses by releasing chemical neurotransmitters.  
+**What changed:** Communication between neurons becomes intelligible through the release of chemical neurotransmitters across synapses.  
+**What made it sufficient:** "By releasing chemical neurotransmitters" identifies the means of communication. "Across many synapses" specifies the sites and distributed extent of the communication described. The sentence does not present neurotransmitter release merely as something accompanying communication; it presents release as how the communication occurs.  
+**How it remains achieved:** Chemical neurotransmitter release remains established as a means of neuronal communication across many synapses. The sentence does not claim that all neuronal communication is chemical, that all synapses operate identically, or that every neuron necessarily communicates across many synapses.  
+**Operative Centre:** The establishment of chemical neurotransmitter release as a means by which neurons communicate across many synapses.  
+**Diagnostic:** Replace "by releasing chemical neurotransmitters" with "while releasing chemical neurotransmitters." The altered sentence would still associate neurotransmitter release with neuronal communication. It would no longer explicitly establish release as the means by which communication takes place. The difference between "by" and "while" is decisive: accompaniment is not the same achievement as communication through a specified mechanism.  
+**Reading status:** Written
+
+### A-172
+
+**Source ID:** A-172  
+**Original sentence:** A neuron can generate an action potential when changes in its membrane voltage reach a sufficient threshold.  
+**What changed:** The generation of a neuronal action potential becomes intelligible as a possibility associated with membrane-voltage changes reaching a sufficient threshold.  
+**What made it sufficient:** "Can generate" establishes capacity or possibility, rather than inevitable occurrence. "When changes in its membrane voltage reach a sufficient threshold" identifies the qualifying condition. The threshold matters because the sentence does not treat any membrane-voltage change as sufficient for generating an action potential.  
+**How it remains achieved:** A neuron remains established as capable of generating an action potential when membrane-voltage changes reach a sufficient threshold. The sentence does not claim that every threshold-reaching change necessarily generates an action potential, nor that a small change below threshold has the same consequence.  
+**Operative Centre:** The establishment of a sufficient membrane-voltage threshold as the condition under which a neuron can generate an action potential.  
+**Diagnostic:** Replace "reach a sufficient threshold" with "undergo any detectable change." The altered sentence would detach the stated possibility from the threshold condition and associate it with membrane-voltage change generally. It would therefore lose the distinction between changes that reach the relevant threshold and changes that do not. This tests the threshold-dependent possibility, not merely the presence of electrical activity.  
+**Reading status:** Written
+
+### A-173
+
+**Source ID:** A-173  
+**Original sentence:** Myelin increases the speed of electrical signal conduction along many nerve fibers.  
+**What changed:** Myelin becomes intelligible as increasing the speed at which electrical signals are conducted along nerve fibres.  
+**What made it sufficient:** "Increases the speed" identifies the precise effect being attributed to myelin. "Of electrical signal conduction" specifies what becomes faster. "Along many nerve fibers" qualifies the range of the claim rather than making it universal.  
+**How it remains achieved:** Myelin remains established as enhancing the speed of electrical signal conduction along many nerve fibres. The sentence does not establish that all nerve fibres are myelinated, that all electrical conduction depends on myelin, or that myelin changes every aspect of neuronal signalling.  
+**Operative Centre:** The establishment of myelin as an enhancer of electrical signal conduction speed along many nerve fibres.  
+**Diagnostic:** Replace "increases the speed of" with "makes possible." The altered sentence would make myelin a condition for electrical signal conduction rather than a factor that increases its speed. A process can be made faster without depending absolutely upon the factor that accelerates it. The original achievement is enhancement, not the establishment of conduction's possibility.  
+**Reading status:** Written
+
 ### Continuation
 
-The next sequential item is A-164. A-101–A-200 belong to Corpus B (Science); fairy tales and mathematical traversals will follow under their original source grouping. No unwritten item is represented as resolved.
+The next sequential item is A-174. A-101–A-200 belong to Corpus B (Science); fairy tales and mathematical traversals will follow under their original source grouping. No unwritten item is represented as resolved.
 
 ## Part II — Fairy tales
 
@@ -1835,6 +1946,8 @@ The next sequential item is A-164. A-101–A-200 belong to Corpus B (Science); f
 *No written Centre entries yet. Claims and derivation steps will receive separate records in source order.*
 
 ## Revision log
+
+- 2026-11-08 — Published approved Batch 1, A-164–A-173 (10 written Centres); preserved the nonempty-collection qualification for A-166 and distinguished ordered presentation from median existence for A-167.
 
 - 2026-11-07 — Added and source-verified A-139–A-163, covering Earth systems, ecology and opening mathematical principles.
 
