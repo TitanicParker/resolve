@@ -8,10 +8,10 @@
 
 ## Progress register
 
-- **Last contiguous source ID:** A-200 (original sentences); Cinderella 203 (fairy tales)
-- **Written Centres:** 203 (200 original-sentence Centres; 3 fairy-tale Centres)
+- **Last contiguous source ID:** A-200 (original sentences); Cinderella 213 (fairy tales)
+- **Written Centres:** 213 (200 original-sentence Centres; 13 fairy-tale Centres)
 - **Needs further examination:** 0
-- **Next:** Cinderella 204
+- **Next:** Cinderella 214
 - **Basis for A-001–A-013:** Accepted independent calibration, preserved in substance.
 - **Revision policy:** Substantive changes require a dated, ID-specific revision note; never silently rewrite prior Centres.
 - **Cards:** Resolve reads this Markdown record to populate examined reverse faces; all absent records remain awaiting completion.
@@ -2232,7 +2232,7 @@
 
 ### Continuation
 
-The original science corpus ends at A-200. The next sequential source item is Cinderella 204; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
+The original science corpus ends at A-200. The next sequential source item is Cinderella 214; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
 
 ## Part II — Fairy tales
 
@@ -2271,13 +2271,125 @@ The original science corpus ends at A-200. The next sequential source item is Ci
 **Diagnostic:** Replace “two daughters of her own” with “two girls she had met.” The connection survives, but the particular family relationship disappears.  
 **Reading status:** Written
 
-The next sequential fairy-tale sentence is 204.
+### 204
+
+**Source ID:** 204  
+**Original sentence:** They were proud, selfish, and unkind.  
+**What changed:** The stepmother's two daughters are given a definite negative characterisation through three stated traits.  
+**What made it sufficient:** “They” refers to the daughters introduced immediately before; “proud, selfish, and unkind” jointly specifies the traits attributed to them.  
+**How it remains achieved:** The two daughters remain characterised by those traits; no particular act, motive, or future conflict is yet asserted.  
+**Operative Centre:** The narrative characterisation of the stepmother's two daughters as proud, selfish and unkind.  
+**Diagnostic:** Replace “proud, selfish, and unkind” with “quiet and reserved.” The daughters remain identifiable, but the established negative characterisation disappears.  
+**Reading status:** Written
+
+### 205
+
+**Source ID:** 205  
+**Original sentence:** Cinderella worked from morning until night.  
+**What changed:** Cinderella's work becomes intelligible as occupying an extended span of her day.  
+**What made it sufficient:** “From morning until night” supplies the encompassing duration, rather than a single task or brief episode.  
+**How it remains achieved:** Her work is represented as lasting across the day; the sentence specifies neither the tasks nor whether every day is identical.  
+**Operative Centre:** The establishment of Cinderella's work as extending from morning until night.  
+**Diagnostic:** Replace “from morning until night” with “for a few minutes.” Cinderella still works, but the defining daily extent of that work is lost.  
+**Reading status:** Written
+
+### 206
+
+**Source ID:** 206  
+**Original sentence:** She swept the floors, washed the dishes, mended the clothes, and kept the fire burning.  
+**What changed:** The previously stated work becomes concrete as a succession of distinct domestic duties performed by Cinderella.  
+**What made it sufficient:** The coordinated verbs specify cleaning, washing, mending and maintaining the fire, making the range of labour intelligible.  
+**How it remains achieved:** Cinderella is established as performing all four duties; the sentence does not assign them a specific order, frequency, or cause.  
+**Operative Centre:** The specification of Cinderella's domestic work through the combined duties of sweeping, washing dishes, mending clothes and maintaining the fire.  
+**Diagnostic:** Replace “and kept the fire burning” with “and sat by the fire.” The last element becomes rest rather than another household duty, altering the full portrayal of her labour.  
+**Reading status:** Written
+
+### 207
+
+**Source ID:** 207  
+**Original sentence:** When her work was done, she often sat among the ashes by the hearth, and that was why her stepsisters called her Cinderella.  
+**What changed:** Cinderella's name within the household becomes explicable through her customary position among the hearth ashes after finishing her work.  
+**What made it sufficient:** “When her work was done” establishes the occasion; “often sat among the ashes” describes the recurring circumstance; “that was why” explicitly makes it the reason for her stepsisters' name for her.  
+**How it remains achieved:** Her stepsisters' use of “Cinderella” remains explained by her repeated association with the ashes; neither the stepsisters' motive nor her feelings about the name is specified.  
+**Operative Centre:** The establishment of Cinderella's habitual sitting among hearth ashes after work as the reason her stepsisters called her Cinderella.  
+**Diagnostic:** Replace “that was why” with “although.” The ashes and the name might still be mentioned together, but the expressly stated explanation of the name would disappear.  
+**Reading status:** Written
+
+### 208
+
+**Source ID:** 208  
+**Original sentence:** Cinderella had a tender heart.  
+**What changed:** Cinderella's inner disposition becomes established through the figurative attribution of tenderness.  
+**What made it sufficient:** “Had a tender heart” as a whole characterises her capacity for tenderness; “heart” is figurative rather than an anatomical observation.  
+**How it remains achieved:** She remains characterised as tender-hearted; the sentence does not identify a particular recipient or act of tenderness.  
+**Operative Centre:** The metaphorical establishment of tenderness as part of Cinderella's character.  
+**Diagnostic:** Replace “a tender heart” with “a cold heart.” The metaphorical predication remains, but the attributed disposition is reversed.  
+**Reading status:** Written
+
+### 209
+
+**Source ID:** 209  
+**Original sentence:** She spoke kindly to the birds in the garden.  
+**What changed:** Cinderella's tenderness becomes visible in a particular act of kind speech directed toward garden birds.  
+**What made it sufficient:** “Spoke kindly” establishes both the act and its manner; “to the birds in the garden” specifies the recipients and setting.  
+**How it remains achieved:** A kind act of speech toward the garden birds is narrated; the sentence does not claim that the birds understood or answered her.  
+**Operative Centre:** The narrative establishment of Cinderella's kindness in her manner of speaking to the birds in the garden.  
+**Diagnostic:** Replace “kindly” with “angrily.” The act and recipients remain, but its character as an expression of kindness is lost.  
+**Reading status:** Written
+
+### 210
+
+**Source ID:** 210  
+**Original sentence:** She fed the little mice that crept near the kitchen door.  
+**What changed:** Cinderella's care becomes established through the act of giving food to mice that came near the kitchen door.  
+**What made it sufficient:** “Fed” names a practical act of provision rather than mere notice; “the little mice that crept near the kitchen door” identifies its recipients.  
+**How it remains achieved:** The mice are established as receiving food from Cinderella when described near the door; no wider relationship, regularity or response is asserted.  
+**Operative Centre:** The narrative establishment of Cinderella's practical care through feeding the little mice near the kitchen door.  
+**Diagnostic:** Replace “fed” with “watched.” The mice and setting remain, but the provision of food that constitutes the stated caring action disappears.  
+**Reading status:** Written
+
+### 211
+
+**Source ID:** 211  
+**Original sentence:** She tried to be cheerful, even when others treated her badly.  
+**What changed:** Cinderella's attempt at cheerfulness becomes intelligible as persisting in the face of mistreatment.  
+**What made it sufficient:** “Tried to be cheerful” establishes effort, not necessarily success; “even when” marks the adverse circumstance against which that effort is made.  
+**How it remains achieved:** Her effort to be cheerful despite bad treatment remains established; the sentence does not say she always succeeds, who mistreats her, or how.  
+**Operative Centre:** The establishment of Cinderella's effort to remain cheerful despite being treated badly by others.  
+**Diagnostic:** Replace “even when” with “because.” The sentence would no longer present cheerfulness as an effort made despite adversity; mistreatment would instead be given as its cause.  
+**Reading status:** Written
+
+### 212
+
+**Source ID:** 212  
+**Original sentence:** One day, a royal invitation arrived at the house.  
+**What changed:** A new event enters the tale through the arrival of an invitation of royal origin at the house.  
+**What made it sufficient:** “One day” marks the narrative occurrence; “royal invitation” identifies what arrives; “at the house” supplies its destination.  
+**How it remains achieved:** An invitation has arrived at the house; neither its addressees, purpose nor the household's response is yet stated.  
+**Operative Centre:** The narrative introduction of a royal invitation through its arrival at the house on a particular, unspecified day.  
+**Diagnostic:** Replace “arrived at the house” with “was discussed elsewhere.” The royal invitation remains as a topic, but its arrival as a new event at this house disappears.  
+**Reading status:** Written
+
+### 213
+
+**Source ID:** 213  
+**Original sentence:** The king was holding a grand ball at the palace.  
+**What changed:** The royal occasion behind the invitation becomes intelligible as a grand ball being held by the king at the palace.  
+**What made it sufficient:** “The king was holding” establishes the royal host and the narrated arrangement; “a grand ball” identifies the event; “at the palace” specifies its venue.  
+**How it remains achieved:** A royal ball at the palace is established as an event the king was holding; no guest list, motive or outcome is yet given.  
+**Operative Centre:** The establishment of the king's grand ball at the palace as the royal event now part of the tale.  
+**Diagnostic:** Replace “a grand ball at the palace” with “a private meeting in a village.” The king remains an organiser, but both the kind and location of the royal occasion are changed.  
+**Reading status:** Written
+
+The next sequential fairy-tale sentence is 214.
 
 ## Part III — Mathematical traversals
 
 *No written Centre entries yet. Claims and derivation steps will receive separate records in source order.*
 
 ## Revision log
+
+- 2026-11-08 — Published autonomous Batch 5, Cinderella 204–213 (10 written Centres), retaining original fairy-tale sentence IDs and narrative order.
 
 - 2026-11-08 — Published approved Batch 4, A-194–A-200 and Cinderella 201–203; retained the canonical section boundary and unprefixed fairy-tale IDs.
 
