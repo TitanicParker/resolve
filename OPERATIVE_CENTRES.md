@@ -8,10 +8,10 @@
 
 ## Progress register
 
-- **Last contiguous source ID:** A-200 (original sentences); Cinderella 253 (fairy tales)
-- **Written Centres:** 253 (200 original-sentence Centres; 53 fairy-tale Centres)
+- **Last contiguous source ID:** A-200 (original sentences); Cinderella 263 (fairy tales)
+- **Written Centres:** 263 (200 original-sentence Centres; 63 fairy-tale Centres)
 - **Needs further examination:** 0
-- **Next:** Cinderella 254
+- **Next:** Cinderella 264
 - **Basis for A-001–A-013:** Accepted independent calibration, preserved in substance.
 - **Revision policy:** Substantive changes require a dated, ID-specific revision note; never silently rewrite prior Centres.
 - **Cards:** Resolve reads this Markdown record to populate examined reverse faces; all absent records remain awaiting completion.
@@ -2232,7 +2232,7 @@
 
 ### Continuation
 
-The original science corpus ends at A-200. The next sequential source item is Cinderella 254; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
+The original science corpus ends at A-200. The next sequential source item is Cinderella 264; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
 
 ## Part II — Fairy tales
 
@@ -2821,13 +2821,125 @@ The original science corpus ends at A-200. The next sequential source item is Ci
 **Diagnostic:** Replace “but they did not know who she was” with “and immediately recognised her.” Perception remains, but the decisive nonrecognition is reversed.  
 **Reading status:** Written
 
-The next sequential fairy-tale sentence is 254.
+### 254
+
+**Source ID:** 254  
+**Original sentence:** The hours passed quickly.  
+**What changed:** The passage of time in the evening is narrated as rapid.  
+**What made it sufficient:** “The hours passed” establishes elapsed time; “quickly” characterises the pace of its passing in the narrative rather than a measured alteration in clock time.  
+**How it remains achieved:** The evening's hours are presented as passing quickly; no specific duration or cause of that impression is asserted.  
+**Operative Centre:** The narrative establishment of the evening's hours as passing quickly.  
+**Diagnostic:** Replace “quickly” with “slowly.” Time still passes, but its narrated pace is reversed.  
+**Reading status:** Written
+
+### 255
+
+**Source ID:** 255  
+**Original sentence:** Cinderella heard the clock begin to strike midnight.  
+**What changed:** Cinderella becomes aware of the onset of the clock's midnight striking.  
+**What made it sufficient:** “Heard” establishes her perception; “begin to strike” marks the start rather than completion of the chimes; “midnight” identifies the significant hour.  
+**How it remains achieved:** Cinderella has heard the striking begin; the sentence does not say the final stroke has sounded or that the magic has ended.  
+**Operative Centre:** The narrative establishment of Cinderella's hearing the beginning of the clock's midnight strike.  
+**Diagnostic:** Replace “begin to strike midnight” with “finish striking midnight.” The event shifts from onset to completion, altering its urgency and temporal status.  
+**Reading status:** Written
+
+### 256
+
+**Source ID:** 256  
+**Original sentence:** She remembered her fairy godmother’s warning.  
+**What changed:** Cinderella's earlier promise to remember is realised in a present act of recollection.  
+**What made it sufficient:** “Remembered” establishes actual recall; “her fairy godmother's warning” identifies the earlier statement recalled.  
+**How it remains achieved:** Cinderella remembers the warning; the sentence does not yet say what action she takes because of it.  
+**Operative Centre:** The narrative fulfilment of Cinderella's promised remembrance through her recollection of the fairy godmother's warning.  
+**Diagnostic:** Replace “remembered” with “forgot.” The recalled warning—and the achieved remembrance—disappear.  
+**Reading status:** Written
+
+### 257
+
+**Source ID:** 257  
+**Original sentence:** She ran from the ballroom, down the palace steps, and into the night.  
+**What changed:** Cinderella makes a rapid departure along a specified route out of the palace into the night.  
+**What made it sufficient:** “Ran” gives the manner of movement; the ordered phrases “from the ballroom,” “down the palace steps,” and “into the night” establish its outward progression.  
+**How it remains achieved:** She has run out of the ballroom and palace setting into the night; homecoming is not yet asserted.  
+**Operative Centre:** The narrative establishment of Cinderella's urgent outward flight from the ballroom, down the palace steps, and into the night.  
+**Diagnostic:** Replace “into the night” with “back into the ballroom.” The ordered escape from the palace would be replaced by a return inward.  
+**Reading status:** Written
+
+### 258
+
+**Source ID:** 258  
+**Original sentence:** The prince ran after her, but he could not catch her.  
+**What changed:** The prince's pursuit is established as unsuccessful despite his running after Cinderella.  
+**What made it sufficient:** “Ran after her” identifies the attempted pursuit; “but” opposes the effort to “could not catch her,” the inability to achieve its aim.  
+**How it remains achieved:** The prince pursues but fails to catch Cinderella; the sentence does not say that he stops caring or what he does next.  
+**Operative Centre:** The establishment of the prince's unsuccessful pursuit of Cinderella despite running after her.  
+**Diagnostic:** Replace “but he could not catch her” with “and he caught her.” The pursuit remains, but its outcome reverses.  
+**Reading status:** Written
+
+### 259
+
+**Source ID:** 259  
+**Original sentence:** On the steps, he found one small glass slipper.  
+**What changed:** The prince acquires a concrete trace of Cinderella's departure through discovering one glass slipper on the steps.  
+**What made it sufficient:** “Found” establishes discovery; “on the steps” locates it; “one small glass slipper” identifies the precise single object.  
+**How it remains achieved:** The prince has found one small glass slipper on the steps; the sentence does not establish whose it is by explicit ownership or any search he later undertakes.  
+**Operative Centre:** The narrative discovery by the prince of one small glass slipper on the palace steps.  
+**Diagnostic:** Replace “found” with “imagined.” The slipper remains an idea, but discovery of a physical object on the steps disappears.  
+**Reading status:** Written
+
+### 260
+
+**Source ID:** 260  
+**Original sentence:** Cinderella reached home just as the last stroke of midnight sounded.  
+**What changed:** Cinderella's homecoming becomes precisely concurrent with the final stroke of midnight.  
+**What made it sufficient:** “Reached home” establishes arrival; “just as” establishes close simultaneity; “the last stroke” identifies completion of the clock's striking.  
+**How it remains achieved:** Cinderella has arrived home at the final midnight stroke; the sentence does not itself assert the particular magical reversions that follow.  
+**Operative Centre:** The narrative coincidence of Cinderella's arrival home with the final stroke of midnight.  
+**Diagnostic:** Replace “just as” with “long after.” Arrival remains, but the precise concurrence with midnight's final stroke disappears.  
+**Reading status:** Written
+
+### 261
+
+**Source ID:** 261  
+**Original sentence:** The coach became a pumpkin again.  
+**What changed:** The enchanted coach is restored to its earlier pumpkin form.  
+**What made it sufficient:** “Became” establishes transformation; “a pumpkin again” identifies the prior form's return rather than a first transformation into something new.  
+**How it remains achieved:** The coach has reverted to a pumpkin; the sentence does not itself describe other transformations.  
+**Operative Centre:** The narrative reversal of the golden coach's transformation as it becomes a pumpkin again.  
+**Diagnostic:** Remove “again.” A transformation into a pumpkin would remain, but the explicit return to its former form would be lost.  
+**Reading status:** Written
+
+### 262
+
+**Source ID:** 262  
+**Original sentence:** The horses became mice.  
+**What changed:** The horses created from mice are transformed back into mice.  
+**What made it sufficient:** “Became mice” establishes their change of kind; the previous narrative identifies these horses as having originated as mice.  
+**How it remains achieved:** The horses are now mice; this sentence itself does not specify their number, location or next movement.  
+**Operative Centre:** The narrative reversal of the horses' enchanted form through their becoming mice.  
+**Diagnostic:** Replace “became mice” with “remained horses.” The reversal into mice disappears.  
+**Reading status:** Written
+
+### 263
+
+**Source ID:** 263  
+**Original sentence:** The footmen became lizards.  
+**What changed:** The footmen created from lizards are restored to lizard form.  
+**What made it sufficient:** “Became lizards” establishes a change of kind; the prior narrative makes it intelligible as undoing their transformation into footmen.  
+**How it remains achieved:** The footmen have become lizards; no further action or detail about their appearance is given.  
+**Operative Centre:** The narrative reversal of the footmen's enchanted form through their becoming lizards.  
+**Diagnostic:** Replace “became lizards” with “remained footmen.” The return to the prior animal form disappears.  
+**Reading status:** Written
+
+The next sequential fairy-tale sentence is 264.
 
 ## Part III — Mathematical traversals
 
 *No written Centre entries yet. Claims and derivation steps will receive separate records in source order.*
 
 ## Revision log
+
+- 2026-11-08 — Published autonomous Batch 10, Cinderella 254–263 (10 written Centres), tracking the onset and completion of midnight, flight, unsuccessful pursuit, discovery and reversions.
 
 - 2026-11-08 — Published autonomous Batch 9, Cinderella 244–253 (10 written Centres), preserving deadlines, promises, enacted movement and the difference between seeing and recognising.
 
