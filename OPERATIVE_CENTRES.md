@@ -8,10 +8,10 @@
 
 ## Progress register
 
-- **Last contiguous source ID:** A-200 (original sentences); fairy tales through 393 (Cinderella 201–285; The Elves and the Shoemaker 286–339; Sleeping Beauty 340–393)
-- **Written Centres:** 393 (200 original-sentence Centres; 193 fairy-tale Centres)
+- **Last contiguous source ID:** A-200 (original sentences); fairy tales through 403 (Cinderella 201–285; The Elves and the Shoemaker 286–339; Sleeping Beauty 340–403)
+- **Written Centres:** 403 (200 original-sentence Centres; 203 fairy-tale Centres)
 - **Needs further examination:** 0
-- **Next:** Sleeping Beauty 394
+- **Next:** Sleeping Beauty 404
 - **Basis for A-001–A-013:** Accepted independent calibration, preserved in substance.
 - **Revision policy:** Substantive changes require a dated, ID-specific revision note; never silently rewrite prior Centres.
 - **Cards:** Resolve reads this Markdown record to populate examined reverse faces; all absent records remain awaiting completion.
@@ -2232,7 +2232,7 @@
 
 ### Continuation
 
-The original science corpus ends at A-200. The next sequential source item is 394 (Sleeping Beauty).; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
+The original science corpus ends at A-200. The next sequential source item is 404 (Sleeping Beauty).; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
 
 ## Part II — Fairy tales
 
@@ -4365,13 +4365,125 @@ The original science corpus ends at A-200. The next sequential source item is 39
 **Diagnostic:** Replace “opened the door” with “found the door locked and turned back.” The climb remains, but access to the room disappears.  
 **Reading status:** Written
 
-The next sequential fairy-tale sentence is 394 (Sleeping Beauty).
+### 394
+
+**Source ID:** 394  
+**Original sentence:** There lay the princess, sleeping peacefully.  
+**What changed:** The prince's arrival at the room reveals the princess still asleep and characterised as peaceful.  
+**What made it sufficient:** “There lay” locates her in the newly opened room; “sleeping” establishes the continued enchanted condition; “peacefully” specifies its manner.  
+**How it remains achieved:** The princess is lying asleep peacefully in the room; the sentence does not yet state that the prince approaches or wakes her.  
+**Operative Centre:** The narrative discovery of the princess lying in peaceful sleep within the tower room.  
+**Diagnostic:** Replace “sleeping peacefully” with “standing awake.” The princess remains present, but the continued sleeping condition disappears.  
+**Reading status:** Written
+
+### 395
+
+**Source ID:** 395  
+**Original sentence:** The prince knelt beside her and kissed her hand.  
+**What changed:** The prince's first action toward the sleeping princess is established as kneeling close to her and kissing her hand.  
+**What made it sufficient:** “Knelt beside her” locates and characterises his approach; “and kissed her hand” adds an actual gesture distinct from his earlier entrance.  
+**How it remains achieved:** The prince has knelt and kissed the princess's hand; the sentence does not explicitly say the gesture causes her awakening.  
+**Operative Centre:** The narrative establishment of the prince's reverent approach and hand-kiss beside the sleeping princess.  
+**Diagnostic:** Replace “kissed her hand” with “walked away without touching her.” The kneeling may remain contextual, but the intimate gesture is lost.  
+**Reading status:** Written
+
+### 396
+
+**Source ID:** 396  
+**Original sentence:** The princess opened her eyes.  
+**What changed:** The princess's previously continuous sleep reaches a visible awakening through the opening of her eyes.  
+**What made it sufficient:** “The princess” identifies the sleeping figure; “opened her eyes” is the stated visible transition, rather than an announced future action.  
+**How it remains achieved:** Her eyes are now open, signifying the end of the sleep described; no speech, embrace or further movement is asserted.  
+**Operative Centre:** The narrative achievement of the princess's awakening through her opening her eyes.  
+**Diagnostic:** Replace “opened her eyes” with “kept her eyes closed in sleep.” The princess remains present, but the awakening disappears.  
+**Reading status:** Written
+
+### 397
+
+**Source ID:** 397  
+**Original sentence:** The castle woke with her.  
+**What changed:** The princess's awakening is extended to the castle as a whole in a simultaneous narrative formulation.  
+**What made it sufficient:** “The castle” gives the collective or setting-wide scope; “woke with her” explicitly links its awakening to the princess's, rather than isolating her return to wakefulness.  
+**How it remains achieved:** The castle awakens along with the princess; the sentence does not yet itemise which people, animals or objects display the change.  
+**Operative Centre:** The narrative establishment of the castle's awakening together with the princess.  
+**Diagnostic:** Replace “with her” with “long before her.” Awakening remains a theme, but the shared timing of the castle and princess is lost.  
+**Reading status:** Written
+
+### 398
+
+**Source ID:** 398  
+**Original sentence:** The king and queen woke.  
+**What changed:** The royal parents specifically return from their enchanted sleep to wakefulness.  
+**What made it sufficient:** “The king and queen” selects the royal pair; “woke” asserts completion of the change from sleep to waking.  
+**How it remains achieved:** Both royal parents are awake; the sentence does not yet cover servants or animals.  
+**Operative Centre:** The narrative awakening of the king and queen from the spell-induced sleep.  
+**Diagnostic:** Replace “woke” with “remained asleep.” The royal pair remains, but the reversal to wakefulness disappears.  
+**Reading status:** Written
+
+### 399
+
+**Source ID:** 399  
+**Original sentence:** The servants woke.  
+**What changed:** The castle servants are specifically established as awakening from the long sleep.  
+**What made it sufficient:** “The servants” selects the group, and “woke” states their return to wakefulness.  
+**How it remains achieved:** The servants are awake; this sentence does not itself describe their duties or other waking animals.  
+**Operative Centre:** The narrative awakening of the castle servants.  
+**Diagnostic:** Replace “woke” with “continued sleeping.” The servants remain identified but their awakening is lost.  
+**Reading status:** Written
+
+### 400
+
+**Source ID:** 400  
+**Original sentence:** The horses stamped in their stables.  
+**What changed:** The horses' return to activity becomes visible in stamping within their stables.  
+**What made it sufficient:** “The horses” names the animals; “stamped” identifies an active bodily movement; “in their stables” preserves the setting of their earlier sleep.  
+**How it remains achieved:** The horses stamp in the stables; the sentence does not state that they leave or that every other animal wakes simultaneously.  
+**Operative Centre:** The narrative reanimation of the horses through stamping in the stables after their long sleep.  
+**Diagnostic:** Replace “stamped” with “lay motionless.” The horses and stables remain, but active movement disappears.  
+**Reading status:** Written
+
+### 401
+
+**Source ID:** 401  
+**Original sentence:** The dogs barked in the courtyard.  
+**What changed:** The dogs' renewed activity is established through audible barking in the courtyard.  
+**What made it sufficient:** “Barked” names the action characteristic of dogs; “in the courtyard” locates it in the place where they previously slept.  
+**How it remains achieved:** The dogs bark in the courtyard; the sentence does not assert a particular cause for barking.  
+**Operative Centre:** The narrative reanimation of the dogs through barking in the courtyard.  
+**Diagnostic:** Replace “barked” with “slept silently.” The dogs and setting remain, but the waking activity disappears.  
+**Reading status:** Written
+
+### 402
+
+**Source ID:** 402  
+**Original sentence:** The birds sang on the roof.  
+**What changed:** The birds' awakened activity is expressed through song on the castle roof.  
+**What made it sufficient:** “Sang” specifies a new active and audible behaviour; “on the roof” returns to the place of their earlier enchanted sleep.  
+**How it remains achieved:** The birds sing on the roof; neither the species nor a response from others is stated.  
+**Operative Centre:** The narrative restoration of the birds' activity through singing on the castle roof.  
+**Diagnostic:** Replace “sang” with “remained silent and asleep.” The birds and location remain, but their awakened expression disappears.  
+**Reading status:** Written
+
+### 403
+
+**Source ID:** 403  
+**Original sentence:** The fire began to crackle again in the hearth.  
+**What changed:** The hearth fire's earlier stillness is reversed as audible activity resumes.  
+**What made it sufficient:** “Began” establishes onset; “to crackle” identifies the active sound; “again” explicitly marks restoration of a prior condition after enchanted stillness; “in the hearth” fixes the location.  
+**How it remains achieved:** The fire has begun crackling again in the hearth; the sentence does not describe its intensity or physical cause.  
+**Operative Centre:** The narrative resumption of the hearth fire's crackling after the spell's stillness.  
+**Diagnostic:** Remove “again.” The crackling begins, but the expressly restorative relation to the earlier stillness is no longer marked.  
+**Reading status:** Written
+
+The next sequential fairy-tale sentence is 404 (Sleeping Beauty).
 
 ## Part III — Mathematical traversals
 
 *No written Centre entries yet. Claims and derivation steps will receive separate records in source order.*
 
 ## Revision log
+
+- 2026-11-08 — Published autonomous Batch 24, Sleeping Beauty 394–403 (10 written Centres), preserving the princess's awakening, the castle-wide response and the separately stated return to activity of its occupants and fire.
 
 - 2026-11-08 — Published autonomous Batch 23, Sleeping Beauty 384–393 (10 written Centres), distinguishing unsuccessful approaches, the elapsed century, the opened passage and actual entry into the castle.
 
