@@ -8,10 +8,10 @@
 
 ## Progress register
 
-- **Last contiguous source ID:** A-200 (original sentences); fairy tales through 373 (Cinderella 201–285; The Elves and the Shoemaker 286–339; Sleeping Beauty 340–373)
-- **Written Centres:** 373 (200 original-sentence Centres; 173 fairy-tale Centres)
+- **Last contiguous source ID:** A-200 (original sentences); fairy tales through 383 (Cinderella 201–285; The Elves and the Shoemaker 286–339; Sleeping Beauty 340–383)
+- **Written Centres:** 383 (200 original-sentence Centres; 183 fairy-tale Centres)
 - **Needs further examination:** 0
-- **Next:** Sleeping Beauty 374
+- **Next:** Sleeping Beauty 384
 - **Basis for A-001–A-013:** Accepted independent calibration, preserved in substance.
 - **Revision policy:** Substantive changes require a dated, ID-specific revision note; never silently rewrite prior Centres.
 - **Cards:** Resolve reads this Markdown record to populate examined reverse faces; all absent records remain awaiting completion.
@@ -2232,7 +2232,7 @@
 
 ### Continuation
 
-The original science corpus ends at A-200. The next sequential source item is 374 (Sleeping Beauty).; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
+The original science corpus ends at A-200. The next sequential source item is 384 (Sleeping Beauty).; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
 
 ## Part II — Fairy tales
 
@@ -4145,13 +4145,125 @@ The original science corpus ends at A-200. The next sequential source item is 37
 **Diagnostic:** Replace “fell into a deep sleep” with “remained wide awake.” The timing remains available, but the predicted sleep is not realised.  
 **Reading status:** Written
 
-The next sequential fairy-tale sentence is 374 (Sleeping Beauty).
+### 374
+
+**Source ID:** 374  
+**Original sentence:** The spell spread through the castle.  
+**What changed:** The magical effect previously seen in the princess is established as extending through the castle.  
+**What made it sufficient:** “The spell” refers to the enchantment already introduced; “spread through the castle” gives its enlarged reach beyond the princess without listing its individual effects.  
+**How it remains achieved:** The enchantment extends through the castle; this sentence alone does not say that every person, animal or thing has fallen asleep.  
+**Operative Centre:** The narrative expansion of the spell's reach from the princess to the castle as a whole.  
+**Diagnostic:** Replace “spread through the castle” with “remained confined to the princess.” The spell remains, but its expanded reach disappears.  
+**Reading status:** Written
+
+### 375
+
+**Source ID:** 375  
+**Original sentence:** The king and queen fell asleep.  
+**What changed:** The princess's royal parents become the next expressly identified recipients of sleep.  
+**What made it sufficient:** “The king and queen” specifies both royal parents, while “fell asleep” narrates the onset of their sleeping condition.  
+**How it remains achieved:** Both royal parents are now asleep; the sentence does not yet establish the servants' or animals' response.  
+**Operative Centre:** The narrative onset of sleep in both the king and queen as the castle enchantment spreads.  
+**Diagnostic:** Replace “fell asleep” with “remained wide awake.” The royal pair remains, but the new sleep is removed.  
+**Reading status:** Written
+
+### 376
+
+**Source ID:** 376  
+**Original sentence:** The servants fell asleep.  
+**What changed:** The castle's servants are established as falling asleep under the spreading enchantment.  
+**What made it sufficient:** “The servants” identifies a group distinct from the royal couple; “fell asleep” asserts the group's entry into the sleeping condition.  
+**How it remains achieved:** The servants are now asleep; no particular servant is named, and the horses, dogs and birds are not described by this sentence.  
+**Operative Centre:** The narrative onset of sleep among the castle servants.  
+**Diagnostic:** Replace “fell asleep” with “continued their duties awake.” The servants remain present, but the spread of sleep to them disappears.  
+**Reading status:** Written
+
+### 377
+
+**Source ID:** 377  
+**Original sentence:** The horses slept in their stables.  
+**What changed:** The castle horses' sleep is established in their usual stable location.  
+**What made it sufficient:** “The horses” specifies the affected animals, “slept” states their condition, and “in their stables” fixes the location.  
+**How it remains achieved:** The horses sleep in the stables; the sentence does not describe other animals or any intervening movement.  
+**Operative Centre:** The narrative establishment of the horses' sleep within their stables.  
+**Diagnostic:** Replace “slept in their stables” with “galloped outside the castle.” The named animals remain, but the stated sleeping condition and stable location vanish.  
+**Reading status:** Written
+
+### 378
+
+**Source ID:** 378  
+**Original sentence:** The dogs slept in the courtyard.  
+**What changed:** Sleep is shown to affect the dogs while they remain in the castle courtyard.  
+**What made it sufficient:** “The dogs” identifies the animals, “slept” determines their state, and “in the courtyard” locates it.  
+**How it remains achieved:** The dogs sleep in the courtyard; the sentence does not state that the courtyard is otherwise empty or that every creature in the castle sleeps.  
+**Operative Centre:** The narrative establishment of the dogs' sleep in the castle courtyard.  
+**Diagnostic:** Replace “slept in the courtyard” with “barked and ran through the courtyard.” The location remains, but sleeping is replaced by waking activity.  
+**Reading status:** Written
+
+### 379
+
+**Source ID:** 379  
+**Original sentence:** The birds slept on the roof.  
+**What changed:** The castle birds are established as sleeping on the roof.  
+**What made it sufficient:** “The birds” selects another group of animals; “slept” attributes their condition; “on the roof” locates the scene.  
+**How it remains achieved:** The birds sleep on the roof; no particular species, number or later awakening is asserted.  
+**Operative Centre:** The narrative establishment of the birds' sleep upon the castle roof.  
+**Diagnostic:** Replace “slept on the roof” with “flew away from the roof.” The birds and roof remain, but the state of rest disappears.  
+**Reading status:** Written
+
+### 380
+
+**Source ID:** 380  
+**Original sentence:** Even the fire in the hearth grew still.  
+**What changed:** The enchantment's stillness becomes extraordinary enough to encompass the hearth fire, ordinarily an active phenomenon.  
+**What made it sufficient:** “Even” marks the fire as a striking extension beyond the sleeping living beings; “grew still” specifies cessation of activity; “in the hearth” fixes the affected fire.  
+**How it remains achieved:** The hearth fire becomes still; the sentence does not state it is extinguished or provide a physical explanation for an unusual stillness.  
+**Operative Centre:** The narrative extension of the castle's enchanted stillness to the fire in the hearth itself.  
+**Diagnostic:** Remove “Even.” The fire's stillness remains, but the sentence no longer explicitly marks that extension as exceptional relative to the preceding sleepers.  
+**Reading status:** Written
+
+### 381
+
+**Source ID:** 381  
+**Original sentence:** A great hedge of thorns rose around the castle.  
+**What changed:** A formidable thorn hedge appears around the castle, enclosing it.  
+**What made it sufficient:** “A great hedge of thorns” identifies its size and nature; “rose” asserts its emergence; “around the castle” establishes an encircling position.  
+**How it remains achieved:** The thorn hedge has arisen around the castle; the sentence does not yet specify the amount it grows or whether it completely hides the castle.  
+**Operative Centre:** The narrative emergence of a great encircling thorn hedge around the sleeping castle.  
+**Diagnostic:** Replace “around the castle” with “in a small corner of the garden.” The hedge remains, but its enclosing relationship to the castle is removed.  
+**Reading status:** Written
+
+### 382
+
+**Source ID:** 382  
+**Original sentence:** Year after year, it grew higher and thicker, until the castle could no longer be seen.  
+**What changed:** The thorn hedge's sustained growth culminates in the castle being entirely hidden from sight.  
+**What made it sufficient:** “Year after year” establishes prolonged recurrence; “higher and thicker” specifies how it grows; “until” connects that growth to the outcome of visual concealment.  
+**How it remains achieved:** The hedge grows through successive years until the castle is no longer visible; the sentence does not state the castle is destroyed or unreachable by every possible means.  
+**Operative Centre:** The narrative culmination of the hedge's prolonged growth in the complete concealment of the castle from view.  
+**Diagnostic:** Replace “until the castle could no longer be seen” with “while the castle remained plainly visible.” Growth remains, but its resulting visual concealment disappears.  
+**Reading status:** Written
+
+### 383
+
+**Source ID:** 383  
+**Original sentence:** Many princes heard the story of the sleeping princess.  
+**What changed:** News of the sleeping princess becomes known to many princes through hearing her story.  
+**What made it sufficient:** “Many princes” gives an extensive but non-universal group of hearers; “heard the story” identifies transmission of an account rather than direct personal observation; “sleeping princess” identifies the subject.  
+**How it remains achieved:** Many princes have heard the tale; the sentence does not say they believe it, see the castle or attempt to enter.  
+**Operative Centre:** The narrative spread of the sleeping princess's story to many princes through their hearing of it.  
+**Diagnostic:** Replace “heard the story” with “personally saw the sleeping princess.” The princes and princess remain, but mediated knowledge through a tale is replaced with direct observation.  
+**Reading status:** Written
+
+The next sequential fairy-tale sentence is 384 (Sleeping Beauty).
 
 ## Part III — Mathematical traversals
 
 *No written Centre entries yet. Claims and derivation steps will receive separate records in source order.*
 
 ## Revision log
+
+- 2026-11-08 — Published autonomous Batch 22, Sleeping Beauty 374–383 (10 written Centres), preserving the distinct spread of sleep, the enchanted fire's stillness, the concealing hedge and the circulation of the princess's story.
 
 - 2026-11-08 — Published autonomous Batch 21, Sleeping Beauty 364–373 (10 written Centres), distinguishing prior unfamiliarity, identification, permission, contact, injury and immediate sleep.
 
