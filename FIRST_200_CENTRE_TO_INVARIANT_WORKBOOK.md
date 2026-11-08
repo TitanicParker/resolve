@@ -3610,7 +3610,7 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Canonical cell name:** [UNRESOLVED]
 
-## Appendix — The 54 Canonical Cells: X–Y Expressions and Structural Characterisations
+## Appendix A — The 54 Canonical Cells: X–Y Expressions and Structural Characterisations
 
 The following reference table is reproduced from the supplied 54-cell material. It is a lookup appendix for future work only; its inclusion does not resolve or classify any of the 200 sentence records.
 
@@ -3697,3 +3697,113 @@ The following reference table is reproduced from the supplied 54-cell material. 
 | 52  | Transformation release     | Settlement     | Release     | Standing        | X remains Y under all transformations.     | Still itself.             | Definite closure becomes available when a remainder ceases to require further adjudication. What persists is the settled determination, despite objections, variation, or incompleteness that no longer governs whether the matter must remain open. |
 | 53  | Retrospective settlement   | Settlement     | Release     | Bearing         | X reinterprets earlier states as Y.        | Now it makes sense.       | A demand for further explanation, accounting, or redress loses force through a constitutive reconnection. Closure exists through the bearing that makes the remaining material intelligible or the former claim discharged.                          |
 | 54  | Continuation discharge     | Settlement     | Release     | Efficacy        | X settles completely into Y.               | Nothing further is owed.  | Continuation becomes free of a demand that had required return, repetition, or further uptake. Settlement is accomplished as the ability to proceed without that unfinished matter governing the next move.                                          |
+
+## Appendix B — The 15 Canonical Definitions and Dimensional Conjunction
+
+**Controlling source:** [THE_54_CONTROL.md](https://github.com/TitanicParker/fiche-ceathar/blob/main/THE_54_CONTROL.md). The canonical material below is reproduced without changes to its definitions or conjunction rules.
+
+## The 15 definitions
+
+## 3.1 The three primitive dimensions
+
+1. **Transformation Pattern** — Specifies what kind of unresolvedness is altered between the opening and completed situation.
+2. **Completion Topology** — Specifies the structural shape by which the transformation counts as complete.
+3. **Persistence Mode** — Specifies how the achieved completion remains available for subsequent uptake.
+
+## 3.2 Transformation Pattern values
+
+4. **Differentiation** — A difference that was unavailable, flattened, conflated, or non-operative becomes determinate enough to matter.
+5. **Opening** — Availability, reach, continuation, access, or possibility becomes greater than it was under the opening constraint.
+6. **Relating** — A bearing, dependency, correspondence, ordering, reciprocity, or mutual determination becomes constitutive of the situation.
+7. **Repair** — An organization that fails relative to an operative criterion is changed so that the misfit or fault no longer governs the result.
+8. **Integration** — Separate parts acquire determinate roles through organization into a whole and thereby gain structure, mutual support, or joint capacity.
+9. **Settlement** — A live demand for further uptake, choice, explanation, completion, adjudication, or continuation is discharged.
+
+## 3.3 Completion Topology values
+
+10. **Focal** — The transformation becomes complete because completion gathers around one privileged locus. That locus is constitutive of why the transformation counts as complete.
+11. **Distributed** — The transformation becomes complete only across a constitutive plurality, span, sequence, range, reciprocal field, set of cases, or system. No single locus is sufficient by itself.
+12. **Release** — The transformation becomes complete because something that previously governed the situation loses its determining force. Release means de-governance, not merely removal, absence, negation, separation, physical movement away, or negative wording.
+
+## 3.4 Persistence Mode values
+
+13. **Standing** — The achieved determination itself remains available as the completed result.
+14. **Bearing** — The achieved result remains what it is only through a constitutive relation, dependency, contrast, condition, source, proportion, frame, support, or mutual determination.
+15. **Efficacy** — The achieved result remains as an accomplished capacity, operative effect, changed continuation, rule, function, or consequential difference in what can happen.
+
+---
+
+---
+
+## Dimensional Conjunction
+
+**Dimensional Conjunction is not a fourth dimension.**
+
+It is the rule by which Transformation Pattern, Completion Topology, and Persistence Mode mutually determine one cell.
+
+A coordinate is written:
+
+`Transformation Pattern × Completion Topology × Persistence Mode`
+
+The notation locates a position in the grammar. It does **not** mean:
+
+`Transformation characteristic + Topology characteristic + Persistence characteristic`
+
+The three dimensions are simultaneous relational constraints upon **one completion-event**.
+
+At cell level, none of the dimensions contributes an independent detachable property. Instead:
+
+- the **Transformation Pattern** is realized only as that transformation becomes complete through this Topology and exists as achieved in this Persistence Mode;
+- the **Completion Topology** is the topology specifically of this Transformation in this Persistence Mode;
+- the **Persistence Mode** is the persistence specifically of this Transformation completed through this Topology.
+
+Each dimension therefore constrains how the other two can be realized.
+
+Their conjunction is **reciprocal determination**.
+
+The resulting cell has **one unified characteristic**.
+
+> **The coordinate is a constraint that generates the form, not a description of three properties possessed by the form.**
+
+## 4.1 Non-Cartesian rule
+
+The coordinate space is mathematically indexable as `T × K × P`, but its semantics are not additive or Cartesian.
+
+There is no valid semantic derivation:
+
+`Transformation → Topology → Persistence`
+
+There is no first, second, or third dimension in deriving a cell. All three constraints operate simultaneously.
+
+Do not derive one dimensional result and then modify, qualify, pluralize, release, preserve, relate, or activate it with another dimension.
+
+## 4.2 Non-operator rule
+
+No dimension is an operation performed upon another dimension.
+
+In particular:
+
+- **Focal** does not simply select one already-completed object or distinction.
+- **Distributed** does not simply pluralize an already-completed form.
+- **Release** does not release, cancel, weaken, undo, or negate the Transformation Pattern.
+- **Standing** does not simply preserve an already-completed result.
+- **Bearing** does not merely add a relation to an otherwise complete result.
+- **Efficacy** does not merely add usefulness, later action, or an external consequence.
+
+A coordinate must remain fully a form of its Transformation Pattern regardless of Topology or Persistence Mode.
+
+What counts as the focal locus, distributed field, released governance, standing determination, constitutive bearing, or efficacy must be resolved **within the unity of that cell**.
+
+## 4.3 Relational-field rule
+
+A cell is constrained partly by what neighboring cells cannot be.
+
+Changing one coordinate dimension while holding the other two fixed should change the identity of the completion, not merely substitute predictable vocabulary.
+
+Neighboring coordinates may therefore be used as **negative constraints** during derivation, but they must not become templates from which answers are generated by analogy.
+
+The grammar may be regular in its constraints without being verbally regular in its crystallizations.
+
+---
+
+---
