@@ -8,10 +8,10 @@
 
 ## Progress register
 
-- **Last contiguous source ID:** A-200 (original sentences); fairy tales through 403 (Cinderella 201–285; The Elves and the Shoemaker 286–339; Sleeping Beauty 340–403)
-- **Written Centres:** 403 (200 original-sentence Centres; 203 fairy-tale Centres)
+- **Last contiguous source ID:** A-200 (original sentences); fairy tales through 413 (Cinderella 201–285; The Elves and the Shoemaker 286–339; Sleeping Beauty 340–406; Jack and the Beanstalk 407–413)
+- **Written Centres:** 413 (200 original-sentence Centres; 213 fairy-tale Centres)
 - **Needs further examination:** 0
-- **Next:** Sleeping Beauty 404
+- **Next:** Jack and the Beanstalk 414
 - **Basis for A-001–A-013:** Accepted independent calibration, preserved in substance.
 - **Revision policy:** Substantive changes require a dated, ID-specific revision note; never silently rewrite prior Centres.
 - **Cards:** Resolve reads this Markdown record to populate examined reverse faces; all absent records remain awaiting completion.
@@ -2232,7 +2232,7 @@
 
 ### Continuation
 
-The original science corpus ends at A-200. The next sequential source item is 404 (Sleeping Beauty).; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
+The original science corpus ends at A-200. The next sequential source item is 414 (Jack and the Beanstalk).; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
 
 ## Part II — Fairy tales
 
@@ -4475,13 +4475,127 @@ The original science corpus ends at A-200. The next sequential source item is 40
 **Diagnostic:** Remove “again.” The crackling begins, but the expressly restorative relation to the earlier stillness is no longer marked.  
 **Reading status:** Written
 
-The next sequential fairy-tale sentence is 404 (Sleeping Beauty).
+### 404
+
+**Source ID:** 404  
+**Original sentence:** The whole kingdom rejoiced.  
+**What changed:** The awakening's favourable resolution becomes the occasion of rejoicing throughout the kingdom.  
+**What made it sufficient:** “The whole kingdom” establishes the collective scope; “rejoiced” describes the response without specifying individual celebrations.  
+**How it remains achieved:** The kingdom rejoices; neither marriage nor music is yet asserted by this sentence.  
+**Operative Centre:** The narrative establishment of kingdom-wide rejoicing following the castle's awakening.  
+**Diagnostic:** Replace “rejoiced” with “mourned in silence.” The collective scope remains, but the joyful response reverses.  
+**Reading status:** Written
+
+### 405
+
+**Source ID:** 405  
+**Original sentence:** The princess and the prince were married, and the castle was filled with music, light, and gladness.  
+**What changed:** The prince and princess's marriage becomes an accomplished event accompanied by an atmosphere of celebration throughout the castle.  
+**What made it sufficient:** “Were married” states the completed union; “and the castle was filled” joins the event to a celebratory state specified by “music, light, and gladness.”  
+**How it remains achieved:** The prince and princess are married and their castle is celebratory; no later offspring or lifelong outcome is asserted.  
+**Operative Centre:** The narrative culmination of the prince and princess's marriage in a castle filled with music, light and gladness.  
+**Diagnostic:** Replace “were married” with “hoped someday to marry.” Celebration might remain, but the union itself would cease to be an accomplished event.  
+**Reading status:** Written
+
+### 406
+
+**Source ID:** 406  
+**Original sentence:** That is the tale of Sleeping Beauty.  
+**What changed:** The narrator brings the preceding story to formal closure under the title Sleeping Beauty.  
+**What made it sufficient:** “That” refers to the narrated account; “is the tale” explicitly designates it as complete; “of Sleeping Beauty” names the closed story.  
+**How it remains achieved:** The tale is formally concluded; this sentence does not narrate a new event or introduce the next characters.  
+**Operative Centre:** The formal narrative closure identifying the preceding account as the tale of Sleeping Beauty.  
+**Diagnostic:** Replace “That is the tale” with “Here begins the tale.” The same title remains, but closure becomes an opening.  
+**Reading status:** Written
+
+### Jack and the Beanstalk
+
+### 407
+
+**Source ID:** 407  
+**Original sentence:** Once upon a time, there lived a poor widow and her son, Jack.  
+**What changed:** A new narrative world introduces a widowed mother living in poverty and her named son Jack.  
+**What made it sufficient:** “Once upon a time” opens an unspecified past; “poor widow” establishes condition and status of the mother; “her son, Jack” establishes their relationship and names him.  
+**How it remains achieved:** The poor widow and Jack are introduced; their dwelling, resources and future actions have not yet been narrated.  
+**Operative Centre:** The narrative introduction of Jack and his mother as a poor widow and her son within a new fairy tale.  
+**Diagnostic:** Replace “a poor widow and her son, Jack” with “a wealthy married couple with no children.” A tale still begins, but the characters' defining conditions and relationship disappear.  
+**Reading status:** Written
+
+### 408
+
+**Source ID:** 408  
+**Original sentence:** They lived in a small cottage, and they had very little money.  
+**What changed:** The mother and son are situated in a small home and their poverty is given concrete material expression in scarce money.  
+**What made it sufficient:** “They lived in a small cottage” establishes living arrangements; “and they had very little money” fixes the economic condition rather than merely indicating modest surroundings.  
+**How it remains achieved:** The two live in a small cottage with little money; the sentence does not identify what possessions they still have.  
+**Operative Centre:** The narrative establishment of Jack and his mother's small cottage and severe shortage of money.  
+**Diagnostic:** Replace “very little money” with “a great fortune.” The cottage remains, but their stated economic scarcity disappears.  
+**Reading status:** Written
+
+### 409
+
+**Source ID:** 409  
+**Original sentence:** Their most precious possession was a cow named Milky-White.  
+**What changed:** A particular cow is established as the most valuable possession held by the household and is identified by name.  
+**What made it sufficient:** “Most precious possession” ranks the cow above their other possessions in value to them; “a cow named Milky-White” specifies its kind and identity.  
+**How it remains achieved:** Milky-White is established as their most precious possession; the sentence does not yet give its monetary price, health or fate.  
+**Operative Centre:** The narrative identification of the cow Milky-White as Jack and his mother's most precious possession.  
+**Diagnostic:** Replace “most precious possession” with “least valued animal.” The cow remains identifiable, but its standing as their greatest treasure is lost.  
+**Reading status:** Written
+
+### 410
+
+**Source ID:** 410  
+**Original sentence:** One morning, Jack’s mother looked at the empty cupboard and sighed.  
+**What changed:** The mother's encounter with the visibly empty food cupboard becomes an occasion marked by a sigh.  
+**What made it sufficient:** “One morning” locates the episode; “looked at the empty cupboard” identifies what she confronts; “and sighed” gives her immediate observable response.  
+**How it remains achieved:** The mother looks at the empty cupboard and sighs; the sentence does not explicitly supply a spoken explanation of her feelings or a plan.  
+**Operative Centre:** The narrative establishment of Jack's mother's sigh after seeing the empty cupboard one morning.  
+**Diagnostic:** Replace “empty cupboard” with “cupboard full of provisions.” The sigh remains, but the observed scarcity that gives the moment its particular content disappears.  
+**Reading status:** Written
+
+### 411
+
+**Source ID:** 411  
+**Original sentence:** “We must sell Milky-White,” she said.  
+**What changed:** The mother voices the sale of the family's cherished cow as a necessity.  
+**What made it sufficient:** “We must sell” asserts an obligatory course of action in her speech; “Milky-White” identifies the intended object of sale; “she said” attributes the directive to the mother.  
+**How it remains achieved:** A need to sell the cow is declared; the sale has not yet occurred and no buyer or price is established.  
+**Operative Centre:** The narrative establishment of Jack's mother's spoken decision that Milky-White must be sold.  
+**Diagnostic:** Replace “must sell” with “must keep.” The cow and speaker remain, but the declared necessity is reversed.  
+**Reading status:** Written
+
+### 412
+
+**Source ID:** 412  
+**Original sentence:** “Take her to market and bring back a good price.”  
+**What changed:** The mother gives Jack a two-part instruction: take Milky-White to market and secure a favourable payment for her.  
+**What made it sufficient:** The imperative “Take her to market” establishes the required journey, and “bring back a good price” fixes the intended commercial outcome.  
+**How it remains achieved:** The two requirements are spoken; neither the journey's completion nor any sale or payment is established.  
+**Operative Centre:** The narrative establishment of a directive to take Milky-White to market and return with a good price.  
+**Diagnostic:** Replace “bring back a good price” with “give her away for nothing.” The market journey remains, but the demanded profitable result disappears.  
+**Reading status:** Written
+
+### 413
+
+**Source ID:** 413  
+**Original sentence:** Jack led the cow along the road to market.  
+**What changed:** Jack begins to carry out the directive by taking Milky-White along the road toward the market.  
+**What made it sufficient:** “Led the cow” states actual movement with the animal; “along the road to market” identifies the directed route without saying the destination has been reached.  
+**How it remains achieved:** Jack leads the cow on the road to market; the sentence does not establish arrival, a buyer or a transaction.  
+**Operative Centre:** The narrative enactment of Jack's journey toward the market while leading the cow.  
+**Diagnostic:** Replace “along the road to market” with “back into the cottage.” Leading remains, but fulfilment of the outward market journey disappears.  
+**Reading status:** Written
+
+The next sequential fairy-tale sentence is 414 (Jack and the Beanstalk).
 
 ## Part III — Mathematical traversals
 
 *No written Centre entries yet. Claims and derivation steps will receive separate records in source order.*
 
 ## Revision log
+
+- 2026-11-08 — Published autonomous Batch 25, Sleeping Beauty 404–406 and Jack and the Beanstalk 407–413 (10 written Centres), preserving the tale boundary, concluding celebration, new household circumstances and market directive.
 
 - 2026-11-08 — Published autonomous Batch 24, Sleeping Beauty 394–403 (10 written Centres), preserving the princess's awakening, the castle-wide response and the separately stated return to activity of its occupants and fire.
 
