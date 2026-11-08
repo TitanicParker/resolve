@@ -8,10 +8,10 @@
 
 ## Progress register
 
-- **Last contiguous source ID:** A-200 (original sentences); fairy tales through 343 (Cinderella 201–285; The Elves and the Shoemaker 286–339; Sleeping Beauty 340–343)
-- **Written Centres:** 343 (200 original-sentence Centres; 143 fairy-tale Centres)
+- **Last contiguous source ID:** A-200 (original sentences); fairy tales through 353 (Cinderella 201–285; The Elves and the Shoemaker 286–339; Sleeping Beauty 340–353)
+- **Written Centres:** 353 (200 original-sentence Centres; 153 fairy-tale Centres)
 - **Needs further examination:** 0
-- **Next:** Sleeping Beauty 344
+- **Next:** Sleeping Beauty 354
 - **Basis for A-001–A-013:** Accepted independent calibration, preserved in substance.
 - **Revision policy:** Substantive changes require a dated, ID-specific revision note; never silently rewrite prior Centres.
 - **Cards:** Resolve reads this Markdown record to populate examined reverse faces; all absent records remain awaiting completion.
@@ -2232,7 +2232,7 @@
 
 ### Continuation
 
-The original science corpus ends at A-200. The next sequential source item is 344 (Sleeping Beauty).; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
+The original science corpus ends at A-200. The next sequential source item is 354 (Sleeping Beauty).; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
 
 ## Part II — Fairy tales
 
@@ -3815,13 +3815,125 @@ The original science corpus ends at A-200. The next sequential source item is 34
 **Diagnostic:** Replace “to celebrate her birth” with “to mourn an unrelated loss.” The feast remains, but its governing celebratory purpose is changed.  
 **Reading status:** Written
 
-The next sequential fairy-tale sentence is 344 (Sleeping Beauty).
+### 344
+
+**Source ID:** 344  
+**Original sentence:** They invited the wise women of the kingdom, for each wise woman could give the child a precious gift.  
+**What changed:** The royal celebration becomes associated with an invitation to the kingdom's wise women, expressly explained by each one's capacity to give the child a precious gift.  
+**What made it sufficient:** “They invited” establishes a royal invitation, while “the wise women of the kingdom” identifies the invitees. “For” gives the reason, and “could give” establishes the capacity to bestow gifts rather than asserting that every woman did so.  
+**How it remains achieved:** The wise women are invited because each is capable of bestowing a precious gift on the child. Neither universal attendance nor the actual giving of every possible gift has yet been established.  
+**Operative Centre:** The establishment of each wise woman's capacity to bestow a precious gift upon the child as the stated reason for inviting the kingdom's wise women.  
+**Diagnostic:** Replace “for each wise woman could give the child a precious gift” with “although none of them could give the child a gift.” The invitations remain, but their specified justification through gift-giving capacity is removed.  
+**Reading status:** Written
+
+### 345
+
+**Source ID:** 345  
+**Original sentence:** One wise woman gave the princess beauty.  
+**What changed:** The first specified gift becomes an accomplished bestowal of beauty upon the princess by one wise woman.  
+**What made it sufficient:** “One wise woman” identifies a giver without naming her or saying she is first in absolute order; “gave” asserts completed bestowal; “beauty” specifies the gift.  
+**How it remains achieved:** The princess has received beauty from one wise woman. The sentence does not quantify the beauty, describe its manifestation or claim that other gifts have already been given.  
+**Operative Centre:** The narrative bestowal of beauty upon the princess by one wise woman.  
+**Diagnostic:** Replace “gave the princess beauty” with “promised to give the princess beauty.” The intended gift remains, but its actual bestowal disappears.  
+**Reading status:** Written
+
+### 346
+
+**Source ID:** 346  
+**Original sentence:** Another gave her grace.  
+**What changed:** A further wise woman bestows grace upon the princess, adding a gift distinct from beauty.  
+**What made it sufficient:** “Another” differentiates the giver from the previous woman; “gave” establishes completion; “grace” names the gift, and “her” refers to the princess.  
+**How it remains achieved:** Grace is bestowed by a different woman; the sentence does not say the gifts are interchangeable or how grace will manifest.  
+**Operative Centre:** The narrative addition of grace as a gift to the princess from a further wise woman.  
+**Diagnostic:** Replace “grace” with “beauty.” A second giver and completed gift remain, but the distinctive addition of grace disappears.  
+**Reading status:** Written
+
+### 347
+
+**Source ID:** 347  
+**Original sentence:** Another gave her kindness.  
+**What changed:** The princess receives kindness as a new gift bestowed by another wise woman.  
+**What made it sufficient:** “Another” identifies a further giver, “gave” indicates actual bestowal, and “kindness” distinguishes this gift from the earlier qualities.  
+**How it remains achieved:** Kindness is added through a separate giver; the sentence does not identify a future deed proving the quality.  
+**Operative Centre:** The narrative bestowal of kindness upon the princess by another wise woman.  
+**Diagnostic:** Replace “kindness” with “great riches.” Bestowal remains, but the specific disposition conferred is lost.  
+**Reading status:** Written
+
+### 348
+
+**Source ID:** 348  
+**Original sentence:** Another gave her a sweet voice.  
+**What changed:** A further wise woman bestows a sweet voice upon the princess as a distinct gift.  
+**What made it sufficient:** “Another” extends the succession; “gave” asserts actual bestowal; “a sweet voice” specifies a vocal quality rather than a general temperament.  
+**How it remains achieved:** The princess receives the gift of a sweet voice; neither a particular song nor a future occasion of speech is narrated.  
+**Operative Centre:** The narrative bestowal of a sweet voice upon the princess by another wise woman.  
+**Diagnostic:** Replace “a sweet voice” with “a loud trumpet.” A further giving could remain, but the gift of a particular quality of the princess's voice disappears.  
+**Reading status:** Written
+
+### 349
+
+**Source ID:** 349  
+**Original sentence:** Another gave her wisdom.  
+**What changed:** A further wise woman adds wisdom to the princess's bestowed gifts.  
+**What made it sufficient:** “Another” marks a distinct giver; “gave” indicates completed bestowal; “wisdom” supplies the specific quality.  
+**How it remains achieved:** Wisdom has been bestowed. The sentence does not describe choices that demonstrate it or identify whether all wise women have given gifts.  
+**Operative Centre:** The narrative bestowal of wisdom upon the princess by another wise woman.  
+**Diagnostic:** Replace “gave her wisdom” with “praised her wisdom.” The woman might still speak favourably, but giving the quality itself would no longer be established.  
+**Reading status:** Written
+
+### 350
+
+**Source ID:** 350  
+**Original sentence:** Before the last wise woman could give her gift, the doors of the hall opened.  
+**What changed:** The last wise woman's prospective bestowal is interrupted in narrative sequence by the opening of the hall doors before it can occur.  
+**What made it sufficient:** “Before” fixes the order, “could give her gift” presents an anticipated but not accomplished bestowal, and “the doors of the hall opened” identifies the intervening occurrence.  
+**How it remains achieved:** The doors open ahead of the last wise woman's gift. Neither the cause of the opening nor any permanent loss of her ability to give a gift has yet been established.  
+**Operative Centre:** The establishment of the hall doors opening before the last wise woman has given her gift, suspending the sequence of bestowals.  
+**Diagnostic:** Replace “Before the last wise woman could give her gift” with “After the last wise woman had given her gift.” The doors still open, but the unsettled gift and decisive temporal precedence disappear.  
+**Reading status:** Written
+
+### 351
+
+**Source ID:** 351  
+**Original sentence:** An old fairy entered the room.  
+**What changed:** A new figure, an old fairy, becomes present in the scene through her entrance.  
+**What made it sufficient:** “An old fairy” identifies the entering figure and her nature; “entered the room” establishes actual arrival rather than an anticipated visit.  
+**How it remains achieved:** The old fairy has entered. Her identity relative to the invited wise women, her motives and her next words remain unspecified by this sentence.  
+**Operative Centre:** The narrative introduction of an old fairy through her entry into the room.  
+**Diagnostic:** Replace “entered the room” with “was remembered by the guests.” The figure remains mentioned, but her actual arrival is lost.  
+**Reading status:** Written
+
+### 352
+
+**Source ID:** 352  
+**Original sentence:** She had not been invited, and she was full of anger.  
+**What changed:** The recently arrived fairy is established as both excluded from the invitations and intensely angry.  
+**What made it sufficient:** “She” refers to the old fairy; “had not been invited” locates the omission before her arrival; “and” joins that fact to “full of anger” without explicitly marking it as the cause.  
+**How it remains achieved:** The fairy is uninvited and angry. Although one may infer resentment about exclusion, the sentence does not explicitly establish the causal origin of her anger.  
+**Operative Centre:** The establishment of the old fairy's uninvited status together with her intense anger.  
+**Diagnostic:** Replace “and” with “but despite that, she was delighted.” Exclusion remains, but anger as the governing emotional condition is removed.  
+**Reading status:** Written
+
+### 353
+
+**Source ID:** 353  
+**Original sentence:** She looked at the baby princess and spoke in a cold voice.  
+**What changed:** The old fairy's attention turns to the infant princess and she begins a speech characterised as cold in manner.  
+**What made it sufficient:** “Looked at the baby princess” establishes the object of her gaze; “and spoke” adds an actual utterance; “in a cold voice” determines its manner without supplying its words.  
+**How it remains achieved:** The fairy looks at the princess and speaks coldly. What she says, and what effect the words have, remains unsettled until later sentences.  
+**Operative Centre:** The narrative establishment of the old fairy's cold-voiced address directed toward the baby princess.  
+**Diagnostic:** Replace “in a cold voice” with “in a warm and affectionate voice.” Gaze and speech remain, but the specified cold manner disappears.  
+**Reading status:** Written
+
+The next sequential fairy-tale sentence is 354 (Sleeping Beauty).
 
 ## Part III — Mathematical traversals
 
 *No written Centre entries yet. Claims and derivation steps will receive separate records in source order.*
 
 ## Revision log
+
+- 2026-11-08 — Published autonomous Batch 19, Sleeping Beauty 344–353 (10 written Centres), preserving the distinction between gift-giving ability, gifts actually bestowed, an unfinished bestowal, and the uninvited fairy's arrival and speech.
 
 - 2026-11-08 — Published autonomous Batch 18, The Elves and the Shoemaker 334–339 and Sleeping Beauty 340–343, preserving the explicit tale boundary and 10 consecutive source IDs.
 
