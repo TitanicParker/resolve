@@ -8,10 +8,10 @@
 
 ## Progress register
 
-- **Last contiguous source ID:** A-193
-- **Written Centres:** 193
+- **Last contiguous source ID:** A-200 (original sentences); Cinderella 203 (fairy tales)
+- **Written Centres:** 203 (200 original-sentence Centres; 3 fairy-tale Centres)
 - **Needs further examination:** 0
-- **Next:** A-194
+- **Next:** Cinderella 204
 - **Basis for A-001–A-013:** Accepted independent calibration, preserved in substance.
 - **Revision policy:** Substantive changes require a dated, ID-specific revision note; never silently rewrite prior Centres.
 - **Cards:** Resolve reads this Markdown record to populate examined reverse faces; all absent records remain awaiting completion.
@@ -2153,19 +2153,133 @@
 **Diagnostic:** Replace “according to a specified ordering rule” with “in an arbitrary sequence.” The altered sentence would retain an arrangement of items but remove the rule that makes that arrangement an instance of sorting. This distinguishes the Centre from the weaker reading that a sorting algorithm merely moves or rearranges items.  
 **Reading status:** Written
 
+### A-194
+
+**Source ID:** A-194  
+**Original sentence:** Binary search can locate a target in a sorted array by repeatedly eliminating half of the remaining search interval.  
+**What changed:** Locating a target in a sorted array becomes intelligible through successive reductions of the remaining search interval.  
+**What made it sufficient:** “Sorted array” provides the ordering condition; “by repeatedly eliminating half” identifies the means; “remaining” keeps each reduction relative to the current interval; “can” preserves capability.  
+**How it remains achieved:** Binary search can locate a target through successive halving in a sorted array, without guaranteeing the target exists.  
+**Operative Centre:** The establishment of repeated elimination of half the remaining search interval as the means by which binary search can locate a target in a sorted array.  
+**Diagnostic:** Replace “by repeatedly eliminating half of the remaining search interval” with “by examining each element in sequence.” The altered sentence still describes searching but loses successive halving as its governing means.  
+**Reading status:** Written
+
+### A-195
+
+**Source ID:** A-195  
+**Original sentence:** Encryption transforms readable information into a form that requires an appropriate key to recover the original information.  
+**What changed:** Encryption becomes intelligible as a transformation whose resulting form imposes a requirement upon recovery.  
+**What made it sufficient:** “Transforms readable information” supplies the change; “requires an appropriate key” specifies the condition governing recovery of the original.  
+**How it remains achieved:** The original information requires an appropriate key for recovery from the transformed form; no algorithm, actual recovery or guaranteed success is asserted.  
+**Operative Centre:** The establishment of encryption as a transformation that makes recovery of the original readable information dependent on an appropriate key.  
+**Diagnostic:** Replace “requires an appropriate key” with “can be reversed without any key.” Transformation would remain, but the requirement governing recovery would disappear.  
+**Reading status:** Written
+
+### A-196
+
+**Source ID:** A-196  
+**Original sentence:** A checksum can detect some accidental changes to transmitted data.  
+**What changed:** A checksum becomes intelligible as capable of revealing certain accidental changes to transmitted data.  
+**What made it sufficient:** “Can detect” establishes capacity; “some accidental changes” limits both scope and kind; “transmitted data” specifies the object.  
+**How it remains achieved:** Limited accidental-change detection is established; neither universal detection, prevention, correction nor protection against deliberate alteration follows.  
+**Operative Centre:** The establishment of a checksum's limited capacity to detect some accidental alterations in transmitted data.  
+**Diagnostic:** Replace “detect some accidental changes” with “prevent all accidental changes.” This substitutes universal prevention for limited detection, destroying the specific achievement.  
+**Reading status:** Written
+
+### A-197
+
+**Source ID:** A-197  
+**Original sentence:** Lossless compression represents data with fewer bits while allowing exact reconstruction of the original data.  
+**What changed:** A smaller bit representation becomes intelligible alongside continued exact recoverability of the original data.  
+**What made it sufficient:** “Fewer bits” establishes reduction and “while allowing exact reconstruction” preserves full recovery despite that reduction.  
+**How it remains achieved:** The original data remains exactly reconstructible from a reduced-bit representation, without asserting that reconstruction has occurred or that every input compresses.  
+**Operative Centre:** The establishment of a reduced-bit representation that preserves the ability to reconstruct the original data exactly.  
+**Diagnostic:** Replace “exact reconstruction of the original data” with “an approximate reconstruction of the original data.” Reduction remains, but exact recoverability—and thus the lossless achievement—is lost.  
+**Reading status:** Written
+
+### A-198
+
+**Source ID:** A-198  
+**Original sentence:** A database index can speed up searches by providing a structure for locating records without scanning every record.  
+**What changed:** Faster search becomes intelligible as a possibility through structured location avoiding exhaustive scanning.  
+**What made it sufficient:** “Can speed up” preserves possibility; “by providing a structure” states the means; “without scanning every record” identifies the work avoided.  
+**How it remains achieved:** An index can accelerate record location without scanning all records; no universal speed guarantee is made.  
+**Operative Centre:** The establishment of structured record location without exhaustive scanning as a means by which a database index can accelerate searches.  
+**Diagnostic:** Replace “without scanning every record” with “by scanning every record in the database.” The avoidance of exhaustive search that grounds the stated possible acceleration disappears.  
+**Reading status:** Written
+
+### A-199
+
+**Source ID:** A-199  
+**Original sentence:** A network packet can reach its destination through a sequence of routers that forward it toward the destination address.  
+**What changed:** Possible packet delivery becomes intelligible through successive router forwarding toward the target address.  
+**What made it sufficient:** “Can reach” limits the claim to possibility; “sequence of routers” establishes successive intermediaries; “forward it toward the destination address” provides their operative role.  
+**How it remains achieved:** A packet may arrive through successive forwarding; no particular route or guaranteed delivery is established.  
+**Operative Centre:** The establishment of successive router forwarding toward a destination address as a means by which a network packet can reach its destination.  
+**Diagnostic:** Replace “that forward it toward the destination address” with “that store it without forwarding it.” Routers remain but their delivery-enabling action disappears.  
+**Reading status:** Written
+
+### A-200
+
+**Source ID:** A-200  
+**Original sentence:** Shannon entropy measures the average uncertainty of a random variable using the probabilities of its possible outcomes.  
+**What changed:** Uncertainty becomes intelligible as a measurable average determined by a random variable's possible-outcome probabilities.  
+**What made it sufficient:** “Average uncertainty” identifies the quantity; “random variable” its subject; “using the probabilities of its possible outcomes” supplies the determining information.  
+**How it remains achieved:** A probability-based measure of average uncertainty is established, without assigning uniform probabilities or isolating one outcome as the measure.  
+**Operative Centre:** The establishment of the probabilities of a random variable's possible outcomes as determining its measure of average uncertainty through Shannon entropy.  
+**Diagnostic:** Replace “the average uncertainty of a random variable” with “the uncertainty of one selected outcome.” The probability-based average is lost in favour of an individual outcome's uncertainty.  
+**Reading status:** Written
+
 ### Continuation
 
-The next sequential item is A-194. A-101–A-200 belong to Corpus B (Science); fairy tales and mathematical traversals will follow under their original source grouping. No unwritten item is represented as resolved.
+The original science corpus ends at A-200. The next sequential source item is Cinderella 204; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
 
 ## Part II — Fairy tales
 
-*No written Centre entries yet. Source sentences and original identifiers remain in the canonical corpus.*
+### Cinderella
+
+### 201
+
+**Source ID:** 201  
+**Original sentence:** Once upon a time, there lived a kind and gentle girl whose name was Cinderella.  
+**What changed:** A named and characterised girl is established within the narrated world.  
+**What made it sufficient:** “Once upon a time” opens an unspecified narrative past; “there lived” introduces the girl; “kind and gentle” characterises her; “Cinderella” identifies her.  
+**How it remains achieved:** Cinderella is established as kind, gentle and named, without any subsequent conflict or transformation being narrated.  
+**Operative Centre:** The narrative establishment of Cinderella as a named girl characterised by kindness and gentleness within the tale's unspecified past.  
+**Diagnostic:** Replace “a kind and gentle girl whose name was Cinderella” with “a girl whose name was unknown.” The story still begins, but the original identity and characterisation are lost.  
+**Reading status:** Written
+
+### 202
+
+**Source ID:** 202  
+**Original sentence:** Her mother had died when Cinderella was very young, and her father had married again.  
+**What changed:** Cinderella's antecedent family circumstances become determinate through early maternal loss and her father's remarriage.  
+**What made it sufficient:** “Had died” and “had married again” establish two prior facts; “when Cinderella was very young” locates the mother's death in early childhood.  
+**How it remains achieved:** Both family facts stand as antecedent circumstances; their precise interval, emotional consequences and subsequent events are unstated.  
+**Operative Centre:** The establishment of Cinderella's antecedent family circumstances through her mother's death in early childhood and her father's remarriage.  
+**Diagnostic:** Remove “and her father had married again.” Maternal loss remains, but the second family circumstance necessary to the original joint achievement disappears.  
+**Reading status:** Written
+
+### 203
+
+**Source ID:** 203  
+**Original sentence:** Cinderella’s stepmother had two daughters of her own.  
+**What changed:** The family relationships become more determinate by establishing two daughters belonging to the stepmother.  
+**What made it sufficient:** “Cinderella's stepmother” identifies the woman relationally; “two daughters of her own” specifies both their number and relationship to her.  
+**How it remains achieved:** Two daughters of the stepmother are established, without qualities, conflict, treatment of Cinderella or shared residence being asserted.  
+**Operative Centre:** The establishment of Cinderella's stepmother as having two daughters of her own, extending and distinguishing the family relationships within the tale.  
+**Diagnostic:** Replace “two daughters of her own” with “two girls she had met.” The connection survives, but the particular family relationship disappears.  
+**Reading status:** Written
+
+The next sequential fairy-tale sentence is 204.
 
 ## Part III — Mathematical traversals
 
 *No written Centre entries yet. Claims and derivation steps will receive separate records in source order.*
 
 ## Revision log
+
+- 2026-11-08 — Published approved Batch 4, A-194–A-200 and Cinderella 201–203; retained the canonical section boundary and unprefixed fairy-tale IDs.
 
 - 2026-11-08 — Published approved Batch 3, A-184–A-193 (10 written Centres), retaining the approved Centres and diagnostics and advancing the contiguous original-sentence record.
 
