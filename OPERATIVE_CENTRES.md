@@ -8,10 +8,10 @@
 
 ## Progress register
 
-- **Last contiguous source ID:** A-200 (original sentences); Cinderella 283 (fairy tales)
-- **Written Centres:** 283 (200 original-sentence Centres; 83 fairy-tale Centres)
+- **Last contiguous source ID:** A-200 (original sentences); fairy tales through 293 (Cinderella 201–285; The Elves and the Shoemaker 286–293)
+- **Written Centres:** 293 (200 original-sentence Centres; 93 fairy-tale Centres)
 - **Needs further examination:** 0
-- **Next:** Cinderella 284–285, followed by The Elves and the Shoemaker 286
+- **Next:** The Elves and the Shoemaker 294
 - **Basis for A-001–A-013:** Accepted independent calibration, preserved in substance.
 - **Revision policy:** Substantive changes require a dated, ID-specific revision note; never silently rewrite prior Centres.
 - **Cards:** Resolve reads this Markdown record to populate examined reverse faces; all absent records remain awaiting completion.
@@ -2232,7 +2232,7 @@
 
 ### Continuation
 
-The original science corpus ends at A-200. The next sequential source item is Cinderella 284; the next tale, The Elves and the Shoemaker, starts at 286.; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
+The original science corpus ends at A-200. The next sequential source item is 294 (The Elves and the Shoemaker).; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
 
 ## Part II — Fairy tales
 
@@ -3151,13 +3151,127 @@ The original science corpus ends at A-200. The next sequential source item is Ci
 **Diagnostic:** Remove “where she married the prince.” The trip remains, but the marriage that completes this sentence's achievement disappears.  
 **Reading status:** Written
 
-The next sequential fairy-tale sentence is Cinderella 284; the next tale starts at 286.
+### 284
+
+**Source ID:** 284  
+**Original sentence:** Cinderella lived happily, and she was loved for her kindness as much as for her beauty.  
+**What changed:** Cinderella's life after marriage receives a concluding characterisation: happiness is paired with others' love that values her kindness as much as her beauty.  
+**What made it sufficient:** “Lived happily” establishes the continuing favourable condition; “was loved” establishes the regard of others; “for her kindness as much as for her beauty” explicitly gives equal weight to two grounds for that regard.  
+**How it remains achieved:** The tale closes Cinderella's lived condition as happy and the grounds of others' love as no less concerned with kindness than appearance. It does not specify who loved her, individual acts of love, or an unchanging absence of future difficulties.  
+**Operative Centre:** The concluding establishment of Cinderella's happiness alongside love that values her kindness equally with her beauty.  
+**Diagnostic:** Replace “for her kindness as much as for her beauty” with “only for her beauty.” Her happiness and the fact that she is loved remain, but the equal recognition of her kindness is lost.  
+**Reading status:** Written
+
+### 285
+
+**Source ID:** 285  
+**Original sentence:** That is the tale of Cinderella.  
+**What changed:** The narration expressly marks the preceding account as a complete tale identified with Cinderella.  
+**What made it sufficient:** “That” refers back to the recounted story; “is the tale” names it as the account just completed; “of Cinderella” fixes whose tale it is.  
+**How it remains achieved:** The preceding narrative is designated as Cinderella's tale and brought to a formal close; no further character event is asserted.  
+**Operative Centre:** The narrative closure that identifies the preceding account as the tale of Cinderella.  
+**Diagnostic:** Replace “That is the tale of Cinderella” with “The tale of Cinderella begins here.” The same character and story are named, but closure becomes an opening.  
+**Reading status:** Written
+
+### The Elves and the Shoemaker
+
+### 286
+
+**Source ID:** 286  
+**Original sentence:** Once upon a time, there lived a poor shoemaker and his wife.  
+**What changed:** A new narrated world is opened through the introduction of a shoemaker characterised as poor and his wife.  
+**What made it sufficient:** “Once upon a time” locates the opening in an unspecified tale-past; “there lived” establishes the characters' existence; “a poor shoemaker and his wife” identifies the occupation, economic condition and relationship.  
+**How it remains achieved:** A poor shoemaker and his wife have been introduced; their residence, actions and particular troubles have not yet been given.  
+**Operative Centre:** The narrative introduction, in an unspecified past, of a poor shoemaker and his wife.  
+**Diagnostic:** Replace “a poor shoemaker and his wife” with “a prosperous merchant living alone.” A tale may still open, but neither the poor shoemaker nor the marital pair is established.  
+**Reading status:** Written
+
+### 287
+
+**Source ID:** 287  
+**Original sentence:** The shoemaker was honest and hardworking, but he had fallen on difficult times.  
+**What changed:** The shoemaker's virtue and diligence are set against the adversity he has nevertheless encountered.  
+**What made it sufficient:** “Honest and hardworking” supplies the favourable traits; “but” makes “had fallen on difficult times” contrast with them; “had fallen” marks the adverse circumstances as already developed.  
+**How it remains achieved:** The shoemaker is established as honest and hardworking despite his prior descent into difficulty; the cause, degree and duration of his trouble are not stated.  
+**Operative Centre:** The establishment of a contrast between the shoemaker's honesty and hard work and the difficult circumstances into which he had fallen.  
+**Diagnostic:** Replace “but” with “because.” The difficulties would be presented as following from the traits rather than standing in contrast to them; the governing adversative achievement changes.  
+**Reading status:** Written
+
+### 288
+
+**Source ID:** 288  
+**Original sentence:** At last, he had only enough leather left to make one pair of shoes.  
+**What changed:** The shoemaker's dwindling material resources reach an expressly limited remainder: leather sufficient for just one pair of shoes.  
+**What made it sufficient:** “At last” positions this as the reached point of depletion; “only enough ... left” makes the limitation explicit; “one pair of shoes” specifies the remaining productive capacity.  
+**How it remains achieved:** The available leather suffices for one pair and no additional pair is established as possible from that remainder. The sentence does not say he has no money or other materials whatsoever.  
+**Operative Centre:** The establishment of the shoemaker's depleted leather supply as sufficient for only one further pair of shoes.  
+**Diagnostic:** Replace “only enough leather left to make one pair” with “enough leather left to make many pairs.” Leather and shoe-making remain, but the limiting scarcity disappears.  
+**Reading status:** Written
+
+### 289
+
+**Source ID:** 289  
+**Original sentence:** That evening, he cut the leather carefully and laid the pieces on his workbench.  
+**What changed:** The shoemaker takes preparatory action that evening, carefully cutting his remaining leather and positioning the resulting pieces for subsequent work.  
+**What made it sufficient:** “That evening” fixes the time; “cut ... carefully” identifies his deliberate initial workmanship; “laid the pieces on his workbench” establishes the resulting placement.  
+**How it remains achieved:** The leather has been carefully cut and the pieces placed on the workbench; the shoes have not yet been stitched or completed.  
+**Operative Centre:** The establishment of the shoemaker's careful preparation of the leather into pieces left on his workbench that evening.  
+**Diagnostic:** Replace “laid the pieces on his workbench” with “stitched the pieces into completed shoes.” The care in cutting survives, but preparation becomes completed shoemaking, changing what the sentence achieves.  
+**Reading status:** Written
+
+### 290
+
+**Source ID:** 290  
+**Original sentence:** “I will stitch them in the morning,” he said.  
+**What changed:** The shoemaker states his intention to stitch the prepared pieces the following morning, postponing that work.  
+**What made it sufficient:** “I will stitch them” identifies the projected action with the pieces as its object; “in the morning” gives its future timing; “he said” establishes it as speech, not narrated completion.  
+**How it remains achieved:** A morning plan has been expressed; no stitching is established as having occurred or as certain to occur.  
+**Operative Centre:** The shoemaker's spoken commitment to stitch the prepared leather pieces the following morning rather than that evening.  
+**Diagnostic:** Replace “I will stitch them in the morning” with “I have stitched them already.” The words would report completed work instead of a future intention.  
+**Reading status:** Written
+
+### 291
+
+**Source ID:** 291  
+**Original sentence:** Then he went to bed with a heavy heart.  
+**What changed:** The shoemaker's evening concludes in going to bed under an explicitly burdened emotional condition.  
+**What made it sufficient:** “Then” places the action after his plan; “went to bed” gives the immediate event; “with a heavy heart” figuratively establishes his distressed mood.  
+**How it remains achieved:** He retires while feeling emotionally burdened; the sentence does not specify one exclusive cause of that feeling or establish how well he sleeps.  
+**Operative Centre:** The narrative establishment of the shoemaker's going to bed with a heavy-hearted disposition after setting aside the leather pieces.  
+**Diagnostic:** Replace “with a heavy heart” with “with a light and carefree heart.” His retirement remains, but the emotional condition governing its presentation is reversed.  
+**Reading status:** Written
+
+### 292
+
+**Source ID:** 292  
+**Original sentence:** In the morning, the shoemaker came down to his workshop.  
+**What changed:** The narrative returns to the next morning as the shoemaker goes to the place where he left his work.  
+**What made it sufficient:** “In the morning” fulfils the prior temporal reference; “came down to his workshop” establishes his movement to the work location.  
+**How it remains achieved:** He has reached his workshop the next morning; the sentence does not state what he sees there or whether he begins stitching.  
+**Operative Centre:** The narrative establishment of the shoemaker's return to his workshop the following morning.  
+**Diagnostic:** Replace “came down to his workshop” with “remained asleep in bed.” The next-morning time remains, but his return to the worksite disappears.  
+**Reading status:** Written
+
+### 293
+
+**Source ID:** 293  
+**Original sentence:** He stopped in astonishment when he saw the workbench.  
+**What changed:** The shoemaker's sight of the workbench becomes the occasion of an astonished interruption to his movement.  
+**What made it sufficient:** “Stopped in astonishment” describes both the sudden halt and its emotional quality; “when he saw the workbench” connects the reaction to the moment of looking.  
+**How it remains achieved:** He halts in surprise at the sight of the workbench; the sentence does not yet disclose what was on it or why it was astonishing.  
+**Operative Centre:** The establishment of the shoemaker's astonished halt upon seeing his workbench, without yet disclosing the sight that caused it.  
+**Diagnostic:** Replace “stopped in astonishment” with “continued without noticing anything.” The workbench remains in view, but the surprised interruption disappears.  
+**Reading status:** Written
+
+The next sequential fairy-tale sentence is 294 (The Elves and the Shoemaker).
 
 ## Part III — Mathematical traversals
 
 *No written Centre entries yet. Claims and derivation steps will receive separate records in source order.*
 
 ## Revision log
+
+- 2026-11-08 — Published autonomous Batch 13: Cinderella 284–285 and The Elves and the Shoemaker 286–293, preserving the tale boundary and 10 consecutive source IDs.
 
 - 2026-11-08 — Published autonomous Batch 12, Cinderella 274–283 (10 written Centres), recording fit, recognition, forgiveness and marriage without anticipation.
 
