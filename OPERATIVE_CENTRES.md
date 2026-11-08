@@ -8,10 +8,10 @@
 
 ## Progress register
 
-- **Last contiguous source ID:** A-200 (original sentences); Cinderella 263 (fairy tales)
-- **Written Centres:** 263 (200 original-sentence Centres; 63 fairy-tale Centres)
+- **Last contiguous source ID:** A-200 (original sentences); Cinderella 273 (fairy tales)
+- **Written Centres:** 273 (200 original-sentence Centres; 73 fairy-tale Centres)
 - **Needs further examination:** 0
-- **Next:** Cinderella 264
+- **Next:** Cinderella 274
 - **Basis for A-001–A-013:** Accepted independent calibration, preserved in substance.
 - **Revision policy:** Substantive changes require a dated, ID-specific revision note; never silently rewrite prior Centres.
 - **Cards:** Resolve reads this Markdown record to populate examined reverse faces; all absent records remain awaiting completion.
@@ -2232,7 +2232,7 @@
 
 ### Continuation
 
-The original science corpus ends at A-200. The next sequential source item is Cinderella 264; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
+The original science corpus ends at A-200. The next sequential source item is Cinderella 274; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
 
 ## Part II — Fairy tales
 
@@ -2931,13 +2931,125 @@ The original science corpus ends at A-200. The next sequential source item is Ci
 **Diagnostic:** Replace “became lizards” with “remained footmen.” The return to the prior animal form disappears.  
 **Reading status:** Written
 
-The next sequential fairy-tale sentence is 264.
+### 264
+
+**Source ID:** 264  
+**Original sentence:** Her shining gown became her old dress once more.  
+**What changed:** Cinderella's transformed gown reverts to her original dress.  
+**What made it sufficient:** “Became” establishes change; “old dress once more” marks the return to a previously existing form rather than a novel garment.  
+**How it remains achieved:** The old dress is restored, and the shining gown no longer remains in its enchanted form; no other object's fate is asserted.  
+**Operative Centre:** The narrative reversal of Cinderella's shimmering gown into her old dress once more.  
+**Diagnostic:** Replace “her old dress once more” with “an unfamiliar new gown.” Transformation remains, but restoration to an earlier state is lost.  
+**Reading status:** Written
+
+### 265
+
+**Source ID:** 265  
+**Original sentence:** Only the other glass slipper remained upon her foot.  
+**What changed:** One glass slipper is established as an exception that survives the other reversals, remaining on Cinderella's foot.  
+**What made it sufficient:** “Only” marks the exception, “the other glass slipper” identifies the counterpart to the slipper left behind, and “remained” establishes continued presence.  
+**How it remains achieved:** The other slipper remains on her foot; the sentence does not assert why it survives or what she will do with it.  
+**Operative Centre:** The establishment of the other glass slipper's continued presence on Cinderella's foot as an exception to the reversals.  
+**Diagnostic:** Remove “Only.” The slipper's presence remains but its singular exceptional status among the changed objects is no longer stated.  
+**Reading status:** Written
+
+### 266
+
+**Source ID:** 266  
+**Original sentence:** The next day, the prince sent a messenger through the kingdom.  
+**What changed:** The prince initiates a kingdom-wide messenger mission on the day following the ball.  
+**What made it sufficient:** “The next day” fixes its time relative to preceding events; “sent a messenger” establishes an authorised dispatch; “through the kingdom” gives its extent.  
+**How it remains achieved:** A messenger has been dispatched through the kingdom, but the message's content is not yet established by this sentence.  
+**Operative Centre:** The narrative establishment of the prince's dispatch of a messenger across the kingdom on the following day.  
+**Diagnostic:** Replace “sent a messenger through the kingdom” with “waited alone at the palace.” The initiating dispatch disappears.  
+**Reading status:** Written
+
+### 267
+
+**Source ID:** 267  
+**Original sentence:** The messenger carried the glass slipper and announced that the prince would marry the lady whose foot fitted it.  
+**What changed:** The glass slipper becomes a public criterion for identifying the intended bride through the messenger's announcement.  
+**What made it sufficient:** “Carried the glass slipper” supplies the object of the test; “announced that” makes the marriage statement reported speech; “whose foot fitted it” supplies the condition for identifying the lady.  
+**How it remains achieved:** A marriage intention governed by the slipper's fit is announced; no fitting woman or completed marriage is yet established.  
+**Operative Centre:** The establishment, through the messenger's announcement, of the glass slipper's fit as the condition identifying the lady the prince would marry.  
+**Diagnostic:** Replace “whose foot fitted it” with “whom the prince had already named.” The marriage intention remains, but the slipper-fitting criterion disappears.  
+**Reading status:** Written
+
+### 268
+
+**Source ID:** 268  
+**Original sentence:** Many young ladies tried to wear the slipper, but it fitted none of them.  
+**What changed:** The attempts of many young ladies are established as uniformly unsuccessful at fitting the slipper.  
+**What made it sufficient:** “Many” gives broad but non-universal participation; “tried” identifies attempt; “but” contrasts those attempts with “fitted none of them,” their failure.  
+**How it remains achieved:** None of the young ladies in this attempted group fits the slipper; the sentence does not establish that nobody else in the kingdom can.  
+**Operative Centre:** The establishment that numerous attempts to wear the slipper failed because it fitted none of the young ladies who tried.  
+**Diagnostic:** Replace “but it fitted none of them” with “and it fitted all of them.” The attempts remain, but the collective failure is reversed.  
+**Reading status:** Written
+
+### 269
+
+**Source ID:** 269  
+**Original sentence:** At last, the messenger came to Cinderella’s house.  
+**What changed:** The messenger's kingdom-wide journey reaches Cinderella's house.  
+**What made it sufficient:** “At last” marks the eventual arrival after previous attempts; “came to Cinderella's house” specifies the reached location.  
+**How it remains achieved:** The messenger has arrived at Cinderella's house, without yet selecting a person or completing the slipper test there.  
+**Operative Centre:** The narrative arrival of the messenger at Cinderella's house after the preceding unsuccessful attempts.  
+**Diagnostic:** Replace “came to Cinderella's house” with “passed by Cinderella's house without stopping.” The house remains in view, but arrival at it is lost.  
+**Reading status:** Written
+
+### 270
+
+**Source ID:** 270  
+**Original sentence:** The two stepsisters tried to force their feet into the slipper, but it was too small for them.  
+**What changed:** The stepsisters' attempts to fit the slipper are shown to fail against its insufficient size.  
+**What made it sufficient:** “Tried to force” identifies effort under resistance; “but” joins effort to failure; “too small for them” states the particular reason the slipper does not fit.  
+**How it remains achieved:** The two stepsisters cannot fit their feet into the slipper because it is too small, not because they declined to try.  
+**Operative Centre:** The establishment of the stepsisters' failed attempts to force the slipper on because it was too small for their feet.  
+**Diagnostic:** Replace “but it was too small for them” with “and it fitted them comfortably.” Attempt becomes success, destroying the failure grounded in size.  
+**Reading status:** Written
+
+### 271
+
+**Source ID:** 271  
+**Original sentence:** Cinderella asked if she might try it.  
+**What changed:** Cinderella requests the possibility of participating in the slipper test.  
+**What made it sufficient:** “Asked” identifies a request rather than an action already undertaken; “might try it” seeks permission for an attempt, not guaranteed fit.  
+**How it remains achieved:** Cinderella has asked to try the slipper; the sentence does not establish that she is allowed or that it fits.  
+**Operative Centre:** The narrative establishment of Cinderella's request for permission to try the glass slipper.  
+**Diagnostic:** Replace “asked if she might try it” with “tried it without asking.” A request becomes action, altering what is achieved.  
+**Reading status:** Written
+
+### 272
+
+**Source ID:** 272  
+**Original sentence:** Her stepsisters laughed, but the messenger said that every young lady must have her turn.  
+**What changed:** The stepsisters' derision is countered by the messenger's assertion that the trial must be open to every young lady.  
+**What made it sufficient:** “But” contrasts laughter with the messenger's pronouncement; “every young lady” makes the stated entitlement universal within the relevant group; “must” gives it obligatory force.  
+**How it remains achieved:** The messenger asserts that Cinderella is included in an equal opportunity to try; the sentence does not yet establish her actual fitting or selection.  
+**Operative Centre:** The establishment of a universal rule of participation asserted by the messenger despite the stepsisters' laughter.  
+**Diagnostic:** Replace “every young lady must have her turn” with “only the stepsisters may try.” The messenger's statement would exclude Cinderella rather than uphold universal participation.  
+**Reading status:** Written
+
+### 273
+
+**Source ID:** 273  
+**Original sentence:** Cinderella sat down and placed her foot inside the slipper.  
+**What changed:** Cinderella moves from requesting a trial to actually placing her foot into the slipper.  
+**What made it sufficient:** “Sat down” establishes her preparation for the test; “placed her foot inside the slipper” narrates the attempt itself, not a reported conclusion of exact fit.  
+**How it remains achieved:** Her foot has entered the slipper; the sentence does not yet explicitly state that it fits perfectly or that the prince has identified her.  
+**Operative Centre:** The narrative enactment of Cinderella's slipper trial through sitting down and placing her foot inside it.  
+**Diagnostic:** Replace “placed her foot inside the slipper” with “looked at the slipper from a distance.” The prospect of a trial remains, but the physical attempt disappears.  
+**Reading status:** Written
+
+The next sequential fairy-tale sentence is 274.
 
 ## Part III — Mathematical traversals
 
 *No written Centre entries yet. Claims and derivation steps will receive separate records in source order.*
 
 ## Revision log
+
+- 2026-11-08 — Published autonomous Batch 11, Cinderella 264–273 (10 written Centres), preserving the exceptional slipper, announced criterion, failed trials and permission to try.
 
 - 2026-11-08 — Published autonomous Batch 10, Cinderella 254–263 (10 written Centres), tracking the onset and completion of midnight, flight, unsuccessful pursuit, discovery and reversions.
 
