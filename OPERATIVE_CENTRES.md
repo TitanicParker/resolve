@@ -8,10 +8,10 @@
 
 ## Progress register
 
-- **Last contiguous source ID:** A-200 (original sentences); fairy tales through 323 (Cinderella 201–285; The Elves and the Shoemaker 286–323)
-- **Written Centres:** 323 (200 original-sentence Centres; 123 fairy-tale Centres)
+- **Last contiguous source ID:** A-200 (original sentences); fairy tales through 333 (Cinderella 201–285; The Elves and the Shoemaker 286–333)
+- **Written Centres:** 333 (200 original-sentence Centres; 133 fairy-tale Centres)
 - **Needs further examination:** 0
-- **Next:** The Elves and the Shoemaker 324
+- **Next:** The Elves and the Shoemaker 334
 - **Basis for A-001–A-013:** Accepted independent calibration, preserved in substance.
 - **Revision policy:** Substantive changes require a dated, ID-specific revision note; never silently rewrite prior Centres.
 - **Cards:** Resolve reads this Markdown record to populate examined reverse faces; all absent records remain awaiting completion.
@@ -2232,7 +2232,7 @@
 
 ### Continuation
 
-The original science corpus ends at A-200. The next sequential source item is 324 (The Elves and the Shoemaker).; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
+The original science corpus ends at A-200. The next sequential source item is 334 (The Elves and the Shoemaker).; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
 
 ## Part II — Fairy tales
 
@@ -3593,13 +3593,125 @@ The original science corpus ends at A-200. The next sequential source item is 32
 **Diagnostic:** Replace “have helped us so much” with “have never helped us.” Her speech would no longer acknowledge the substantial aid that governs her response.  
 **Reading status:** Written
 
-The next sequential fairy-tale sentence is 324 (The Elves and the Shoemaker).
+### 324
+
+**Source ID:** 324  
+**Original sentence:** “We must help them in return.”  
+**What changed:** The wife's gratitude becomes an explicit obligation to reciprocate the elves' assistance.  
+**What made it sufficient:** “Must help” gives the proposal obligatory force; “in return” grounds it as a response to help already received; “them” refers to the elves.  
+**How it remains achieved:** A resolve to reciprocate is spoken; the particular gift or completed act of help is not yet established.  
+**Operative Centre:** The narrative declaration of an obligation to repay the elves' help with help in return.  
+**Diagnostic:** Replace “in return” with “for no reason connected with what they did.” The resolve to help remains, but the governing reciprocal relationship disappears.  
+**Reading status:** Written
+
+### 325
+
+**Source ID:** 325  
+**Original sentence:** So she made two tiny shirts, two tiny coats, two tiny pairs of trousers, and two tiny pairs of stockings.  
+**What changed:** The wife acts on the proposal by making sets of four kinds of small clothing, two of each, for the elves.  
+**What made it sufficient:** “So” connects the action to the previous commitment; “made” establishes completion rather than mere intention; repeated “two tiny” supplies the quantities and scale.  
+**How it remains achieved:** She has made the four specified pairs or sets of garments; the sentence does not yet state that the elves received or wore them.  
+**Operative Centre:** The narrative fulfilment of the wife's reciprocal intention by making two each of four kinds of tiny garments.  
+**Diagnostic:** Replace “made” with “planned to make.” The same types and numbers of garments remain intended, but their completion disappears.  
+**Reading status:** Written
+
+### 326
+
+**Source ID:** 326  
+**Original sentence:** The shoemaker made two tiny pairs of shoes from the finest leather in his shop.  
+**What changed:** The shoemaker also produces a gift of two small pairs of shoes using his best available leather.  
+**What made it sufficient:** “Made” asserts production; “two tiny pairs” specifies number and size; “from the finest leather in his shop” identifies the chosen material and its quality relative to his stock.  
+**How it remains achieved:** Two tiny pairs of shoes have been made from his shop's finest leather; the sentence does not state that the elves have received them.  
+**Operative Centre:** The narrative production by the shoemaker of two tiny pairs of shoes from the finest leather available in his shop.  
+**Diagnostic:** Replace “from the finest leather in his shop” with “from scraps of his worst leather.” The shoes remain made, but the stated choice of his finest material disappears.  
+**Reading status:** Written
+
+### 327
+
+**Source ID:** 327  
+**Original sentence:** That evening, they laid the little clothes and shoes on the workbench instead of leather.  
+**What changed:** The couple changes what they leave on the bench for the nocturnal visitors: gifts replace the usual prepared leather.  
+**What made it sufficient:** “That evening” gives timing; “laid the little clothes and shoes” identifies the placed items; “instead of leather” explicitly establishes the substitution.  
+**How it remains achieved:** The garments and shoes lie on the workbench in place of leather; the sentence does not yet establish the elves' discovery or response.  
+**Operative Centre:** The narrative substitution of the couple's gifts for the usual leather on the workbench that evening.  
+**Diagnostic:** Replace “instead of leather” with “beside the usual leather.” The gifts could remain, but the deliberate substitution for the work material disappears.  
+**Reading status:** Written
+
+### 328
+
+**Source ID:** 328  
+**Original sentence:** Then they hid and waited.  
+**What changed:** The couple resumes its concealed watch after arranging the gifts.  
+**What made it sufficient:** “Then” orders their action after placement; “hid and waited” joins concealment and expectation rather than active encounter.  
+**How it remains achieved:** They are hidden and waiting; what they observe or what the elves do is not yet stated.  
+**Operative Centre:** The narrative establishment of the couple's renewed concealed waiting after leaving the gifts.  
+**Diagnostic:** Replace “hid and waited” with “departed without watching.” The sequence remains, but the watch itself disappears.  
+**Reading status:** Written
+
+### 329
+
+**Source ID:** 329  
+**Original sentence:** At midnight, the elves came in as usual.  
+**What changed:** The elves' arrival is presented as an accustomed recurrence at midnight, despite the changed contents of the bench.  
+**What made it sufficient:** “At midnight” fixes the time; “came in” reports arrival; “as usual” explicitly identifies this as repetition of their established custom.  
+**How it remains achieved:** The elves arrive at the customary time; the sentence does not yet say they notice the gifts or sew anything.  
+**Operative Centre:** The narrative establishment of the elves' usual midnight arrival despite the changed preparations.  
+**Diagnostic:** Replace “as usual” with “for the first time.” Arrival remains, but its habitual status disappears.  
+**Reading status:** Written
+
+### 330
+
+**Source ID:** 330  
+**Original sentence:** They looked for the leather, but they found the gifts instead.  
+**What changed:** The elves' expectation of leather is displaced by the unexpected discovery of gifts.  
+**What made it sufficient:** “Looked for the leather” establishes what they seek; “but” marks contrast; “found the gifts instead” makes their discovery a substitution for what was expected.  
+**How it remains achieved:** The elves have found gifts in place of leather; their feelings and subsequent actions are not yet stated.  
+**Operative Centre:** The narrative reversal of the elves' expected discovery of leather into their discovery of gifts instead.  
+**Diagnostic:** Replace “but they found the gifts instead” with “and found the leather as expected.” Their search remains but the surprising substitution is removed.  
+**Reading status:** Written
+
+### 331
+
+**Source ID:** 331  
+**Original sentence:** The elves put on the clothes.  
+**What changed:** The elves begin using the gifts by dressing themselves in the provided clothes.  
+**What made it sufficient:** “Put on” describes the actual act of wearing rather than inspection; “the clothes” refers to the newly made garments.  
+**How it remains achieved:** The elves have dressed in the clothes; this sentence alone does not state that they wear the shoes.  
+**Operative Centre:** The narrative enactment of the elves' acceptance of the clothing gifts by putting them on.  
+**Diagnostic:** Replace “put on the clothes” with “left the clothes untouched.” The gifts remain present, but the elves' wearing them disappears.  
+**Reading status:** Written
+
+### 332
+
+**Source ID:** 332  
+**Original sentence:** They laced up the little shoes.  
+**What changed:** The elves complete the act of putting on the shoemaker's small shoes by fastening their laces.  
+**What made it sufficient:** “Laced up” describes a particular act of fastening; “the little shoes” identifies the shoemaker's gifts.  
+**How it remains achieved:** The elves have laced the shoes; the sentence does not assert any dancing or departure.  
+**Operative Centre:** The narrative establishment of the elves' fastening and wearing of the little shoes made for them.  
+**Diagnostic:** Replace “laced up” with “set aside.” The shoes remain but the act of putting them on is lost.  
+**Reading status:** Written
+
+### 333
+
+**Source ID:** 333  
+**Original sentence:** They danced around the workshop with great delight.  
+**What changed:** The elves' reaction to their gifts becomes manifest as joyful dancing around the workshop.  
+**What made it sufficient:** “Danced around the workshop” establishes the form and location of the movement; “with great delight” supplies the strength and quality of their response.  
+**How it remains achieved:** The elves are dancing with great delight; the sentence does not state what they say or whether they return on later nights.  
+**Operative Centre:** The narrative expression of the elves' great delight through dancing around the workshop.  
+**Diagnostic:** Replace “with great delight” with “in deep sorrow.” Their dancing remains, but its stated joyful meaning disappears.  
+**Reading status:** Written
+
+The next sequential fairy-tale sentence is 334 (The Elves and the Shoemaker).
 
 ## Part III — Mathematical traversals
 
 *No written Centre entries yet. Claims and derivation steps will receive separate records in source order.*
 
 ## Revision log
+
+- 2026-11-08 — Published autonomous Batch 17, The Elves and the Shoemaker 324–333 (10 written Centres), distinguishing reciprocity, gift-making, substitution and delighted receipt.
 
 - 2026-11-08 — Published autonomous Batch 16, The Elves and the Shoemaker 314–323, preserving the distinction between watching, identifying visitors, seeing their work and expressing gratitude.
 
