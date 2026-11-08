@@ -8,10 +8,10 @@
 
 ## Progress register
 
-- **Last contiguous source ID:** A-200 (original sentences); fairy tales through 293 (Cinderella 201–285; The Elves and the Shoemaker 286–293)
-- **Written Centres:** 293 (200 original-sentence Centres; 93 fairy-tale Centres)
+- **Last contiguous source ID:** A-200 (original sentences); fairy tales through 303 (Cinderella 201–285; The Elves and the Shoemaker 286–303)
+- **Written Centres:** 303 (200 original-sentence Centres; 103 fairy-tale Centres)
 - **Needs further examination:** 0
-- **Next:** The Elves and the Shoemaker 294
+- **Next:** The Elves and the Shoemaker 304
 - **Basis for A-001–A-013:** Accepted independent calibration, preserved in substance.
 - **Revision policy:** Substantive changes require a dated, ID-specific revision note; never silently rewrite prior Centres.
 - **Cards:** Resolve reads this Markdown record to populate examined reverse faces; all absent records remain awaiting completion.
@@ -2232,7 +2232,7 @@
 
 ### Continuation
 
-The original science corpus ends at A-200. The next sequential source item is 294 (The Elves and the Shoemaker).; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
+The original science corpus ends at A-200. The next sequential source item is 304 (The Elves and the Shoemaker).; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
 
 ## Part II — Fairy tales
 
@@ -3263,13 +3263,125 @@ The original science corpus ends at A-200. The next sequential source item is 29
 **Diagnostic:** Replace “stopped in astonishment” with “continued without noticing anything.” The workbench remains in view, but the surprised interruption disappears.  
 **Reading status:** Written
 
-The next sequential fairy-tale sentence is 294 (The Elves and the Shoemaker).
+### 294
+
+**Source ID:** 294  
+**Original sentence:** The leather had been made into a perfect pair of shoes.  
+**What changed:** The leather left as cut pieces is now established as having been made into completed shoes of perfect quality.  
+**What made it sufficient:** “Had been made” establishes an already completed transformation without identifying who performed it; “a perfect pair of shoes” specifies the new product and its evaluation.  
+**How it remains achieved:** The prepared leather has become a perfect pair of shoes by the time it is observed; neither the maker nor the means is identified.  
+**Operative Centre:** The narrative revelation that the shoemaker's prepared leather has become a perfect pair of shoes without identifying who made them.  
+**Diagnostic:** Replace “had been made into a perfect pair of shoes” with “still lay in unfinished pieces.” The leather remains, but the surprising completed product disappears.  
+**Reading status:** Written
+
+### 295
+
+**Source ID:** 295  
+**Original sentence:** The stitches were neat.  
+**What changed:** One aspect of the finished shoes becomes established as the neatness of their stitching.  
+**What made it sufficient:** “The stitches” singles out the sewn joins, while “were neat” positively characterises their workmanship.  
+**How it remains achieved:** The stitching is neat; this sentence alone establishes neither how strong the shoes are nor who stitched them.  
+**Operative Centre:** The establishment of neat stitching as a specific quality of the completed shoes.  
+**Diagnostic:** Replace “neat” with “crooked and uneven.” The stitches remain the subject, but the quality attributed to them is reversed.  
+**Reading status:** Written
+
+### 296
+
+**Source ID:** 296  
+**Original sentence:** The soles were strong.  
+**What changed:** The finished shoes acquire a further stated quality: strength in their soles.  
+**What made it sufficient:** “The soles” identifies a particular component rather than the whole shoe; “strong” supplies its attributed physical quality.  
+**How it remains achieved:** The soles are strong; no claim is made here about stitching, appearance or durability over a measured period.  
+**Operative Centre:** The establishment of strength as a quality of the shoes' soles.  
+**Diagnostic:** Replace “strong” with “fragile.” The component remains, but its claimed strength disappears.  
+**Reading status:** Written
+
+### 297
+
+**Source ID:** 297  
+**Original sentence:** The shape was graceful.  
+**What changed:** The form of the completed shoes becomes established as graceful in appearance.  
+**What made it sufficient:** “The shape” singles out form rather than material or construction; “graceful” gives an aesthetic quality.  
+**How it remains achieved:** The shoes' shape is characterised as graceful, without any assertion about their makers or how they fit a wearer.  
+**Operative Centre:** The establishment of graceful form as a distinct quality of the completed shoes.  
+**Diagnostic:** Replace “graceful” with “clumsy.” Form remains the subject, but the attributed elegance is reversed.  
+**Reading status:** Written
+
+### 298
+
+**Source ID:** 298  
+**Original sentence:** The shoes were finer than any shoes the shoemaker had ever made.  
+**What changed:** The finished shoes are placed above all shoes previously made by the shoemaker in comparative fineness.  
+**What made it sufficient:** “Finer than” establishes comparative superiority; “any shoes the shoemaker had ever made” fixes the comparison class as his own past work.  
+**How it remains achieved:** The newly found shoes surpass his past output in fineness; no claim is made that they are the finest shoes in the kingdom or that their maker is known.  
+**Operative Centre:** The establishment that the newly completed shoes surpass every pair the shoemaker had previously made in fineness.  
+**Diagnostic:** Replace “than any shoes the shoemaker had ever made” with “than some worn shoes nearby.” The comparative claim becomes local and limited rather than superior to his entire previous work.  
+**Reading status:** Written
+
+### 299
+
+**Source ID:** 299  
+**Original sentence:** Soon a customer came into the shop.  
+**What changed:** A new participant enters the scene shortly after the fine shoes are revealed.  
+**What made it sufficient:** “Soon” makes the arrival temporally near the preceding scene; “a customer came into the shop” identifies the visitor's role and entrance.  
+**How it remains achieved:** A customer has entered the shop; the sentence does not yet assert an evaluation or purchase.  
+**Operative Centre:** The narrative arrival of a customer into the shoemaker's shop soon after the shoes' appearance.  
+**Diagnostic:** Replace “came into the shop” with “passed by the shop.” The customer may still be nearby, but entry into the scene is lost.  
+**Reading status:** Written
+
+### 300
+
+**Source ID:** 300  
+**Original sentence:** He saw the shoes and paid a handsome price for them.  
+**What changed:** The customer's notice of the shoes is followed by their purchase at a generous price.  
+**What made it sufficient:** “Saw the shoes” establishes his encounter with them; “paid a handsome price for them” establishes an actual monetary exchange and its generous character.  
+**How it remains achieved:** The customer has paid a handsome price for the shoes; the sentence does not specify the exact amount or his personal motives.  
+**Operative Centre:** The narrative establishment of the customer's purchase of the shoes for a handsome price after seeing them.  
+**Diagnostic:** Replace “paid a handsome price for them” with “left without buying them.” Seeing remains, but the purchase and its financial benefit disappear.  
+**Reading status:** Written
+
+### 301
+
+**Source ID:** 301  
+**Original sentence:** With that money, the shoemaker bought enough leather for two pairs of shoes.  
+**What changed:** The shoemaker turns the proceeds of the sale into materials for twice the prior stated number of pairs.  
+**What made it sufficient:** “With that money” explicitly connects purchase to the customer's payment; “bought enough leather for two pairs” identifies the new material capacity.  
+**How it remains achieved:** The sale proceeds enable purchase of leather sufficient for two pairs; the shoes themselves are not yet made.  
+**Operative Centre:** The establishment of the customer's payment as the means through which the shoemaker obtains leather sufficient for two pairs of shoes.  
+**Diagnostic:** Replace “With that money” with “Despite having no money to spend.” The purchase remains asserted, but the explicit link between sale proceeds and replenishment disappears.  
+**Reading status:** Written
+
+### 302
+
+**Source ID:** 302  
+**Original sentence:** That evening, he cut the leather and laid the pieces on his workbench.  
+**What changed:** The shoemaker repeats the preparatory actions of cutting leather and leaving the pieces on his workbench that evening.  
+**What made it sufficient:** “That evening” locates the new preparation; “cut” and “laid” identify the two stages, recalling but not requiring the same outcome as the previous night.  
+**How it remains achieved:** The new leather is cut and placed on the workbench; no completed shoes or unseen helper is established by this sentence.  
+**Operative Centre:** The narrative repetition of the shoemaker's preparation of cut leather pieces on his workbench for later work.  
+**Diagnostic:** Replace “laid the pieces on his workbench” with “finished stitching the shoes.” The original preparation would become completed manufacture.  
+**Reading status:** Written
+
+### 303
+
+**Source ID:** 303  
+**Original sentence:** “I will stitch them in the morning,” he said.  
+**What changed:** The shoemaker again voices an intention to stitch the prepared leather pieces the next morning.  
+**What made it sufficient:** “I will stitch” is a promise or statement of intended future action; “in the morning” delays its timing; contextual repetition makes this a renewed intention.  
+**How it remains achieved:** He states what he plans to do, not what he has done or what someone else will do overnight.  
+**Operative Centre:** The shoemaker's renewed spoken intention to stitch the prepared leather the following morning.  
+**Diagnostic:** Replace “I will stitch them in the morning” with “Someone has already stitched them.” Future self-directed work would be replaced by a report of completed work.  
+**Reading status:** Written
+
+The next sequential fairy-tale sentence is 304 (The Elves and the Shoemaker).
 
 ## Part III — Mathematical traversals
 
 *No written Centre entries yet. Claims and derivation steps will receive separate records in source order.*
 
 ## Revision log
+
+- 2026-11-08 — Published autonomous Batch 14, The Elves and the Shoemaker 294–303, preserving the distinction between workmanship, purchase, renewed preparation and intention.
 
 - 2026-11-08 — Published autonomous Batch 13: Cinderella 284–285 and The Elves and the Shoemaker 286–293, preserving the tale boundary and 10 consecutive source IDs.
 
