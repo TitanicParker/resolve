@@ -1,0 +1,3612 @@
+# Project 54 — The First 200 Sentences: From Operative Centre to Invariant
+
+This workbook brings together the first 200 canonical sentences and their independently established Operative Centres. It prepares each Centre for examination through an X–Y relational expression and the three-dimensional grammar of completed intelligibility.
+
+The original sentences and Centres are source-derived. All other fields begin unresolved.
+
+This is a working research document, not a claim that any of the 200 sentences has already been structurally resolved.
+
+## Part I — Corpus A: Statements About the World (A-001–A-100)
+
+### A-001
+
+**Original sentence:** The morning sun reaches mountain villages long before their valleys receive warmth.
+
+**Operative Centre:** The establishment of a temporal precedence through which the mountain villages' earlier encounter with the morning sun becomes intelligible in relation to the valleys' delayed warmth.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-002
+
+**Original sentence:** A river remembers no borders, yet nations argue over its water.
+
+**Operative Centre:** The establishment of an opposition between the river's boundary-independent existence and the politically divided claims made upon its water.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-003
+
+**Original sentence:** Every forest floor is a crowded marketplace of decay, nourishment, and renewal.
+
+**Operative Centre:** The metaphorical integration of decay, nourishment, and renewal into one intelligible organisation of the forest floor.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-004
+
+**Original sentence:** Somewhere tonight, a child will learn the moon follows no one home.
+
+**Operative Centre:** The intelligible anticipation of a child's discovery that the moon's apparent personal following is not an actual relationship of accompaniment.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-005
+
+**Original sentence:** Cities grow by making strangers useful to one another without introductions.
+
+**Operative Centre:** The establishment of impersonal mutual usefulness as a governing means of urban growth.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-006
+
+**Original sentence:** The ocean moves heat between continents, quietly shaping weather and harvests.
+
+**Operative Centre:** The establishment of oceanic heat transfer as a process whose influence extends from intercontinental movement into climatic and agricultural conditions.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-007
+
+**Original sentence:** A single seed carries instructions for negotiating soil, sunlight, insects, and time.
+
+**Operative Centre:** The representation of the seed's internal developmental organisation as a capacity to engage with diverse conditions over time.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-008
+
+**Original sentence:** When the bridge reopened, two neighborhoods became neighbors again before sunset.
+
+**Operative Centre:** The restoration of practical neighbourliness between two communities through the reopening of the bridge that connects them.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-009
+
+**Original sentence:** We built clocks to measure time, then arranged our lives around them.
+
+**Operative Centre:** The establishment of a reversal in practical dependence whereby instruments created to measure time become structures around which human activity is organised.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-010
+
+**Original sentence:** A grandmother's recipe survives because somebody remembers what cannot be written down.
+
+**Operative Centre:** The establishment of embodied or remembered knowledge as the sustaining condition through which a recipe survives beyond what can be written.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-011
+
+**Original sentence:** The desert is not empty; it simply makes every encounter more consequential.
+
+**Operative Centre:** The correction of an interpretation of the desert as empty through the recognition that its conditions make encounters more consequential.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-012
+
+**Original sentence:** Across the tundra, migrating animals follow routes older than any human map.
+
+**Operative Centre:** The establishment of migratory routes as enduring patterns whose existence precedes and does not depend upon human cartographic knowledge.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-013
+
+**Original sentence:** The first question in a classroom can change what everyone notices afterward.
+
+**Operative Centre:** The establishment of a single initiating question as capable of reorganising the subsequent field of collective attention.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-014
+
+**Original sentence:** Even broken pottery tells archaeologists how ordinary hands once held their world.
+
+**Operative Centre:** The establishment of broken pottery as material evidence through which archaeologists infer ordinary practices of life.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-015
+
+**Original sentence:** Listen closely: a crowded station contains hundreds of journeys sharing one platform.
+
+**Operative Centre:** The recognition of many independent journeys as temporarily gathered by one shared station platform.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-016
+
+**Original sentence:** The night sky offers ancient light to eyes that opened this morning.
+
+**Operative Centre:** The meeting of ancient light and newly awakened eyes in one present encounter, despite the difference in their temporal origins.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-017
+
+**Original sentence:** A market price gathers weather, labor, distance, scarcity, and desire into one figure.
+
+**Operative Centre:** The presentation of a market price as a single economic determination in which diverse conditions converge.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-018
+
+**Original sentence:** Every coastline is a temporary agreement between restless water and resistant land.
+
+**Operative Centre:** The representation of a coastline as a provisional boundary constituted by the interaction of moving water and resistant land.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-019
+
+**Original sentence:** Someone repairing a bicycle restores more than motion; they restore tomorrow's possibilities.
+
+**Operative Centre:** The recognition that repairing a bicycle reopens future practical possibilities beyond merely restoring its mechanical movement.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-020
+
+**Original sentence:** The world's languages divide experience differently while helping people recognize familiar situations.
+
+**Operative Centre:** The establishment that differently organised languages can nonetheless enable people to recognise comparable situations.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-021
+
+**Original sentence:** A hospital at midnight holds emergencies, recoveries, farewells, and beginnings under one roof.
+
+**Operative Centre:** The gathering of emergencies, recoveries, endings, and beginnings within one hospital setting at midnight.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-022
+
+**Original sentence:** Clouds do not consult calendars before bringing rain to waiting fields.
+
+**Operative Centre:** The assertion that rainfall follows its own conditions rather than human calendars, despite fields' expectations.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-023
+
+**Original sentence:** The smallest village may contain disagreements as intricate as those of capitals.
+
+**Operative Centre:** The establishment of the possibility that a very small community can contain disagreements as complex as those in a capital.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-024
+
+**Original sentence:** A lighthouse matters most when darkness makes the coastline difficult to distinguish.
+
+**Operative Centre:** The establishment of a lighthouse's importance as greatest when darkness makes the coastline hard to discern.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-025
+
+**Original sentence:** Every map leaves something out so that something else becomes easier to find.
+
+**Operative Centre:** The establishment that a map's selective omissions can make other features easier to find.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-026
+
+**Original sentence:** The bee visits a flower, and an orchard's future changes almost invisibly.
+
+**Operative Centre:** The establishment of a nearly unseen bearing of one bee's flower visit upon the future of an orchard.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-027
+
+**Original sentence:** There are places where winter silence makes a distant footstep sound enormous.
+
+**Operative Centre:** The establishment that winter quiet can make a distant footstep seem immense against its subdued auditory surroundings.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-028
+
+**Original sentence:** A new road shortens journeys while changing which towns people pass through.
+
+**Operative Centre:** The recognition that a new road changes not only journey length but also the towns through which journeys proceed.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-029
+
+**Original sentence:** The earth beneath a playground contains histories no child needs to know.
+
+**Operative Centre:** The establishment that the ground beneath children's play carries past histories independent of the children's awareness of them.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-030
+
+**Original sentence:** When a language disappears, particular ways of noticing may become harder to inherit.
+
+**Operative Centre:** The establishment of a potential loss in inherited ways of noticing when the language carrying them disappears.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-031
+
+**Original sentence:** A judge's decision can outlast the room where it was first spoken.
+
+**Operative Centre:** The establishment that a judicial determination can endure beyond the physical scene in which it was pronounced.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-032
+
+**Original sentence:** The mountain does not move, but every climber discovers a different approach.
+
+**Operative Centre:** The establishment that a fixed mountain can be approached differently by every climber.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-033
+
+**Original sentence:** Trade winds helped connect distant shores long before airplanes crossed the oceans.
+
+**Operative Centre:** The establishment of trade winds as an earlier means of connecting distant shores before air travel existed.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-034
+
+**Original sentence:** An open door can mean welcome, escape, opportunity, or a forgotten obligation.
+
+**Operative Centre:** The establishment of an open door as a single sign admitting several distinct possible meanings.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-035
+
+**Original sentence:** The same rain nourishes one field and washes another field away.
+
+**Operative Centre:** The establishment that the same rainfall can benefit one field and destroy another.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-036
+
+**Original sentence:** At dawn, fishing boats return with food, stories, debts, and weather reports.
+
+**Operative Centre:** The gathering of goods, experiences, obligations, and knowledge into the fishing boats' single return at dawn.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-037
+
+**Original sentence:** A city's water pipes make millions of private mornings possible without ceremony.
+
+**Operative Centre:** The establishment of city water pipes as an uncelebrated shared condition enabling millions of private morning routines.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-038
+
+**Original sentence:** No two people standing together bring exactly the same past into view.
+
+**Operative Centre:** The establishment that people can stand together while never bringing precisely identical personal histories to that moment.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-039
+
+**Original sentence:** The village well once organized meetings as surely as it supplied water.
+
+**Operative Centre:** The well's provision of water and organisation of meetings are presented as equally integral to its former role in the village.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-040
+
+**Original sentence:** An old tree shades grandchildren who never met the person who planted it.
+
+**Operative Centre:** The old tree makes the consequence of an earlier planting available to descendants who never knew the planter.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-041
+
+**Original sentence:** In a courtroom, a small distinction can redirect the course of lives.
+
+**Operative Centre:** The sentence establishes that a seemingly minor distinction in court can alter the subsequent course of people's lives.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-042
+
+**Original sentence:** The coral reef shelters creatures whose survival depends upon countless close relationships.
+
+**Operative Centre:** The sheltering function of a coral reef is presented together with the creatures' dependence on dense ecological relationships.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-043
+
+**Original sentence:** Every public library offers strangers access to work completed by absent minds.
+
+**Operative Centre:** A public library makes completed work by people who are not present accessible to readers who never knew them.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-044
+
+**Original sentence:** A lost key changes the meaning of an otherwise ordinary locked door.
+
+**Operative Centre:** The absence of the key turns an otherwise ordinary locked door into a different practical obstacle for the person needing entry.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-045
+
+**Original sentence:** The stars remain visible in deserts where city lights conceal their patterns.
+
+**Operative Centre:** The sentence contrasts the stars' continued visibility in deserts with the concealment of their patterns by city lights.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-046
+
+**Original sentence:** A farmer reads the soil through texture, smell, memory, and changing seasons.
+
+**Operative Centre:** The farmer interprets soil by combining texture, smell, remembered experience and seasonal change as sources of information.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-047
+
+**Original sentence:** The world's busiest ports turn distant intentions into containers moving across oceans.
+
+**Operative Centre:** Busy ports translate geographically distant purposes into the concrete movement of containers across oceans.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-048
+
+**Original sentence:** A song crossing generations may retain its shape while gathering new associations.
+
+**Operative Centre:** A song can retain its identifiable form across generations while gathering different associations in each new context.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-049
+
+**Original sentence:** The first snowfall makes familiar streets newly visible by hiding their details.
+
+**Operative Centre:** First snowfall changes how familiar streets appear precisely because it hides details normally used to recognise them.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-050
+
+**Original sentence:** A treaty is paper until people organize their conduct around its promises.
+
+**Operative Centre:** The sentence makes a treaty more than paper only when people organise their conduct around the promises it contains.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-051
+
+**Original sentence:** The human body repairs small injuries without asking permission from conscious thought.
+
+**Operative Centre:** The body can repair minor injuries through processes that do not require permission or direction from conscious thought.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-052
+
+**Original sentence:** Where rivers meet, sediment builds ground that neither river could build alone.
+
+**Operative Centre:** Where rivers converge, deposited sediment forms land attributed to their joint contribution rather than to either river individually.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-053
+
+**Original sentence:** An unanswered message can govern an afternoon more strongly than a ringing bell.
+
+**Operative Centre:** The continued absence of a reply can organise someone's afternoon more powerfully than a ringing bell does.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-054
+
+**Original sentence:** The classroom becomes quieter when the difficult idea finally finds a clear example.
+
+**Operative Centre:** The appearance of a clear example for a difficult idea is presented as the occasion of the classroom becoming quieter.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-055
+
+**Original sentence:** A compass points north, but travelers must still decide where to go.
+
+**Operative Centre:** A compass supplies north as orientation without determining where travellers ought to go.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-056
+
+**Original sentence:** Every harvest joins patient cultivation with conditions no farmer can command entirely.
+
+**Operative Centre:** Every harvest is represented as arising from patient cultivation together with environmental circumstances beyond complete human control.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-057
+
+**Original sentence:** The old harbor became a park, and the city's edge changed purpose.
+
+**Operative Centre:** Converting the old harbour into a park redefines the purpose of the city's waterfront.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-058
+
+**Original sentence:** A telescope extends sight without removing the need to interpret what appears.
+
+**Operative Centre:** A telescope expands what can be seen but does not eliminate the need to interpret what becomes visible.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-059
+
+**Original sentence:** The world contains more unfinished conversations than any archive could possibly preserve.
+
+**Operative Centre:** The number of unfinished conversations is presented as greater than the capacity of any archive to preserve them.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-060
+
+**Original sentence:** A newborn recognizes rhythms before learning the names of the people nearby.
+
+**Operative Centre:** A newborn can recognise rhythms prior to learning the names of those nearby, showing recognition without naming.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-061
+
+**Original sentence:** When the power fails, invisible networks suddenly become visible through their absence.
+
+**Operative Centre:** Failure of power makes previously unnoticed networks recognisable through what is no longer available.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-062
+
+**Original sentence:** The mountain pass connects communities during summer and separates them through winter.
+
+**Operative Centre:** The mountain pass serves as a connection in summer and a barrier in winter, according to changing seasonal conditions.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-063
+
+**Original sentence:** A recipe changes when ingredients travel, yet dinner still gathers people together.
+
+**Operative Centre:** A recipe can be altered by the movement of ingredients while dinner still brings people together.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-064
+
+**Original sentence:** At low tide, hidden rock pools briefly become neighborhoods open to inspection.
+
+**Operative Centre:** Low tide temporarily exposes hidden rock pools, making their small communities available for inspection.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-065
+
+**Original sentence:** The first bridge across a river changes both banks without moving either.
+
+**Operative Centre:** The first bridge transforms what the two riverbanks make possible for one another without changing their physical positions.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-066
+
+**Original sentence:** A museum preserves objects, but visitors must reconstruct the lives around them.
+
+**Operative Centre:** Museums can preserve objects, while visitors must infer the lives and circumstances in which those objects mattered.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-067
+
+**Original sentence:** Under city pavement, roots and pipes compete for space without ever meeting.
+
+**Operative Centre:** Roots and pipes beneath pavement compete for available room even though they never physically meet.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-068
+
+**Original sentence:** A child learns fairness partly by noticing when the rules change unexpectedly.
+
+**Operative Centre:** The child develops an understanding of fairness in part by observing when rules change unexpectedly.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-069
+
+**Original sentence:** The newspaper headline compresses complicated events into a doorway for public attention.
+
+**Operative Centre:** A newspaper headline condenses complicated events into a brief opening through which readers can attend to them.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-070
+
+**Original sentence:** A drought begins in missing rain and continues through prices, choices, and migrations.
+
+**Operative Centre:** Drought is presented as beginning in absent rain but persisting through altered prices, decisions and migration.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-071
+
+**Original sentence:** An apology cannot reverse yesterday, but it can alter tomorrow's relationship.
+
+**Operative Centre:** An apology cannot reverse what happened, yet can change how people relate to one another afterward.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-072
+
+**Original sentence:** The train timetable coordinates thousands of decisions made by people who never meet.
+
+**Operative Centre:** A train timetable aligns many independent decisions made by strangers through shared departure and arrival expectations.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-073
+
+**Original sentence:** In spring, a vacant lot becomes a garden through many small commitments.
+
+**Operative Centre:** Many modest commitments together transform a vacant lot into a garden in spring.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-074
+
+**Original sentence:** A mountain village measures distance in effort where maps measure it in kilometers.
+
+**Operative Centre:** The mountain village understands distance in terms of exertion while maps express it in kilometres.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-075
+
+**Original sentence:** A broken promise can remain active long after its words are forgotten.
+
+**Operative Centre:** The consequences or binding significance of a broken promise can persist after the original words have been forgotten.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-076
+
+**Original sentence:** Every scientific instrument makes certain differences detectable while leaving others beyond its reach.
+
+**Operative Centre:** Each scientific instrument enables detection of some differences while leaving others undetectable by that instrument.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-077
+
+**Original sentence:** The harbor fog erases landmarks, forcing sailors to trust other forms of guidance.
+
+**Operative Centre:** When harbour fog hides familiar landmarks, sailors must rely on alternative means of finding their way.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-078
+
+**Original sentence:** A crowded dinner table can hold several histories inside one shared conversation.
+
+**Operative Centre:** A crowded dinner-table conversation can bring several personal histories into one common exchange.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-079
+
+**Original sentence:** The oldest rocks on earth preserve traces of conditions nobody witnessed directly.
+
+**Operative Centre:** The oldest rocks retain traces through which conditions unseen by human witnesses can be investigated.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-080
+
+**Original sentence:** An election changes who may decide, even when the buildings remain unchanged.
+
+**Operative Centre:** An election can alter who has the right to decide while the buildings of government remain the same.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-081
+
+**Original sentence:** Birdsong announces territory, attracts companions, and becomes morning music to human listeners.
+
+**Operative Centre:** Birdsong can signal territory and attract companions while also being experienced by humans as morning music.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-082
+
+**Original sentence:** A bridge under repair reminds commuters how much ordinary life depends on maintenance.
+
+**Operative Centre:** A bridge being repaired makes commuters aware of how much routine life relies on maintenance.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-083
+
+**Original sentence:** The marketplace falls silent at closing, but its agreements continue elsewhere overnight.
+
+**Operative Centre:** Even after the marketplace closes and falls silent, agreements made there continue to govern activity beyond it.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-084
+
+**Original sentence:** A shoreline village learns the sea through gifts, warnings, losses, and returns.
+
+**Operative Centre:** The village comes to know the sea through the benefits, dangers, losses and recurring arrivals that shape its experience.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-085
+
+**Original sentence:** When children invent a game, they also invent what counts as winning.
+
+**Operative Centre:** When children invent a game, they establish not only its play but the conditions under which someone can win.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-086
+
+**Original sentence:** The world's glaciers move slowly while transforming valleys over spans beyond memory.
+
+**Operative Centre:** Glaciers can move slowly yet reshape valleys over timespans longer than human remembrance.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-087
+
+**Original sentence:** A shared meal can settle an argument without anyone declaring a formal victory.
+
+**Operative Centre:** A shared meal can settle an argument without anyone formally announcing a winner.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-088
+
+**Original sentence:** The traffic light turns green, and separate journeys briefly coordinate their movements.
+
+**Operative Centre:** A green traffic light enables separate journeys to coordinate their movements for a brief interval.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-089
+
+**Original sentence:** An abandoned factory may become housing, carrying traces of labor into domestic life.
+
+**Operative Centre:** The factory may acquire a domestic function without losing every sign of the labour formerly carried out there.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-090
+
+**Original sentence:** The night nurse notices changes that daytime visitors might never recognize as important.
+
+**Operative Centre:** The night nurse notices changes whose importance may escape daytime visitors.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-091
+
+**Original sentence:** A dictionary records words, but conversation keeps finding uses no definition anticipated.
+
+**Operative Centre:** A dictionary can record words without exhausting the new uses conversation may give them.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-092
+
+**Original sentence:** When a fence comes down, a field becomes a different kind of place.
+
+**Operative Centre:** Removing a fence can transform how a field is accessible or understood as a place.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-093
+
+**Original sentence:** The earthquake lasted seconds; rebuilding the neighborhood may take an entire generation.
+
+**Operative Centre:** An earthquake lasting seconds may generate rebuilding that takes a generation.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-094
+
+**Original sentence:** An island's isolation can protect unusual life while making resources difficult to replace.
+
+**Operative Centre:** An island's separation can safeguard distinctive life while making replacement resources harder to obtain.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-095
+
+**Original sentence:** The first page of a book asks readers to enter an unfamiliar order.
+
+**Operative Centre:** A book's first page invites readers to engage with a world or arrangement not yet familiar to them.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-096
+
+**Original sentence:** A river delta grows where moving water finally releases what it carried.
+
+**Operative Centre:** A river delta grows as moving water deposits material it had previously transported.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-097
+
+**Original sentence:** Public trust accumulates through repeated actions and can vanish after one betrayal.
+
+**Operative Centre:** Trust can arise through repeated reliable conduct yet disappear after a single betrayal.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-098
+
+**Original sentence:** A child's drawing makes a familiar house visible through unfamiliar proportions and priorities.
+
+**Operative Centre:** A child's drawing can reveal a known house in a new way by emphasising proportions and features differently.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-099
+
+**Original sentence:** Every evening, millions of lights reveal settlements that daylight conceals within landscapes.
+
+**Operative Centre:** After dark, artificial lights can disclose settlements whose presence blends into the landscape by day.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-100
+
+**Original sentence:** The world continues through countless small completions, each making another beginning possible.
+
+**Operative Centre:** The world continues through many local completions that each enable something further to begin.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+## Part II — Corpus B: Science (A-101–A-200)
+
+### A-101
+
+**Original sentence:** An object moving at constant velocity continues in a straight line unless a net external force acts on it.
+
+**Operative Centre:** An object continues at constant velocity in a straight line unless acted upon by a net external force.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-102
+
+**Original sentence:** The acceleration of an object equals the net force on it divided by its mass when the mass is constant.
+
+**Operative Centre:** For constant mass, an object's acceleration equals its net force divided by that mass.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-103
+
+**Original sentence:** For every force one object exerts on another, the second object exerts an equal and opposite force on the first.
+
+**Operative Centre:** When one object exerts a force on another, the second exerts an equal-magnitude, opposite-direction force on the first.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-104
+
+**Original sentence:** The gravitational attraction between two point masses decreases with the square of the distance between them.
+
+**Operative Centre:** The gravitational attraction between two point masses falls according to the inverse square of their separation.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-105
+
+**Original sentence:** In an isolated system, total energy remains constant even when energy changes form.
+
+**Operative Centre:** An isolated system retains the same total energy even as energy changes between forms.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-106
+
+**Original sentence:** Light travels more slowly through ordinary glass than through a vacuum.
+
+**Operative Centre:** Light travels at a lower speed in ordinary glass than it does in a vacuum.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-107
+
+**Original sentence:** A sound wave travels through air by producing successive regions of compression and rarefaction.
+
+**Operative Centre:** An airborne sound wave propagates through successive compressions and rarefactions of the air.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-108
+
+**Original sentence:** Increasing the temperature of a metal rod generally causes it to expand.
+
+**Operative Centre:** Raising a metal rod's temperature generally causes its length or size to increase.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-109
+
+**Original sentence:** A moving electric charge experiences a magnetic force when its motion has a component perpendicular to a magnetic field.
+
+**Operative Centre:** A moving charge experiences magnetic force when part of its motion is perpendicular to the magnetic field.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-110
+
+**Original sentence:** The pressure of a gas increases when its volume decreases at constant temperature and fixed gas quantity.
+
+**Operative Centre:** For a fixed amount of gas at constant temperature, decreasing volume increases pressure.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-111
+
+**Original sentence:** At chemical equilibrium, the forward and reverse reactions occur at equal rates.
+
+**Operative Centre:** At chemical equilibrium, forward and reverse reactions continue at the same rate.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-112
+
+**Original sentence:** Adding a reactant to a system at equilibrium can shift its composition toward products when other conditions remain fixed.
+
+**Operative Centre:** Adding reactant may shift an equilibrium mixture toward products if other relevant conditions remain fixed.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-113
+
+**Original sentence:** An acid donates a proton to a base in a Brønsted–Lowry acid–base reaction.
+
+**Operative Centre:** In a Brønsted–Lowry reaction, the acid donates a proton and the base receives it.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-114
+
+**Original sentence:** Water molecules form hydrogen bonds with nearby water molecules.
+
+**Operative Centre:** Nearby water molecules can form hydrogen bonds with one another.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-115
+
+**Original sentence:** Sodium chloride dissolves in water as sodium and chloride ions become surrounded by water molecules.
+
+**Operative Centre:** Sodium chloride dissolves when its constituent ions separate and become surrounded by water molecules.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-116
+
+**Original sentence:** A catalyst speeds a reaction by providing a pathway with a lower activation energy.
+
+**Operative Centre:** A catalyst accelerates a reaction by making a lower-activation-energy pathway available.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-117
+
+**Original sentence:** The pH of an aqueous solution decreases as its hydrogen ion activity increases.
+
+**Operative Centre:** As hydrogen ion activity rises in an aqueous solution, its pH falls.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-118
+
+**Original sentence:** Carbon atoms can form stable chains because they make strong covalent bonds with other carbon atoms.
+
+**Operative Centre:** Carbon can make stable chains because carbon atoms form strong covalent bonds with each other.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-119
+
+**Original sentence:** An oxidation reaction involves the loss of electrons by a chemical species.
+
+**Operative Centre:** A chemical species undergoes oxidation when it loses electrons.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-120
+
+**Original sentence:** At constant pressure, a pure substance boils when its vapor pressure equals the surrounding pressure.
+
+**Operative Centre:** At constant pressure, a pure substance boils when its vapour pressure equals the surrounding pressure.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-121
+
+**Original sentence:** Cells use ribosomes to assemble proteins from amino acids according to messenger RNA sequences.
+
+**Operative Centre:** Ribosomes assemble amino acids into proteins in an order directed by messenger RNA sequences.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-122
+
+**Original sentence:** During DNA replication, each new DNA double helix normally contains one original strand and one newly synthesized strand.
+
+**Operative Centre:** A newly replicated DNA double helix normally pairs a parental strand with a newly made strand.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-123
+
+**Original sentence:** Natural selection can increase the frequency of inherited traits that improve reproductive success in a particular environment.
+
+**Operative Centre:** Natural selection can make inherited traits more frequent when they improve reproductive success in the relevant environment.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-124
+
+**Original sentence:** Most plants use light energy to convert carbon dioxide and water into sugars during photosynthesis.
+
+**Operative Centre:** Most plants use light energy during photosynthesis to make sugars from carbon dioxide and water.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-125
+
+**Original sentence:** Enzymes accelerate biochemical reactions without being permanently consumed by those reactions.
+
+**Operative Centre:** Enzymes speed biochemical reactions while not being permanently used up by those reactions.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-126
+
+**Original sentence:** A cell membrane regulates the movement of substances between the cell and its surroundings.
+
+**Operative Centre:** The cell membrane regulates movement of substances between the cell and its surroundings.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-127
+
+**Original sentence:** Meiosis produces cells with half the chromosome number of the original diploid cell in typical sexual life cycles.
+
+**Operative Centre:** In typical sexual life cycles, meiosis produces cells with half the chromosome count of the original diploid cell.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-128
+
+**Original sentence:** Mutations introduce changes into DNA sequences that can be passed to daughter cells.
+
+**Operative Centre:** Mutations change DNA sequences and those changes may be transmitted to daughter cells.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-129
+
+**Original sentence:** Many bacteria reproduce by dividing one cell into two daughter cells.
+
+**Operative Centre:** Many bacteria reproduce by dividing one parent cell into two daughter cells.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-130
+
+**Original sentence:** In multicellular organisms, specialized cells perform different functions through differences in gene expression.
+
+**Operative Centre:** Specialised cells in multicellular organisms perform different functions through differences in gene expression.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-131
+
+**Original sentence:** Earth orbits the Sun approximately once every year.
+
+**Operative Centre:** Earth completes approximately one orbit around the Sun each year.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-132
+
+**Original sentence:** The Moon's changing phases result from the changing portion of its sunlit half visible from Earth.
+
+**Operative Centre:** The changing fraction of the Moon's illuminated half visible from Earth explains its observed phases.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-133
+
+**Original sentence:** Stars produce much of their energy by fusing lighter atomic nuclei into heavier ones.
+
+**Operative Centre:** Stars produce much of their energy through fusion of lighter atomic nuclei into heavier nuclei.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-134
+
+**Original sentence:** The Sun's gravity keeps the planets in bound orbits around it.
+
+**Operative Centre:** Solar gravity maintains the planets in gravitationally bound orbits around the Sun.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-135
+
+**Original sentence:** Light from distant galaxies is generally redshifted as the universe expands.
+
+**Operative Centre:** Light received from distant galaxies is generally redshifted in association with the expanding universe.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-136
+
+**Original sentence:** A black hole has an event horizon beyond which light cannot escape to distant observers.
+
+**Operative Centre:** A black hole's event horizon separates the region from which light cannot reach distant observers.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-137
+
+**Original sentence:** The cosmic microwave background is radiation left over from an early hot phase of the universe.
+
+**Operative Centre:** The cosmic microwave background consists of radiation surviving from an early hot stage of the universe.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-138
+
+**Original sentence:** A planet transiting its star can cause a small, periodic decrease in the star's observed brightness.
+
+**Operative Centre:** A planet crossing in front of its star may cause a small periodic reduction in the star's observed brightness.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-139
+
+**Original sentence:** The seasons on Earth arise mainly from the tilt of Earth's rotation axis relative to its orbit.
+
+**Operative Centre:** Earth's seasons are primarily caused by the tilt of its rotational axis relative to its orbit.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-140
+
+**Original sentence:** A star's apparent brightness depends on both its luminosity and its distance from the observer.
+
+**Operative Centre:** A star's apparent brightness is determined jointly by its luminosity and its distance from the observer.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-141
+
+**Original sentence:** Tectonic plates move slowly relative to one another across Earth's surface.
+
+**Operative Centre:** Tectonic plates undergo slow motion relative to other plates across Earth's surface.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-142
+
+**Original sentence:** Earthquakes occur when stored elastic strain is suddenly released along a fault.
+
+**Operative Centre:** Earthquakes occur through sudden release of elastic strain stored along faults.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-143
+
+**Original sentence:** Igneous rock forms when molten rock cools and solidifies.
+
+**Operative Centre:** Igneous rock forms through cooling and solidification of molten rock.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-144
+
+**Original sentence:** Sedimentary layers often preserve a record of the environments in which their sediments accumulated.
+
+**Operative Centre:** Sedimentary layers often retain evidence of the environments in which their constituent sediments accumulated.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-145
+
+**Original sentence:** Water expands as it freezes, allowing ice to widen cracks in rocks.
+
+**Operative Centre:** Water's expansion on freezing enables ice to widen existing cracks in rocks.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-146
+
+**Original sentence:** Volcanoes can form where one tectonic plate descends beneath another.
+
+**Operative Centre:** Volcanoes can develop where one tectonic plate subducts beneath another.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-147
+
+**Original sentence:** Earth's magnetic field is generated mainly by motion of electrically conducting liquid iron in its outer core.
+
+**Operative Centre:** Earth's magnetic field is generated chiefly by movement of electrically conducting liquid iron in the outer core.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-148
+
+**Original sentence:** Rivers transport sediment downstream when flowing water exerts enough force to move particles.
+
+**Operative Centre:** Rivers carry sediment downstream when flowing water applies sufficient force to mobilise particles.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-149
+
+**Original sentence:** Metamorphic rocks form when existing rocks change under heat, pressure, or chemically active fluids without completely melting.
+
+**Operative Centre:** Metamorphic rocks form when existing rock is changed by heat, pressure or active fluids without completely melting.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-150
+
+**Original sentence:** The age of some rocks can be estimated from the measured proportions of radioactive parent isotopes and their decay products.
+
+**Operative Centre:** The age of certain rocks can be estimated from the measured ratio of radioactive parent isotopes to their decay products.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-151
+
+**Original sentence:** Plants capture solar energy that can pass through food webs when organisms eat one another.
+
+**Operative Centre:** Plants capture sunlight-derived energy that can pass along food webs through consumption.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-152
+
+**Original sentence:** Decomposers return nutrients from dead organisms to soil and water.
+
+**Operative Centre:** Decomposers transfer nutrients from dead organisms back into soil and water.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-153
+
+**Original sentence:** A predator population can decline when its principal prey becomes scarce.
+
+**Operative Centre:** A predator population may decrease when its main prey becomes scarce.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-154
+
+**Original sentence:** Greater atmospheric carbon dioxide concentrations increase Earth's greenhouse effect when other relevant factors are held constant.
+
+**Operative Centre:** Increasing atmospheric carbon dioxide strengthens Earth's greenhouse effect when other relevant factors are unchanged.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-155
+
+**Original sentence:** Excess nitrogen and phosphorus entering lakes can stimulate algal blooms.
+
+**Operative Centre:** Excess nitrogen and phosphorus entering a lake may stimulate algal blooms.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-156
+
+**Original sentence:** Habitat fragmentation can isolate wildlife populations and reduce movement between them.
+
+**Operative Centre:** Habitat fragmentation may isolate wildlife populations and restrict movement among them.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-157
+
+**Original sentence:** Pollinators transfer pollen between flowers and enable reproduction in many flowering plants.
+
+**Operative Centre:** Pollinators move pollen between flowers, thereby enabling reproduction in many flowering plants.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-158
+
+**Original sentence:** An invasive species can reduce native species populations by competing for limited resources.
+
+**Operative Centre:** An invasive species may reduce native populations by competing with them for limited resources.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-159
+
+**Original sentence:** Wetlands can reduce downstream flooding by storing water during heavy rainfall.
+
+**Operative Centre:** Wetlands may lessen downstream flooding by retaining water during heavy rainfall.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-160
+
+**Original sentence:** Ocean acidification occurs as seawater absorbs additional atmospheric carbon dioxide and its pH decreases.
+
+**Operative Centre:** As seawater absorbs additional atmospheric carbon dioxide, its pH decreases, constituting ocean acidification.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-161
+
+**Original sentence:** In a right-angled triangle, the square of the hypotenuse's length equals the sum of the squares of the other two side lengths.
+
+**Operative Centre:** In a right triangle, the hypotenuse length squared equals the sum of the squares of the other two side lengths.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-162
+
+**Original sentence:** The angles inside any triangle on a flat Euclidean plane add up to 180 degrees.
+
+**Operative Centre:** Every triangle in the Euclidean plane has interior angles summing to 180 degrees.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-163
+
+**Original sentence:** Multiplying a nonzero number by its reciprocal gives one.
+
+**Operative Centre:** Any nonzero number multiplied by its reciprocal equals one.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-164
+
+**Original sentence:** The derivative of a differentiable function gives its instantaneous rate of change.
+
+**Operative Centre:** The establishment of differentiation as determining a differentiable function's rate of change at an instant, rather than merely over an interval.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-165
+
+**Original sentence:** The definite integral of a nonnegative continuous function over an interval equals the area beneath its graph on that interval.
+
+**Operative Centre:** The establishment of an exact equality between the definite integral of a nonnegative continuous function and the geometric area beneath its graph over the same interval.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-166
+
+**Original sentence:** The mean of a finite set of numbers equals their sum divided by the number of values.
+
+**Operative Centre:** The determination of the arithmetic mean by distributing the total numerical sum equally across the count of values.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-167
+
+**Original sentence:** The median of an ordered numerical dataset separates its lower and upper halves.
+
+**Operative Centre:** The establishment of the median through its central separating relationship to the lower and upper halves of an ordered numerical dataset.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-168
+
+**Original sentence:** Independent events have a joint probability equal to the product of their individual probabilities.
+
+**Operative Centre:** The establishment of independence as the condition under which joint occurrence has a probability equal to the product of the events' individual probabilities.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-169
+
+**Original sentence:** A larger random sample generally reduces the sampling variability of a sample mean when observations are independent and have finite variance.
+
+**Operative Centre:** The establishment of increased random sample size as generally reducing the sampling variability of the mean when observations are independent and have finite variance.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-170
+
+**Original sentence:** A correlation between two variables does not by itself establish that either variable causes the other.
+
+**Operative Centre:** The establishment of the inferential insufficiency of correlation alone to demonstrate causation in either direction between two variables.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-171
+
+**Original sentence:** Neurons communicate across many synapses by releasing chemical neurotransmitters.
+
+**Operative Centre:** The establishment of chemical neurotransmitter release as a means by which neurons communicate across many synapses.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-172
+
+**Original sentence:** A neuron can generate an action potential when changes in its membrane voltage reach a sufficient threshold.
+
+**Operative Centre:** The establishment of a sufficient membrane-voltage threshold as the condition under which a neuron can generate an action potential.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-173
+
+**Original sentence:** Myelin increases the speed of electrical signal conduction along many nerve fibers.
+
+**Operative Centre:** The establishment of myelin as an enhancer of electrical signal conduction speed along many nerve fibres.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-174
+
+**Original sentence:** The hippocampus is important for forming many new episodic memories.
+
+**Operative Centre:** The establishment of the hippocampus as an important contributor to the formation of many new episodic memories.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-175
+
+**Original sentence:** Visual signals from the retina travel toward the brain through the optic nerve.
+
+**Operative Centre:** The establishment of the optic nerve as the pathway carrying retina-originating visual signals toward the brain.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-176
+
+**Original sentence:** Repeated practice can improve performance on a motor skill by changing neural processing.
+
+**Operative Centre:** The establishment of neural-processing change as a means through which repeated practice can improve motor-skill performance.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-177
+
+**Original sentence:** Attention can improve the processing of selected information while other information receives less processing.
+
+**Operative Centre:** The establishment of attention's capacity to favour selected information through improved processing alongside reduced processing of other information.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-178
+
+**Original sentence:** Sleep supports the consolidation of some forms of memory.
+
+**Operative Centre:** The establishment of sleep as a supporting condition for the consolidation of some forms of memory.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-179
+
+**Original sentence:** The brain combines information from multiple senses to estimate properties of the environment.
+
+**Operative Centre:** The establishment of multisensory information combination as a means by which the brain estimates properties of its environment.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-180
+
+**Original sentence:** Damage to particular brain regions can impair specific cognitive functions while leaving others relatively intact.
+
+**Operative Centre:** The establishment that damage to particular brain regions can produce selective cognitive impairment, with some functions affected while others remain relatively intact.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-181
+
+**Original sentence:** The heart pumps blood through the lungs and the rest of the body.
+
+**Operative Centre:** The establishment of the heart's pumping function as driving blood through both the lungs and the rest of the body.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-182
+
+**Original sentence:** Insulin helps many body cells take up glucose from the blood.
+
+**Operative Centre:** The establishment of insulin as a facilitator of glucose uptake from the blood by many body cells.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-183
+
+**Original sentence:** The kidneys filter blood and regulate the excretion of water and dissolved substances.
+
+**Operative Centre:** The establishment of kidney function as combining blood filtration with regulation of the excretion of water and dissolved substances.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-184
+
+**Original sentence:** Vaccination can prepare the immune system to respond more effectively to a later infection by a targeted pathogen.
+
+**Operative Centre:** The establishment of vaccination as capable of preparing the immune system for a more effective response to subsequent infection by a targeted pathogen.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-185
+
+**Original sentence:** Hemoglobin in red blood cells carries most of the oxygen transported in human blood.
+
+**Operative Centre:** The establishment of haemoglobin within red blood cells as the predominant carrier of oxygen transported in human blood.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-186
+
+**Original sentence:** During inhalation, contraction of the diaphragm helps expand the chest cavity and draw air into the lungs.
+
+**Operative Centre:** The establishment of diaphragm contraction as a contributing means of chest-cavity expansion and air intake during inhalation.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-187
+
+**Original sentence:** Fever can occur when immune signals raise the body's temperature set point during infection.
+
+**Operative Centre:** The establishment of an immune-signal-driven rise in the body's temperature set point during infection as a condition under which fever can occur.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-188
+
+**Original sentence:** Antibiotics that target bacteria do not directly kill viruses.
+
+**Operative Centre:** The establishment that antibiotics directed against bacteria do not themselves directly kill viruses.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-189
+
+**Original sentence:** The liver converts ammonia produced during amino acid metabolism into urea for excretion.
+
+**Operative Centre:** The establishment of hepatic conversion of ammonia arising from amino acid metabolism into urea as a transformation directed toward excretion.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-190
+
+**Original sentence:** Regular aerobic exercise can improve the heart's ability to deliver oxygenated blood during physical activity.
+
+**Operative Centre:** The establishment of regular aerobic exercise as capable of enhancing the heart's capacity to deliver oxygenated blood during physical activity.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-191
+
+**Original sentence:** A binary digit represents one of two possible values.
+
+**Operative Centre:** The establishment of a binary digit as a representation restricted to one of exactly two possible values.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-192
+
+**Original sentence:** A computer program follows instructions that specify operations on data.
+
+**Operative Centre:** The establishment of specified instructions as governing the operations on data followed by a computer program.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-193
+
+**Original sentence:** A sorting algorithm arranges items according to a specified ordering rule.
+
+**Operative Centre:** The establishment of a specified ordering rule as the governing condition of the arrangement produced by a sorting algorithm.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-194
+
+**Original sentence:** Binary search can locate a target in a sorted array by repeatedly eliminating half of the remaining search interval.
+
+**Operative Centre:** The establishment of repeated elimination of half the remaining search interval as the means by which binary search can locate a target in a sorted array.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-195
+
+**Original sentence:** Encryption transforms readable information into a form that requires an appropriate key to recover the original information.
+
+**Operative Centre:** The establishment of encryption as a transformation that makes recovery of the original readable information dependent on an appropriate key.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-196
+
+**Original sentence:** A checksum can detect some accidental changes to transmitted data.
+
+**Operative Centre:** The establishment of a checksum's limited capacity to detect some accidental alterations in transmitted data.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-197
+
+**Original sentence:** Lossless compression represents data with fewer bits while allowing exact reconstruction of the original data.
+
+**Operative Centre:** The establishment of a reduced-bit representation that preserves the ability to reconstruct the original data exactly.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-198
+
+**Original sentence:** A database index can speed up searches by providing a structure for locating records without scanning every record.
+
+**Operative Centre:** The establishment of structured record location without exhaustive scanning as a means by which a database index can accelerate searches.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-199
+
+**Original sentence:** A network packet can reach its destination through a sequence of routers that forward it toward the destination address.
+
+**Operative Centre:** The establishment of successive router forwarding toward a destination address as a means by which a network packet can reach its destination.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
+### A-200
+
+**Original sentence:** Shannon entropy measures the average uncertainty of a random variable using the probabilities of its possible outcomes.
+
+**Operative Centre:** The establishment of the probabilities of a random variable's possible outcomes as determining its measure of average uncertainty through Shannon entropy.
+
+**X–Y transformation:** [UNRESOLVED]
+
+**Ultra-short form:** [UNRESOLVED]
+
+**Triaxial coordinates:**
+
+- **Transformation Pattern:** [UNRESOLVED]
+- **Completion Topology:** [UNRESOLVED]
+- **Persistence Mode:** [UNRESOLVED]
+
+**Canonical cell name:** [UNRESOLVED]
+
