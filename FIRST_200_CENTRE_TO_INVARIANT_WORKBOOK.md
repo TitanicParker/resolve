@@ -14,21 +14,21 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** The establishment of a temporal precedence through which the mountain villages' earlier encounter with the morning sun becomes intelligible in relation to the valleys' delayed warmth.
 
-**X–Y transformation:** X changes in response to Y.
+**X–Y transformation:** X leads sequentially to Y.
 
-**Ultra-short form:** Each changes the other.
+**Ultra-short form:** Then.
 
 **Triaxial coordinates:**
 
 - **Transformation Pattern:** Relating
 - **Completion Topology:** Distributed
-- **Persistence Mode:** Bearing
+- **Persistence Mode:** Standing
 
-**Canonical cell name:** 23 — Reciprocal shift
+**Canonical cell name:** 22 — Sequential link
 
-**Resolution rationale:** The substantial temporal lead is constituted across the two different arrivals: village sunlight is earlier relative to valley warmth. The distinction depends on this comparative field rather than a single arrival.
+**Resolution rationale:** The two arrivals establish a determinate temporal order: sunlight reaches the mountain villages before warmth reaches their valleys. Completion lies in the sequence across these events, and the achieved ordering stands without implying that either event changes in response to the other.
 
-**Closest rival:** 22 would retain the completed order as a standing configuration; the recorded Centre specifically makes the earlier encounter intelligible through its relation to the delayed warmth.
+**Closest rival:** 23 — Reciprocal shift would require a responsive alteration between the events, which the sentence and recorded Centre do not establish.
 
 ### A-002
 
