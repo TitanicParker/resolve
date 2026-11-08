@@ -1230,6 +1230,9 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Canonical cell name:** 05 — Context-bound mark
 
+**Structural audit status:** REVIEW REQUIRED — 05 — Context-bound mark / 25 — Pattern alignment. The Centre combines changed recipe ingredients with continuing social gathering. Does the governing completion reside in contextual difference, or in identifiable continuity across altered carriers? The available Centre does not yet discriminate those alternatives sharply.
+
+
 ### A-064
 
 **Original sentence:** At low tide, hidden rock pools briefly become neighborhoods open to inspection.
@@ -1355,6 +1358,9 @@ This is a working research document, not a claim that any of the 200 sentences h
 - **Persistence Mode:** Efficacy
 
 **Canonical cell name:** 24 — Relational cycle
+
+**Structural audit status:** REVIEW REQUIRED — 24 — Relational cycle / 22 — Sequential link. The Centre states that drought persists through subsequent prices, decisions and migrations. Does it assert an operative propagating course, or only an established ordering of downstream consequences? A return loop is not stated, although the canonical 24 definition also permits propagation.
+
 
 ### A-071
 
@@ -1524,17 +1530,22 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** An election can alter who has the right to decide while the buildings of government remain the same.
 
-**X–Y transformation:** X mirrors Y.
+**X–Y transformation:** X is separated from Y by a boundary.
 
-**Ultra-short form:** Answered.
+**Ultra-short form:** This far.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** Relating
+- **Transformation Pattern:** Differentiation
 - **Completion Topology:** Focal
 - **Persistence Mode:** Efficacy
 
-**Canonical cell name:** 21 — Responsive return
+**Canonical cell name:** 03 — Boundary act
+
+**Resolution rationale:** The Centre concerns a change in who is entitled to decide: an operative distinction of decision authority, with the election determining admissibility at its decisive boundary. It does not describe a response returning to an initiating relation.
+
+**Closest rival:** 21 — Responsive return would require a focal response consummating a bearing; the Centre instead establishes a changed permission to decide.
+
 
 ### A-081
 
@@ -1614,17 +1625,22 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** When children invent a game, they establish not only its play but the conditions under which someone can win.
 
-**X–Y transformation:** X is affirmed as Y with no alternatives.
+**X–Y transformation:** X always implies Y under valid conditions.
 
-**Ultra-short form:** Chosen.
+**Ultra-short form:** Settled if.
 
 **Triaxial coordinates:**
 
 - **Transformation Pattern:** Settlement
-- **Completion Topology:** Focal
-- **Persistence Mode:** Standing
+- **Completion Topology:** Distributed
+- **Persistence Mode:** Bearing
 
-**Canonical cell name:** 46 — Settled alternative
+**Canonical cell name:** 50 — Condition-bound settlement
+
+**Resolution rationale:** Inventing the game also establishes the criteria governing what counts as winning. Closure is conditional upon those constitutive rules, not the selection of a particular winning alternative.
+
+**Closest rival:** 46 — Settled alternative would discharge a particular choice or answer. The Centre provides the conditions under which a future winner can be determined.
+
 
 ### A-086
 
@@ -1722,17 +1738,22 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** A dictionary can record words without exhausting the new uses conversation may give them.
 
-**X–Y transformation:** X is spread as field Y.
+**X–Y transformation:** X reaches Y by different path Z.
 
-**Ultra-short form:** Available throughout.
+**Ultra-short form:** Another way through.
 
 **Triaxial coordinates:**
 
 - **Transformation Pattern:** Opening
 - **Completion Topology:** Distributed
-- **Persistence Mode:** Efficacy
+- **Persistence Mode:** Standing
 
-**Canonical cell name:** 15 — Field distribution
+**Canonical cell name:** 13 — Alternate passage
+
+**Resolution rationale:** The Centre establishes that conversational uses can exceed the repertoire recorded in a dictionary. The achievement is the availability of alternative uses across an open linguistic field, not a continuous effective passage through a spatial span.
+
+**Closest rival:** 15 — Field distribution would require an operative course supported throughout the relevant span; the Centre asserts unanticipated possible uses rather than their distributed execution.
+
 
 ### A-092
 
@@ -1841,6 +1862,9 @@ This is a working research document, not a claim that any of the 200 sentences h
 - **Persistence Mode:** Efficacy
 
 **Canonical cell name:** 24 — Relational cycle
+
+**Structural audit status:** REVIEW REQUIRED — 24 — Relational cycle / 23 — Reciprocal shift. Repeated reliable actions produce trust, while betrayal can abruptly undo it. The Centre does not explicitly establish feedback or reciprocal alteration. Does the persistence of trust depend on the relational bearing of conduct or on an operative course of accumulating effects?
+
 
 ### A-098
 
@@ -2444,17 +2468,22 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** Earth completes approximately one orbit around the Sun each year.
 
-**X–Y transformation:** X regularly leads to Y.
+**X–Y transformation:** X returns to Y in a loop.
 
-**Ultra-short form:** It returns.
+**Ultra-short form:** Back into itself.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** Settlement
+- **Transformation Pattern:** Relating
 - **Completion Topology:** Distributed
-- **Persistence Mode:** Standing
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** 49 — Recurrence settlement
+**Canonical cell name:** 24 — Relational cycle
+
+**Resolution rationale:** The Earth–Sun orbit is an operative returning course, completing an approximately annual cycle. The Centre records periodic orbital recurrence, but not a plurality of outstanding demands discharged by a settled account.
+
+**Closest rival:** 49 — Recurrence settlement would concern closure of outstanding demands across a range; an orbit's periodic return is a relational cycle.
+
 
 ### A-132
 
@@ -2498,17 +2527,22 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** Solar gravity maintains the planets in gravitationally bound orbits around the Sun.
 
-**X–Y transformation:** X and Y support one another’s constraints.
+**X–Y transformation:** X balances with Y around pivot Z.
 
-**Ultra-short form:** Held through each other.
+**Ultra-short form:** Held in counterbalance.
 
 **Triaxial coordinates:**
 
-- **Transformation Pattern:** Integration
-- **Completion Topology:** Distributed
+- **Transformation Pattern:** Relating
+- **Completion Topology:** Focal
 - **Persistence Mode:** Bearing
 
-**Canonical cell name:** 41 — Mutual-support structure
+**Canonical cell name:** 20 — Pivoted balance
+
+**Resolution rationale:** The Sun's gravity is the constitutive focal reference governing the planets' bound orbital standing. The Centre asserts gravitational dependence on that central source, not mutually sustaining relations among the planets.
+
+**Closest rival:** 41 — Mutual-support structure would require unity constituted by the supporting bearings of multiple parts on one another; the Centre identifies the Sun as the focal gravitational condition.
+
 
 ### A-135
 
@@ -2588,17 +2622,22 @@ This is a working research document, not a claim that any of the 200 sentences h
 
 **Operative Centre:** Earth's seasons are primarily caused by the tilt of its rotational axis relative to its orbit.
 
-**X–Y transformation:** X changes in response to Y.
+**X–Y transformation:** X mirrors Y.
 
-**Ultra-short form:** Each changes the other.
+**Ultra-short form:** Answered.
 
 **Triaxial coordinates:**
 
 - **Transformation Pattern:** Relating
-- **Completion Topology:** Distributed
-- **Persistence Mode:** Bearing
+- **Completion Topology:** Focal
+- **Persistence Mode:** Efficacy
 
-**Canonical cell name:** 23 — Reciprocal shift
+**Canonical cell name:** 21 — Responsive return
+
+**Resolution rationale:** The rotational tilt is the privileged governing orientation through which the seasonal outcome becomes determinate. The Centre establishes a resulting seasonal effect, not reciprocal shifts between tilt and the seasons.
+
+**Closest rival:** 23 — Reciprocal shift would require a constitutive field of mutual or comparative determination. The sentence identifies tilt as a primary cause of seasons, not reverse influence.
+
 
 ### A-140
 
@@ -3701,17 +3740,17 @@ This is a working research document, not a claim that any of the 200 sentences h
 ## Independent Structural Audit
 
 **Date:** 2026-11-08  
-**Scope:** A-001–A-060 independently examined against the exact recorded Operative Centres, Appendix A, Appendix B and the controlling 54-cell definitions. **Partial audit; A-061–A-200 are not yet independently audited by this pass.**  
-**Examined:** 60  
-**Assignments retained after examination:** 47  
-**Assignments corrected:** 13  
-**Marked REVIEW REQUIRED:** 0
+**Scope:** A-001–A-200 independently examined against the recorded Centres and the 54-cell conjunction definitions, with targeted rivalry analysis where assignments were difficult.  
+**Assignments examined:** 200  
+**Retained without a correction or review flag:** 178  
+**Corrected assignments:** 19  
+**Marked REVIEW REQUIRED:** 3
 
-**Corrected records (old → new):** A-005: 24 → 42; A-016: 05 → 38; A-020: 05 → 26; A-023: 23 → 05; A-031: 22 → 25; A-032: 04 → 13; A-034: 04 → 13; A-037: 21 → 15; A-039: 21 → 39; A-048: 05 → 25; A-050: 21 → 42; A-055: 04 → 02; A-059: 23 → 05.
+**Changed assignments (old → new):** A-005: 24 → 42; A-016: 05 → 38; A-020: 05 → 26; A-023: 23 → 05; A-031: 22 → 25; A-032: 04 → 13; A-034: 04 → 13; A-037: 21 → 15; A-039: 21 → 39; A-048: 05 → 25; A-050: 21 → 42; A-055: 04 → 02; A-059: 23 → 05; A-080: 21 → 03; A-085: 46 → 50; A-091: 15 → 13; A-131: 49 → 24; A-134: 41 → 20; A-139: 23 → 21.
 
-**Method:** Each inspected assignment was tested against the source-faithful Centre. Changed assignments now carry an ID-specific rationale and an explicit rejected rival. Unchanged assignments were examined, not simply counted as verified by their presence. This is an editorial structural judgement, not a blind derivation or proof of unique classification.
+**Unresolved structural questions:** A-063: 05 — Context-bound mark / 25 — Pattern alignment — The Centre combines changed recipe ingredients with continuing social gathering. Does the governing completion reside in contextual difference, or in identifiable continuity across altered carriers? The available Centre does not yet discriminate those alternatives sharply. A-070: 24 — Relational cycle / 22 — Sequential link — The Centre states that drought persists through subsequent prices, decisions and migrations. Does it assert an operative propagating course, or only an established ordering of downstream consequences? A return loop is not stated, although the canonical 24 definition also permits propagation. A-097: 24 — Relational cycle / 23 — Reciprocal shift — Repeated reliable actions produce trust, while betrayal can abruptly undo it. The Centre does not explicitly establish feedback or reciprocal alteration. Does the persistence of trust depend on the relational bearing of conduct or on an operative course of accumulating effects?
 
-**Continuing work:** Audit A-061 onward. Further examination may revisit previously retained or corrected assignments if a decisive structural comparison warrants an ID-specific revision.
+**Method and status:** The original sentences and independently established Operative Centres were held fixed. All 200 existing assignments were examined as independent hypotheses, with particular attention to whether the claimed topology and persistence are *constitutive*, rather than mere features of the sentence's vocabulary. Corrections record the precise rejected rival. “Retained” means no correction was established by this editorial comparison; it is not an experimental proof of a unique invariant. REVIEW REQUIRED entries preserve their existing provisional fields only as historical proposals, **not as approved classifications**. This is a structural editorial audit, not a blind decoding test.
 
 ---
 
