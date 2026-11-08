@@ -8,10 +8,10 @@
 
 ## Progress register
 
-- **Last contiguous source ID:** A-200 (original sentences); Cinderella 243 (fairy tales)
-- **Written Centres:** 243 (200 original-sentence Centres; 43 fairy-tale Centres)
+- **Last contiguous source ID:** A-200 (original sentences); Cinderella 253 (fairy tales)
+- **Written Centres:** 253 (200 original-sentence Centres; 53 fairy-tale Centres)
 - **Needs further examination:** 0
-- **Next:** Cinderella 244
+- **Next:** Cinderella 254
 - **Basis for A-001–A-013:** Accepted independent calibration, preserved in substance.
 - **Revision policy:** Substantive changes require a dated, ID-specific revision note; never silently rewrite prior Centres.
 - **Cards:** Resolve reads this Markdown record to populate examined reverse faces; all absent records remain awaiting completion.
@@ -2232,7 +2232,7 @@
 
 ### Continuation
 
-The original science corpus ends at A-200. The next sequential source item is Cinderella 244; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
+The original science corpus ends at A-200. The next sequential source item is Cinderella 254; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
 
 ## Part II — Fairy tales
 
@@ -2711,13 +2711,125 @@ The original science corpus ends at A-200. The next sequential source item is Ci
 **Diagnostic:** Replace “more graceful than anyone in the kingdom” with “as graceful as some people nearby.” The broad comparative pre-eminence disappears.  
 **Reading status:** Written
 
-The next sequential fairy-tale sentence is 244.
+### 244
+
+**Source ID:** 244  
+**Original sentence:** The fairy godmother gave her one command.  
+**What changed:** The fairy godmother's help becomes accompanied by a single directive addressed to Cinderella.  
+**What made it sufficient:** “Gave her” identifies the recipient of the directive and “one command” identifies both its imperative character and singular number, without stating its content.  
+**How it remains achieved:** One command has been given; its specific requirement is not yet established by this sentence.  
+**Operative Centre:** The narrative establishment of a single command given by the fairy godmother to Cinderella.  
+**Diagnostic:** Replace “one command” with “several suggestions.” The directive's imperative and singular character would be lost.  
+**Reading status:** Written
+
+### 245
+
+**Source ID:** 245  
+**Original sentence:** “You must leave the palace before midnight,” she said.  
+**What changed:** The fairy godmother's command becomes determinate as a requirement that Cinderella leave the palace prior to midnight.  
+**What made it sufficient:** “Must leave” makes departure obligatory; “before midnight” supplies its deadline; “she said” attributes the requirement to the fairy godmother.  
+**How it remains achieved:** Cinderella is instructed to depart before midnight; neither her compliance nor the reason is yet asserted in this sentence.  
+**Operative Centre:** The establishment of the fairy godmother's command requiring Cinderella to leave the palace before midnight.  
+**Diagnostic:** Replace “before midnight” with “whenever you wish.” The deadline that governs the command disappears.  
+**Reading status:** Written
+
+### 246
+
+**Source ID:** 246  
+**Original sentence:** “At the stroke of twelve, the magic will end.”  
+**What changed:** The fairy godmother's warning establishes a future endpoint for the magic at twelve.  
+**What made it sufficient:** “At the stroke of twelve” fixes the time; “will end” predicts termination rather than describing a present ending.  
+**How it remains achieved:** The magic's termination at twelve is announced, not yet narrated as occurring; the sentence does not specify the individual transformations that will be undone.  
+**Operative Centre:** The establishment of a spoken prediction that the magic will end at the stroke of twelve.  
+**Diagnostic:** Replace “will end” with “will continue unchanged.” The clock time remains, but the predicted ending becomes persistence.  
+**Reading status:** Written
+
+### 247
+
+**Source ID:** 247  
+**Original sentence:** Cinderella promised that she would remember.  
+**What changed:** Cinderella's response to the warning becomes a commitment to remember it.  
+**What made it sufficient:** “Promised” establishes an undertaking, and “would remember” specifies its intended future content without guaranteeing its fulfilment.  
+**How it remains achieved:** Cinderella has pledged remembrance; the sentence does not establish that she actually remembers later or complies with the command.  
+**Operative Centre:** The narrative establishment of Cinderella's promise to remember the fairy godmother's warning.  
+**Diagnostic:** Replace “promised” with “forgot.” A commitment to future remembrance disappears and is replaced by a failure of memory.  
+**Reading status:** Written
+
+### 248
+
+**Source ID:** 248  
+**Original sentence:** The golden coach carried her to the palace.  
+**What changed:** Cinderella's journey to the palace becomes an accomplished transport by the golden coach.  
+**What made it sufficient:** “The golden coach” identifies the carrier already transformed from the pumpkin; “carried her to the palace” establishes movement to the destination.  
+**How it remains achieved:** The coach has carried Cinderella to the palace; entry into the ballroom or encounter with other guests is not yet asserted.  
+**Operative Centre:** The narrative establishment of Cinderella's conveyance to the palace by the golden coach.  
+**Diagnostic:** Replace “to the palace” with “away from the palace.” The conveyance remains, but arrival at the intended destination is lost.  
+**Reading status:** Written
+
+### 249
+
+**Source ID:** 249  
+**Original sentence:** When she entered the ballroom, everyone turned to look at her.  
+**What changed:** Cinderella's entry becomes an occasion of universal attention within the ballroom.  
+**What made it sufficient:** “When she entered” establishes the occasion; “everyone turned to look at her” attributes a coordinated reaction to all those present.  
+**How it remains achieved:** Cinderella has entered the ballroom and attracted everyone's gaze; the sentence does not establish the reason for their attention or any subsequent action.  
+**Operative Centre:** The narrative establishment of Cinderella's ballroom entrance as drawing the gaze of everyone present.  
+**Diagnostic:** Replace “everyone turned to look at her” with “no one noticed her.” Her entrance remains, but the collective attention disappears.  
+**Reading status:** Written
+
+### 250
+
+**Source ID:** 250  
+**Original sentence:** The prince saw her and came at once to ask her to dance.  
+**What changed:** The prince's notice of Cinderella becomes an immediate approach with the stated purpose of asking her to dance.  
+**What made it sufficient:** “Saw her” establishes perception; “came at once” supplies promptness; “to ask her to dance” identifies the purpose of his approach, not its success.  
+**How it remains achieved:** The prince approaches promptly to make a dance invitation; the sentence does not yet assert that she accepts or dances.  
+**Operative Centre:** The narrative establishment of the prince's immediate approach to Cinderella with the purpose of inviting her to dance.  
+**Diagnostic:** Replace “came at once to ask her to dance” with “remained where he was.” The perception remains, but the prompt purposive approach disappears.  
+**Reading status:** Written
+
+### 251
+
+**Source ID:** 251  
+**Original sentence:** Cinderella danced with the prince all evening.  
+**What changed:** The previously intended dance becomes an accomplished shared activity extending throughout the evening.  
+**What made it sufficient:** “Danced with the prince” establishes shared participation; “all evening” identifies the extent of its duration.  
+**How it remains achieved:** Their dancing is narrated as continuing all evening; no marriage, promise or further choice is yet established.  
+**Operative Centre:** The narrative fulfilment of dancing between Cinderella and the prince throughout the evening.  
+**Diagnostic:** Replace “danced with the prince” with “watched the prince dance.” The evening remains, but their shared dancing disappears.  
+**Reading status:** Written
+
+### 252
+
+**Source ID:** 252  
+**Original sentence:** He thought she was the loveliest and kindest lady he had ever met.  
+**What changed:** The prince's perception of Cinderella becomes an especially favourable judgement compared with all ladies he has previously met.  
+**What made it sufficient:** “He thought” attributes the evaluation to the prince; “loveliest and kindest” gives its two dimensions; “he had ever met” limits the comparison to his experience.  
+**How it remains achieved:** The prince judges her superior in loveliness and kindness to women he has met; the narrator does not assert an objective universal ranking.  
+**Operative Centre:** The narrative establishment of the prince's personal judgement that Cinderella was the loveliest and kindest lady he had encountered.  
+**Diagnostic:** Replace “He thought” with “Everyone knew.” The personal evaluation would become an asserted collective certainty, changing its evidential and perspectival status.  
+**Reading status:** Written
+
+### 253
+
+**Source ID:** 253  
+**Original sentence:** Her stepsisters saw her too, but they did not know who she was.  
+**What changed:** The stepsisters' visual recognition of Cinderella's presence is distinguished from their failure to identify her.  
+**What made it sufficient:** “Saw her too” establishes perception shared with others; “but” makes the failure of recognition contrast with seeing; “did not know who she was” states that she was unidentified by them.  
+**How it remains achieved:** The stepsisters see Cinderella without identifying her; the sentence does not say why or whether they later recognise her.  
+**Operative Centre:** The establishment of a contrast between the stepsisters' seeing Cinderella and their failure to recognise her identity.  
+**Diagnostic:** Replace “but they did not know who she was” with “and immediately recognised her.” Perception remains, but the decisive nonrecognition is reversed.  
+**Reading status:** Written
+
+The next sequential fairy-tale sentence is 254.
 
 ## Part III — Mathematical traversals
 
 *No written Centre entries yet. Claims and derivation steps will receive separate records in source order.*
 
 ## Revision log
+
+- 2026-11-08 — Published autonomous Batch 9, Cinderella 244–253 (10 written Centres), preserving deadlines, promises, enacted movement and the difference between seeing and recognising.
 
 - 2026-11-08 — Published autonomous Batch 8, Cinderella 234–243 (10 written Centres), distinguishing instructions, fulfilment, successive transformations and narrated appearance.
 
