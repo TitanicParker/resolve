@@ -8,10 +8,10 @@
 
 ## Progress register
 
-- **Last contiguous source ID:** A-173
-- **Written Centres:** 173
+- **Last contiguous source ID:** A-183
+- **Written Centres:** 183
 - **Needs further examination:** 0
-- **Next:** A-174
+- **Next:** A-184
 - **Basis for A-001–A-013:** Accepted independent calibration, preserved in substance.
 - **Revision policy:** Substantive changes require a dated, ID-specific revision note; never silently rewrite prior Centres.
 - **Cards:** Resolve reads this Markdown record to populate examined reverse faces; all absent records remain awaiting completion.
@@ -1933,9 +1933,119 @@
 **Diagnostic:** Replace "increases the speed of" with "makes possible." The altered sentence would make myelin a condition for electrical signal conduction rather than a factor that increases its speed. A process can be made faster without depending absolutely upon the factor that accelerates it. The original achievement is enhancement, not the establishment of conduction's possibility.  
 **Reading status:** Written
 
+### A-174
+
+**Source ID:** A-174  
+**Original sentence:** The hippocampus is important for forming many new episodic memories.  
+**What changed:** The formation of new episodic memories becomes intelligible as involving an important contribution from the hippocampus.  
+**What made it sufficient:** “Is important for forming” establishes a functional contribution to the process. “Many new episodic memories” qualifies both the type and scope of memory concerned. “Important” does not assert that the hippocampus acts alone or that its contribution is indispensable in every instance.  
+**How it remains achieved:** The hippocampus remains established as important to the formation of many new episodic memories. The sentence does not establish that it stores all such memories permanently, that it is responsible for every form of memory, or that all episodic memory formation depends exclusively on it.  
+**Operative Centre:** The establishment of the hippocampus as an important contributor to the formation of many new episodic memories.  
+**Diagnostic:** Replace “forming” with “recalling.” This changes the stated function from the formation of new episodic memories to their recall, while retaining “many new episodic memories” and the original qualification “important.” The original formation-specific achievement is lost.  
+**Reading status:** Written
+
+### A-175
+
+**Source ID:** A-175  
+**Original sentence:** Visual signals from the retina travel toward the brain through the optic nerve.  
+**What changed:** The optic nerve becomes intelligible as the pathway by which visual signals originating in the retina travel toward the brain.  
+**What made it sufficient:** “From the retina” establishes the origin, “toward the brain” establishes the direction of travel, and “through the optic nerve” identifies the intervening pathway. All three are necessary to the particular relationship described.  
+**How it remains achieved:** A directed pathway remains established for visual signals: from the retina, through the optic nerve, toward the brain. The sentence does not describe what the brain subsequently does with these signals, nor does it claim that the optic nerve itself interprets visual information.  
+**Operative Centre:** The establishment of the optic nerve as the pathway carrying retina-originating visual signals toward the brain.  
+**Diagnostic:** Replace “through the optic nerve” with “without passing through the optic nerve.” The direction and origin of the signals would remain, but the specified pathway would be denied. The sentence would no longer establish the optic nerve's role in the transmission. This distinguishes the Centre from the broader rival reading that the sentence merely says visual information reaches the brain.  
+**Reading status:** Written
+
+### A-176
+
+**Source ID:** A-176  
+**Original sentence:** Repeated practice can improve performance on a motor skill by changing neural processing.  
+**What changed:** Improved motor-skill performance becomes intelligible as a possible consequence of repeated practice operating through changes in neural processing.  
+**What made it sufficient:** “Repeated practice” identifies the activity. “Can improve” establishes a possible beneficial outcome, not a guaranteed result. “By changing neural processing” identifies the mechanism through which that improvement can occur.  
+**How it remains achieved:** Repeated practice remains established as capable of improving motor-skill performance through neural-processing changes. The sentence does not claim that every repetition improves performance, that neural change always produces improvement, or that practice cannot influence performance through other processes.  
+**Operative Centre:** The establishment of neural-processing change as a means through which repeated practice can improve motor-skill performance.  
+**Diagnostic:** Replace “by changing neural processing” with “while neural processing remains unchanged.” The altered sentence would no longer attribute the possible performance improvement to changes in neural processing. It would remove the mechanism that makes the original relationship intelligible. The original achievement is not merely that practice can improve performance, but that it can do so through neural change.  
+**Reading status:** Written
+
+### A-177
+
+**Source ID:** A-177  
+**Original sentence:** Attention can improve the processing of selected information while other information receives less processing.  
+**What changed:** Attention becomes intelligible as capable of producing unequal processing across information: selected information receives improved processing while other information receives less.  
+**What made it sufficient:** “Can improve” establishes possibility. “Selected information” identifies what receives the benefit. “While other information receives less processing” supplies the contrast that makes the improvement selective rather than an indiscriminate increase in processing. The word “while” connects the two processing conditions without explicitly stating that the reduction causes the improvement.  
+**How it remains achieved:** Attention remains established as capable of favouring selected information in processing while other information is processed less. The sentence does not claim that attention necessarily improves processing in every circumstance, or that reduced processing elsewhere must be the causal means through which the selected information benefits.  
+**Operative Centre:** The establishment of attention's capacity to favour selected information through improved processing alongside reduced processing of other information.  
+**Diagnostic:** Replace “while other information receives less processing” with “while all other information receives equally improved processing.” The altered sentence would no longer establish the contrast between favoured and less-processed information. It would instead describe a broadly shared improvement. The governing achievement of selectivity would be substantially changed.  
+**Reading status:** Written
+
+### A-178
+
+**Source ID:** A-178  
+**Original sentence:** Sleep supports the consolidation of some forms of memory.  
+**What changed:** Sleep becomes intelligible as contributing to memory consolidation, with the contribution restricted to some forms of memory.  
+**What made it sufficient:** “Supports” establishes an enabling or contributing role without asserting exclusive causation or sufficiency by itself. “Consolidation” identifies the process supported, distinguishing it from forming a memory initially or simply recalling one. “Some forms” restricts the scope.  
+**How it remains achieved:** Sleep remains established as supporting consolidation in some forms of memory. The sentence does not establish that sleep consolidates every kind of memory, that consolidation is impossible without sleep, or that sleep alone guarantees successful consolidation.  
+**Operative Centre:** The establishment of sleep as a supporting condition for the consolidation of some forms of memory.  
+**Diagnostic:** Replace “consolidation” with “formation.” The altered sentence would still claim that sleep supports some forms of memory, but it would change the supported process from consolidation to formation. The original achievement specifically concerns consolidation and would no longer be established.  
+**Reading status:** Written
+
+### A-179
+
+**Source ID:** A-179  
+**Original sentence:** The brain combines information from multiple senses to estimate properties of the environment.  
+**What changed:** Environmental properties become intelligible as things the brain estimates by combining information received through more than one sense. The sentence establishes an information-combining means of estimation, rather than merely describing the reception of sensory information.  
+**What made it sufficient:** “Combines information from multiple senses” identifies the process. “To estimate” establishes its function or purpose, and “properties of the environment” identifies what is estimated. “Estimate” is important: the sentence does not claim that combining sensory information guarantees an accurate or complete representation of the environment.  
+**How it remains achieved:** The brain remains established as combining information from multiple senses for the purpose of estimating environmental properties. The sentence does not identify which senses are involved, whether their contributions are equal, or whether every resulting estimate is correct.  
+**Operative Centre:** The establishment of multisensory information combination as a means by which the brain estimates properties of its environment.  
+**Diagnostic:** Replace “combines information from multiple senses” with “receives information separately from multiple senses.” The altered sentence would preserve multiple sensory sources and the possibility of environmental estimation, but it would no longer establish their combination as the means of estimation. The governing achievement requires more than the coexistence of several sensory inputs: their information is brought together for an estimative function.  
+**Reading status:** Written
+
+### A-180
+
+**Source ID:** A-180  
+**Original sentence:** Damage to particular brain regions can impair specific cognitive functions while leaving others relatively intact.  
+**What changed:** Brain damage becomes intelligible as capable of producing differentiated cognitive consequences: particular functions may be impaired while others remain relatively intact. The sentence establishes the possibility of selective impairment rather than assuming that damage necessarily affects all cognitive functions alike.  
+**What made it sufficient:** “Particular brain regions” and “specific cognitive functions” establish the selective scope. “Can impair” preserves possibility rather than inevitability. “While leaving others relatively intact” completes the contrast between functions that may be impaired and functions that may be comparatively preserved. “Relatively” matters because it does not require the unaffected functions to remain absolutely unchanged.  
+**How it remains achieved:** Damage to particular brain regions remains established as capable of impairing specific cognitive functions while leaving others relatively intact. The sentence does not identify a particular brain region with an exclusive cognitive function, claim that every injury produces this pattern, or establish that preserved functions remain completely unaffected.  
+**Operative Centre:** The establishment that damage to particular brain regions can produce selective cognitive impairment, with some functions affected while others remain relatively intact.  
+**Diagnostic:** Replace “while leaving others relatively intact” with “while impairing all other cognitive functions equally.” The altered sentence would no longer establish a distinction between impaired and relatively preserved functions. It would replace the possibility of selective impairment with a much broader pattern of impairment. The decisive achievement is the differentiated consequence, not the mere possibility that brain damage affects cognition.  
+**Reading status:** Written
+
+### A-181
+
+**Source ID:** A-181  
+**Original sentence:** The heart pumps blood through the lungs and the rest of the body.  
+**What changed:** The heart's pumping activity becomes intelligible as driving blood through both the lungs and the remainder of the body. The sentence establishes the scope of the heart's circulatory function rather than merely asserting that the heart moves blood.  
+**What made it sufficient:** “Pumps blood” identifies the heart's operative activity. “Through the lungs and the rest of the body” establishes the two connected domains reached by that activity. The conjunction is necessary: the sentence does not restrict the heart's function to pulmonary circulation or to circulation elsewhere in the body.  
+**How it remains achieved:** The heart remains established as pumping blood through the lungs and the rest of the body. The sentence does not describe the detailed sequence of blood flow, identify particular heart chambers, or specify the distinct purposes of pulmonary and systemic circulation.  
+**Operative Centre:** The establishment of the heart's pumping function as driving blood through both the lungs and the rest of the body.  
+**Diagnostic:** Replace “through the lungs and the rest of the body” with “through the lungs alone.” The altered sentence would preserve the heart as a pump but remove the wider bodily reach of its activity. This distinguishes the Centre from the weaker reading that the sentence simply identifies the heart as an organ that pumps blood.  
+**Reading status:** Written
+
+### A-182
+
+**Source ID:** A-182  
+**Original sentence:** Insulin helps many body cells take up glucose from the blood.  
+**What changed:** The movement of glucose from blood into body cells becomes intelligible as a process supported by insulin.  
+**What made it sufficient:** “Helps” identifies insulin's facilitating contribution without treating it as the only factor involved. “Many body cells” limits the scope rather than extending the claim to every cell. “Take up glucose from the blood” identifies the particular cellular process that insulin helps.  
+**How it remains achieved:** Insulin remains established as facilitating glucose uptake from the blood in many body cells. The sentence does not claim that every cell depends on insulin for glucose uptake, that insulin alone is sufficient for uptake, or that its only physiological role concerns this process.  
+**Operative Centre:** The establishment of insulin as a facilitator of glucose uptake from the blood by many body cells.  
+**Diagnostic:** Replace “helps many body cells take up glucose from the blood” with “is required by every body cell before glucose can enter.” The altered sentence would transform a qualified facilitating contribution into an unrestricted necessary condition. The original achievement depends on the modest but precise force of “helps” and “many.”  
+**Reading status:** Written
+
+### A-183
+
+**Source ID:** A-183  
+**Original sentence:** The kidneys filter blood and regulate the excretion of water and dissolved substances.  
+**What changed:** Kidney function becomes intelligible through two related activities: blood filtration and regulation of the excretion of water and dissolved substances. The sentence establishes more than the removal of material from blood. It identifies a regulatory function concerning what is excreted.  
+**What made it sufficient:** “Filter blood” establishes one kidney activity. “And regulate the excretion” adds a distinct function involving control of excretion, rather than merely describing the passage of material through a filter. “Water and dissolved substances” specifies what the excretory regulation concerns.  
+**How it remains achieved:** The kidneys remain established as organs that filter blood and regulate the excretion of water and dissolved substances. The sentence does not specify the detailed mechanisms of filtration, reabsorption or secretion, or assert that every dissolved substance is excreted in the same way.  
+**Operative Centre:** The establishment of kidney function as combining blood filtration with regulation of the excretion of water and dissolved substances.  
+**Diagnostic:** Replace “and regulate the excretion of water and dissolved substances” with “and pass all filtered material directly out of the body.” The altered sentence would no longer establish a regulatory relationship governing excretion. It would replace regulation with undifferentiated removal. The diagnostic distinguishes the proposed Centre from a reading that reduces kidney function to filtration alone.  
+**Reading status:** Written
+
 ### Continuation
 
-The next sequential item is A-174. A-101–A-200 belong to Corpus B (Science); fairy tales and mathematical traversals will follow under their original source grouping. No unwritten item is represented as resolved.
+The next sequential item is A-184. A-101–A-200 belong to Corpus B (Science); fairy tales and mathematical traversals will follow under their original source grouping. No unwritten item is represented as resolved.
 
 ## Part II — Fairy tales
 
@@ -1946,6 +2056,8 @@ The next sequential item is A-174. A-101–A-200 belong to Corpus B (Science); f
 *No written Centre entries yet. Claims and derivation steps will receive separate records in source order.*
 
 ## Revision log
+
+- 2026-11-08 — Published approved Batch 2, A-174–A-183 (10 written Centres); refined only A-174 and A-178 diagnostics to isolate forming/recalling and consolidation/formation respectively.
 
 - 2026-11-08 — Published approved Batch 1, A-164–A-173 (10 written Centres); preserved the nonempty-collection qualification for A-166 and distinguished ordered presentation from median existence for A-167.
 
