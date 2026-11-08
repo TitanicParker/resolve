@@ -8,10 +8,10 @@
 
 ## Progress register
 
-- **Last contiguous source ID:** A-200 (original sentences); Cinderella 213 (fairy tales)
-- **Written Centres:** 213 (200 original-sentence Centres; 13 fairy-tale Centres)
+- **Last contiguous source ID:** A-200 (original sentences); Cinderella 223 (fairy tales)
+- **Written Centres:** 223 (200 original-sentence Centres; 23 fairy-tale Centres)
 - **Needs further examination:** 0
-- **Next:** Cinderella 214
+- **Next:** Cinderella 224
 - **Basis for A-001–A-013:** Accepted independent calibration, preserved in substance.
 - **Revision policy:** Substantive changes require a dated, ID-specific revision note; never silently rewrite prior Centres.
 - **Cards:** Resolve reads this Markdown record to populate examined reverse faces; all absent records remain awaiting completion.
@@ -2232,7 +2232,7 @@
 
 ### Continuation
 
-The original science corpus ends at A-200. The next sequential source item is Cinderella 214; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
+The original science corpus ends at A-200. The next sequential source item is Cinderella 224; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
 
 ## Part II — Fairy tales
 
@@ -2381,13 +2381,125 @@ The original science corpus ends at A-200. The next sequential source item is Ci
 **Diagnostic:** Replace “a grand ball at the palace” with “a private meeting in a village.” The king remains an organiser, but both the kind and location of the royal occasion are changed.  
 **Reading status:** Written
 
-The next sequential fairy-tale sentence is 214.
+### 214
+
+**Source ID:** 214  
+**Original sentence:** Every young lady in the kingdom was invited, for the prince was to choose a bride.  
+**What changed:** The invitation's universal scope among the kingdom's young ladies becomes intelligible through its stated purpose of choosing a bride for the prince.  
+**What made it sufficient:** “Every young lady in the kingdom” establishes the invitation's scope; “for” explicitly connects that scope with the prince's intended choice of bride.  
+**How it remains achieved:** An invitation extends to every young lady in the kingdom because a bridal choice is intended; no choice or marriage has yet occurred.  
+**Operative Centre:** The establishment of the prince's intended choice of a bride as the reason every young lady in the kingdom was invited.  
+**Diagnostic:** Replace “for the prince was to choose a bride” with “although the prince would not attend.” The universal invitations remain, but the explanatory purpose connecting them to a bridal choice disappears.  
+**Reading status:** Written
+
+### 215
+
+**Source ID:** 215  
+**Original sentence:** Cinderella’s stepsisters were delighted.  
+**What changed:** The stepsisters' response to the royal occasion becomes established as delight.  
+**What made it sufficient:** “Cinderella's stepsisters” retains the specific referents, and “were delighted” attributes their emotional response without specifying action or cause beyond the narrative context.  
+**How it remains achieved:** Their delight is asserted; the sentence does not say precisely what each thought or what they subsequently did.  
+**Operative Centre:** The narrative establishment of Cinderella's stepsisters' delight in response to the announced royal occasion.  
+**Diagnostic:** Replace “delighted” with “indifferent.” The stepsisters remain the subjects, but the affirmative emotional response disappears.  
+**Reading status:** Written
+
+### 216
+
+**Source ID:** 216  
+**Original sentence:** They opened their wardrobes and pulled out gowns, ribbons, gloves, and jewels.  
+**What changed:** The stepsisters' delight takes the form of a concrete preparation involving clothing and adornments brought from their wardrobes.  
+**What made it sufficient:** “Opened their wardrobes and pulled out” establishes the actions; the named gowns, ribbons, gloves and jewels specify the articles selected.  
+**How it remains achieved:** The stepsisters are established as taking out these items; the sentence does not yet say that they wore them or attended the ball.  
+**Operative Centre:** The narrative establishment of the stepsisters' preparatory activity through opening their wardrobes and bringing out gowns and adornments.  
+**Diagnostic:** Replace “pulled out” with “put away.” The wardrobes and garments remain, but taking items out as preparation is replaced by storage.  
+**Reading status:** Written
+
+### 217
+
+**Source ID:** 217  
+**Original sentence:** They made Cinderella brush their hair, polish their shoes, and press their dresses.  
+**What changed:** The stepsisters' preparations become intelligible as work imposed upon Cinderella for their personal appearance.  
+**What made it sufficient:** “Made Cinderella” marks compulsion or imposed requirement rather than voluntary help; the three coordinated verbs identify grooming and clothing tasks done for the stepsisters.  
+**How it remains achieved:** Cinderella is established as being made to perform the specified tasks; the sentence does not say whether she resisted or why the stepsisters demanded them.  
+**Operative Centre:** The establishment of Cinderella's labour as imposed by the stepsisters to prepare their hair, shoes and dresses.  
+**Diagnostic:** Replace “made Cinderella” with “asked whether Cinderella wished to.” The listed tasks remain possible, but the imposed character of the work disappears.  
+**Reading status:** Written
+
+### 218
+
+**Source ID:** 218  
+**Original sentence:** Cinderella looked at the invitation and wished that she might go too.  
+**What changed:** Cinderella's own desire to attend becomes intelligible when she looks at the invitation, placing her wish alongside the attendance anticipated for others.  
+**What made it sufficient:** “Looked at the invitation” locates the occasion of the wish; “wished that she might go too” establishes a desire for possible participation, not actual permission or attendance.  
+**How it remains achieved:** Cinderella wishes to go as well; whether she can, will, or is allowed to attend remains undetermined.  
+**Operative Centre:** The establishment of Cinderella's wish to share in the invitation's occasion without yet establishing her ability or permission to attend.  
+**Diagnostic:** Replace “wished that she might go too” with “knew that she would go.” The desire and uncertainty would become assured future attendance, fundamentally changing the achievement.  
+**Reading status:** Written
+
+### 219
+
+**Source ID:** 219  
+**Original sentence:** Her stepmother looked at her plain dress and dusty apron.  
+**What changed:** The stepmother's attention becomes directed toward Cinderella's visibly plain and dusty clothing.  
+**What made it sufficient:** “Looked at” establishes what the stepmother attends to; “plain dress and dusty apron” specifies the appearance inspected.  
+**How it remains achieved:** The stepmother notices Cinderella's clothing; no spoken judgment, decision or explicit motive is yet given.  
+**Operative Centre:** The narrative establishment of the stepmother's inspection of Cinderella's plain dress and dusty apron.  
+**Diagnostic:** Replace “looked at” with “replaced.” The sentence would narrate an intervention in the clothing rather than attention directed toward it.  
+**Reading status:** Written
+
+### 220
+
+**Source ID:** 220  
+**Original sentence:** “You may go when all your work is finished,” said the stepmother.  
+**What changed:** The possibility of Cinderella's going is made dependent upon completion of all her work through the stepmother's spoken permission.  
+**What made it sufficient:** “May go” grants conditional permission; “when all your work is finished” supplies the condition; “said the stepmother” identifies who imposes it.  
+**How it remains achieved:** Cinderella is conditionally permitted to go once all her work is done; actual completion and attendance are not established.  
+**Operative Centre:** The establishment of the stepmother's permission for Cinderella to go as conditional upon the completion of all her work.  
+**Diagnostic:** Replace “when all your work is finished” with “whether or not your work is finished.” The permission becomes unconditional with respect to her work, removing the original governing condition.  
+**Reading status:** Written
+
+### 221
+
+**Source ID:** 221  
+**Original sentence:** Cinderella worked as quickly as she could.  
+**What changed:** Cinderella's effort becomes intelligible as working at the greatest speed she could manage.  
+**What made it sufficient:** “As quickly as she could” specifies effort relative to her capacity rather than a measured speed or a completed outcome.  
+**How it remains achieved:** She is established as working as fast as she can; the sentence does not say that her tasks are finished or compare her speed with anyone else's.  
+**Operative Centre:** The establishment of Cinderella's effort to work at the maximum speed available to her.  
+**Diagnostic:** Replace “as quickly as she could” with “at an unhurried pace.” Work remains, but the maximal-effort character of its pace is lost.  
+**Reading status:** Written
+
+### 222
+
+**Source ID:** 222  
+**Original sentence:** She swept, scrubbed, folded, stitched, and tidied.  
+**What changed:** Cinderella's continuing work becomes concrete in a sequence of five named activities.  
+**What made it sufficient:** The coordinated verbs identify sweeping, scrubbing, folding, stitching and tidying; their combination gives the activity its stated range without a fixed chronology.  
+**How it remains achieved:** She is narrated as undertaking the five activities; the sentence does not itself say she has completed all her work.  
+**Operative Centre:** The narrative specification of Cinderella's work through the combined acts of sweeping, scrubbing, folding, stitching and tidying.  
+**Diagnostic:** Replace the final “and tidied” with “and slept.” The enumerated work would end in rest rather than a fifth task, altering the stated set of work activities.  
+**Reading status:** Written
+
+### 223
+
+**Source ID:** 223  
+**Original sentence:** At last, the house was clean and the work was done.  
+**What changed:** A period of work reaches completion, established through both the clean condition of the house and the finished state of the work.  
+**What made it sufficient:** “At last” marks the long-awaited point of completion; “the house was clean” establishes the resulting condition; “the work was done” asserts completion.  
+**How it remains achieved:** The house is clean and the work completed at this narrative point; no permission, departure or arrival at the ball follows from this sentence alone.  
+**Operative Centre:** The narrative establishment of the eventual completion of Cinderella's work together with the house's clean condition.  
+**Diagnostic:** Replace “the work was done” with “the work was only beginning.” The house might still be clean, but the decisive completion of her labour would disappear.  
+**Reading status:** Written
+
+The next sequential fairy-tale sentence is 224.
 
 ## Part III — Mathematical traversals
 
 *No written Centre entries yet. Claims and derivation steps will receive separate records in source order.*
 
 ## Revision log
+
+- 2026-11-08 — Published autonomous Batch 6, Cinderella 214–223 (10 written Centres), preserving the royal invitation, conditional permission, work sequence and its completion.
 
 - 2026-11-08 — Published autonomous Batch 5, Cinderella 204–213 (10 written Centres), retaining original fairy-tale sentence IDs and narrative order.
 
