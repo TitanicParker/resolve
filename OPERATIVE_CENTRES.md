@@ -8,10 +8,10 @@
 
 ## Progress register
 
-- **Last contiguous source ID:** A-200 (original sentences); fairy tales through 353 (Cinderella 201–285; The Elves and the Shoemaker 286–339; Sleeping Beauty 340–353)
-- **Written Centres:** 353 (200 original-sentence Centres; 153 fairy-tale Centres)
+- **Last contiguous source ID:** A-200 (original sentences); fairy tales through 363 (Cinderella 201–285; The Elves and the Shoemaker 286–339; Sleeping Beauty 340–363)
+- **Written Centres:** 363 (200 original-sentence Centres; 163 fairy-tale Centres)
 - **Needs further examination:** 0
-- **Next:** Sleeping Beauty 354
+- **Next:** Sleeping Beauty 364
 - **Basis for A-001–A-013:** Accepted independent calibration, preserved in substance.
 - **Revision policy:** Substantive changes require a dated, ID-specific revision note; never silently rewrite prior Centres.
 - **Cards:** Resolve reads this Markdown record to populate examined reverse faces; all absent records remain awaiting completion.
@@ -2232,7 +2232,7 @@
 
 ### Continuation
 
-The original science corpus ends at A-200. The next sequential source item is 354 (Sleeping Beauty).; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
+The original science corpus ends at A-200. The next sequential source item is 364 (Sleeping Beauty).; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
 
 ## Part II — Fairy tales
 
@@ -3925,13 +3925,125 @@ The original science corpus ends at A-200. The next sequential source item is 35
 **Diagnostic:** Replace “in a cold voice” with “in a warm and affectionate voice.” Gaze and speech remain, but the specified cold manner disappears.  
 **Reading status:** Written
 
-The next sequential fairy-tale sentence is 354 (Sleeping Beauty).
+### 354
+
+**Source ID:** 354  
+**Original sentence:** “When the princess is grown, she shall prick her finger on a spindle and die.”  
+**What changed:** The old fairy's cold speech becomes a specific prediction of fatal harm to the princess in the future, linking her maturity to a spindle injury and death.  
+**What made it sufficient:** “When the princess is grown” establishes the future condition; “shall prick her finger on a spindle and die” identifies the predicted sequence and its fatal endpoint. The words are spoken by the fairy, not narrated as an accomplished event.  
+**How it remains achieved:** The old fairy has uttered a prediction of the princess's future spindle injury and death. The princess has not yet been injured, nor has the prediction been fulfilled.  
+**Operative Centre:** The establishment, in the old fairy's speech, of a future prediction that the grown princess will prick her finger on a spindle and die.  
+**Diagnostic:** Replace “and die” with “and recover immediately.” The spindle injury and future prediction remain, but the fatal consequence giving the utterance its particular force is removed.  
+**Reading status:** Written
+
+### 355
+
+**Source ID:** 355  
+**Original sentence:** Everyone in the hall was silent with fear.  
+**What changed:** The hall's occupants respond to the old fairy's words with a universal silence characterised by fear.  
+**What made it sufficient:** “Everyone in the hall” fixes the scope of the response; “silent” identifies the outward behaviour, and “with fear” explicitly characterises the emotion accompanying it.  
+**How it remains achieved:** All those in the hall are silent with fear; the sentence does not give individual statements or imply that every inhabitant of the kingdom shares the same response.  
+**Operative Centre:** The narrative establishment of a fearful silence shared by everyone present in the hall.  
+**Diagnostic:** Replace “silent with fear” with “cheering with relief.” The collective presence remains, but the response's silence and fearful character are reversed.  
+**Reading status:** Written
+
+### 356
+
+**Source ID:** 356  
+**Original sentence:** The last wise woman stepped forward.  
+**What changed:** The remaining wise woman now takes an overt step into the scene after the fearful silence.  
+**What made it sufficient:** “The last wise woman” identifies the giver whose gift had been deferred; “stepped forward” establishes a new movement into prominence without yet declaring what she says or does.  
+**How it remains achieved:** The last wise woman has stepped forward; neither a spell, a gift nor a successful intervention is yet established by this sentence alone.  
+**Operative Centre:** The narrative emergence of the last wise woman through her stepping forward after the hall's fearful silence.  
+**Diagnostic:** Replace “stepped forward” with “remained hidden and motionless.” Her presence remains possible, but her overt move into the situation disappears.  
+**Reading status:** Written
+
+### 357
+
+**Source ID:** 357  
+**Original sentence:** She could not undo the spell, but she could soften it.  
+**What changed:** The last wise woman's power is established as limited: she cannot reverse the spell completely but can lessen its effect.  
+**What made it sufficient:** “Could not undo” denies full reversal; “but” sets this limit against the positive capacity “could soften.” The same spell is the object of both possibilities.  
+**How it remains achieved:** The wise woman has the capacity to mitigate but not annul the spell. The sentence does not yet state precisely how it will be softened or whether she has acted.  
+**Operative Centre:** The establishment of mitigation, rather than full cancellation, as the limit and possibility of the last wise woman's power over the spell.  
+**Diagnostic:** Replace “but she could soften it” with “and she could do nothing to change it.” The inability to undo remains, but the specific remaining capacity to mitigate vanishes.  
+**Reading status:** Written
+
+### 358
+
+**Source ID:** 358  
+**Original sentence:** “The princess shall not die,” she said.  
+**What changed:** The last wise woman announces a future outcome that directly negates the old fairy's prediction of death.  
+**What made it sufficient:** “Shall not die” denies the fatal endpoint in direct speech; “she said” attributes this statement to the last wise woman, not to a narrator reporting an already achieved outcome.  
+**How it remains achieved:** The princess's death has been verbally negated by the last wise woman. The sentence does not yet explain the replacement fate or present the future event as completed.  
+**Operative Centre:** The last wise woman's spoken denial of the predicted fatal outcome for the princess.  
+**Diagnostic:** Replace “shall not die” with “shall die as predicted.” The same topic remains, but the last wise woman's counterstatement disappears.  
+**Reading status:** Written
+
+### 359
+
+**Source ID:** 359  
+**Original sentence:** “She shall fall into a deep sleep for one hundred years.”  
+**What changed:** The wise woman's counterstatement supplies an alternative fate for the princess: a deep sleep of a specified hundred-year duration.  
+**What made it sufficient:** “Shall fall into a deep sleep” establishes the prospective condition rather than present sleep; “for one hundred years” fixes its predicted length.  
+**How it remains achieved:** A hundred-year sleep has been announced as the princess's future fate; the sleep has not yet begun and an awakening is not asserted by this sentence.  
+**Operative Centre:** The establishment, in the wise woman's speech, of a deep sleep lasting one hundred years as the princess's predicted fate.  
+**Diagnostic:** Replace “for one hundred years” with “for a few minutes.” Sleep remains the predicted fate, but the extraordinary century-long duration disappears.  
+**Reading status:** Written
+
+### 360
+
+**Source ID:** 360  
+**Original sentence:** “At the end of that time, a prince shall wake her.”  
+**What changed:** The last wise woman's prediction now supplies an endpoint to the hundred-year sleep through a prince's future act of awakening.  
+**What made it sufficient:** “At the end of that time” links awakening to the previously specified century; “a prince shall wake her” identifies the agent and promised outcome.  
+**How it remains achieved:** A prince is predicted to awaken the princess when the stated period ends; no prince has yet appeared or performed that action.  
+**Operative Centre:** The establishment of a prince's future awakening of the princess at the end of the predicted hundred-year sleep.  
+**Diagnostic:** Replace “at the end of that time” with “before the sleep begins.” Awakening remains a topic, but the governing link to the end of the century disappears.  
+**Reading status:** Written
+
+### 361
+
+**Source ID:** 361  
+**Original sentence:** The king was determined to protect his daughter.  
+**What changed:** The king's response becomes established as a firm resolve to protect the princess.  
+**What made it sufficient:** “Was determined” gives the strength of the king's intention; “to protect his daughter” specifies its object and purpose rather than narrating any successful measure.  
+**How it remains achieved:** The king has resolved to protect the princess; neither a means of protection nor its efficacy has yet been established.  
+**Operative Centre:** The narrative establishment of the king's firm intention to protect his daughter against the threatened future.  
+**Diagnostic:** Replace “determined to protect” with “unconcerned about.” The royal relationship remains, but the resolve to protect disappears.  
+**Reading status:** Written
+
+### 362
+
+**Source ID:** 362  
+**Original sentence:** He ordered every spindle in the kingdom to be burned.  
+**What changed:** The king converts his protective resolve into a comprehensive directive to destroy every spindle within his kingdom.  
+**What made it sufficient:** “Ordered” makes this a command rather than a completed destruction; “every spindle in the kingdom” establishes its universal intended scope; “to be burned” specifies the demanded action.  
+**How it remains achieved:** The king has ordered the burning of all spindles in the kingdom; the sentence does not state that every order was carried out or that the threatened event was averted.  
+**Operative Centre:** The establishment of the king's kingdom-wide order requiring the burning of every spindle as a protective measure.  
+**Diagnostic:** Replace “ordered ... to be burned” with “personally confirmed ... had all been burned.” The universal spindle scope remains, but the achievement shifts from commanding destruction to verifying its completion.  
+**Reading status:** Written
+
+### 363
+
+**Source ID:** 363  
+**Original sentence:** The princess grew up safely.  
+**What changed:** The princess's passage from infancy into later life is established as occurring without the predicted harm during her growth.  
+**What made it sufficient:** “Grew up” states the completed process of maturation, and “safely” characterises its course. The sentence does not establish that every future danger has been avoided.  
+**How it remains achieved:** The princess reaches maturity safely; the earlier prediction's future outcome has not been definitively cancelled by this account of her growth.  
+**Operative Centre:** The narrative establishment of the princess's safe growth into maturity, without asserting that the threatened future can no longer occur.  
+**Diagnostic:** Replace “safely” with “under continual injury and danger.” The maturation remains, but the expressly safe course of her growth disappears.  
+**Reading status:** Written
+
+The next sequential fairy-tale sentence is 364 (Sleeping Beauty).
 
 ## Part III — Mathematical traversals
 
 *No written Centre entries yet. Claims and derivation steps will receive separate records in source order.*
 
 ## Revision log
+
+- 2026-11-08 — Published autonomous Batch 20, Sleeping Beauty 354–363 (10 written Centres), distinguishing fatal prediction, mitigation, an alternative sleep, protective orders and safe growth.
 
 - 2026-11-08 — Published autonomous Batch 19, Sleeping Beauty 344–353 (10 written Centres), preserving the distinction between gift-giving ability, gifts actually bestowed, an unfinished bestowal, and the uninvited fairy's arrival and speech.
 
