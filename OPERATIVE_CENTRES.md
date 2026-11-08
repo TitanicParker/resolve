@@ -8,10 +8,10 @@
 
 ## Progress register
 
-- **Last contiguous source ID:** A-200 (original sentences); fairy tales through 363 (Cinderella 201–285; The Elves and the Shoemaker 286–339; Sleeping Beauty 340–363)
-- **Written Centres:** 363 (200 original-sentence Centres; 163 fairy-tale Centres)
+- **Last contiguous source ID:** A-200 (original sentences); fairy tales through 373 (Cinderella 201–285; The Elves and the Shoemaker 286–339; Sleeping Beauty 340–373)
+- **Written Centres:** 373 (200 original-sentence Centres; 173 fairy-tale Centres)
 - **Needs further examination:** 0
-- **Next:** Sleeping Beauty 364
+- **Next:** Sleeping Beauty 374
 - **Basis for A-001–A-013:** Accepted independent calibration, preserved in substance.
 - **Revision policy:** Substantive changes require a dated, ID-specific revision note; never silently rewrite prior Centres.
 - **Cards:** Resolve reads this Markdown record to populate examined reverse faces; all absent records remain awaiting completion.
@@ -2232,7 +2232,7 @@
 
 ### Continuation
 
-The original science corpus ends at A-200. The next sequential source item is 364 (Sleeping Beauty).; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
+The original science corpus ends at A-200. The next sequential source item is 374 (Sleeping Beauty).; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
 
 ## Part II — Fairy tales
 
@@ -4035,13 +4035,125 @@ The original science corpus ends at A-200. The next sequential source item is 36
 **Diagnostic:** Replace “safely” with “under continual injury and danger.” The maturation remains, but the expressly safe course of her growth disappears.  
 **Reading status:** Written
 
-The next sequential fairy-tale sentence is 364 (Sleeping Beauty).
+### 364
+
+**Source ID:** 364  
+**Original sentence:** She was beautiful, gentle, and loved by all who knew her.  
+**What changed:** The grown princess is characterised through beauty and gentleness together with the affection of everyone acquainted with her.  
+**What made it sufficient:** “Beautiful” and “gentle” attribute different traits; “loved by all who knew her” gives the scope of others' regard, limited to those who know her.  
+**How it remains achieved:** The princess is portrayed as beautiful, gentle and universally loved within the circle of those acquainted with her; the sentence does not assert that every stranger or person in the kingdom has met her.  
+**Operative Centre:** The narrative characterisation of the princess as beautiful and gentle and as loved by everyone who knows her.  
+**Diagnostic:** Replace “loved by all who knew her” with “disliked by all who knew her.” The two traits remain, but the stated shared affection is reversed.  
+**Reading status:** Written
+
+### 365
+
+**Source ID:** 365  
+**Original sentence:** One day, when the princess was nearly grown, she wandered through the castle.  
+**What changed:** The princess's roaming through the castle is located at an unspecified day when she is close to adulthood.  
+**What made it sufficient:** “One day” marks a particular episode; “when ... nearly grown” fixes her stage of life; “wandered through the castle” establishes movement without naming a goal.  
+**How it remains achieved:** The nearly grown princess wanders through the castle; neither the discovery of a tower nor any deliberate search for a spindle is stated.  
+**Operative Centre:** The narrative establishment of the nearly grown princess's wandering through the castle on a particular day.  
+**Diagnostic:** Replace “wandered through the castle” with “remained in her room.” Her age and day remain, but the roaming episode disappears.  
+**Reading status:** Written
+
+### 366
+
+**Source ID:** 366  
+**Original sentence:** She climbed a narrow staircase to a little room at the top of a tower.  
+**What changed:** The princess's wanderings become a directed ascent along a narrow staircase to a small room at the tower's summit.  
+**What made it sufficient:** “Climbed” establishes upward movement; “narrow staircase” specifies the route; “a little room at the top of a tower” fixes the destination.  
+**How it remains achieved:** She reaches the upper room by climbing; the sentence does not reveal what is inside or why she has gone there.  
+**Operative Centre:** The narrative ascent of the princess by a narrow staircase to a small room at the top of a tower.  
+**Diagnostic:** Replace “to a little room at the top of a tower” with “to the courtyard below.” The act of moving may remain, but the specific ascent to the tower room disappears.  
+**Reading status:** Written
+
+### 367
+
+**Source ID:** 367  
+**Original sentence:** Inside the room sat an old woman spinning flax.  
+**What changed:** The tower room is revealed to contain an old woman engaged in spinning flax.  
+**What made it sufficient:** “Inside the room” locates the figure relative to the princess's arrival; “sat an old woman” establishes her presence; “spinning flax” describes her ongoing activity.  
+**How it remains achieved:** An old woman is seated and spinning flax in the room; neither her identity nor her intentions are established.  
+**Operative Centre:** The narrative discovery of an old woman already seated in the tower room and engaged in spinning flax.  
+**Diagnostic:** Replace “spinning flax” with “sleeping without any work.” The woman's presence persists, but the activity relevant to the scene disappears.  
+**Reading status:** Written
+
+### 368
+
+**Source ID:** 368  
+**Original sentence:** The princess had never seen a spindle before.  
+**What changed:** The princess's encounter is qualified by complete unfamiliarity with the sight of a spindle.  
+**What made it sufficient:** “Had never seen” denies all prior visual experience; “a spindle” identifies the particular object unfamiliar to her.  
+**How it remains achieved:** The princess has no prior experience of seeing a spindle; the sentence does not assert that she has never heard of one or knows nothing about spinning.  
+**Operative Centre:** The establishment of the princess's complete lack of previous visual acquaintance with a spindle.  
+**Diagnostic:** Replace “had never seen” with “had often used.” The spindle remains, but visual unfamiliarity is replaced with familiarity and experience.  
+**Reading status:** Written
+
+### 369
+
+**Source ID:** 369  
+**Original sentence:** “What is that curious thing?” asked the princess.  
+**What changed:** The princess's unfamiliarity becomes a spoken request to identify the object she finds curious.  
+**What made it sufficient:** “What is” requests identification; “that curious thing” expresses an evaluative response while pointing to the spindle in context; “asked the princess” establishes who speaks.  
+**How it remains achieved:** The princess asks about the unfamiliar object; this sentence does not yet identify it through anyone's answer or establish that she touches it.  
+**Operative Centre:** The narrative establishment of the princess's curious question seeking the identity of the unfamiliar object.  
+**Diagnostic:** Replace the question with “I know exactly what that is.” A statement of recognition replaces her request for identification.  
+**Reading status:** Written
+
+### 370
+
+**Source ID:** 370  
+**Original sentence:** “It is a spindle,” said the old woman.  
+**What changed:** The old woman supplies the requested identification of the unfamiliar object as a spindle.  
+**What made it sufficient:** “It is a spindle” answers the princess's question; “said the old woman” attributes the identification to the woman at work.  
+**How it remains achieved:** The woman has named the object as a spindle; neither permission to handle it nor the later injury has yet been narrated.  
+**Operative Centre:** The narrative identification of the unfamiliar object as a spindle through the old woman's answer.  
+**Diagnostic:** Replace “It is a spindle” with “I cannot tell you what it is.” The speech remains, but the decisive identification disappears.  
+**Reading status:** Written
+
+### 371
+
+**Source ID:** 371  
+**Original sentence:** “You may try it.”  
+**What changed:** The old woman gives the princess permission to attempt using the spindle.  
+**What made it sufficient:** “May” expresses permission, not obligation or physical success; “try it” identifies a proposed action with the object discussed.  
+**How it remains achieved:** The princess has been permitted to try the spindle; no attempt or injury is yet established.  
+**Operative Centre:** The narrative granting of permission for the princess to try the spindle.  
+**Diagnostic:** Replace “may try it” with “must never touch it.” Permission becomes prohibition, reversing the sentence's achievement.  
+**Reading status:** Written
+
+### 372
+
+**Source ID:** 372  
+**Original sentence:** The princess touched the spindle, and the sharp point pricked her finger.  
+**What changed:** The permitted attempt becomes an actual contact with the spindle that results in a sharp prick to the princess's finger.  
+**What made it sufficient:** “Touched the spindle” establishes contact; “and the sharp point pricked her finger” adds the injury caused by the point, rather than mere contact without effect.  
+**How it remains achieved:** The princess has touched the spindle and suffered a finger-prick. The sentence does not itself state that she dies or falls asleep.  
+**Operative Centre:** The narrative actualisation of the spindle encounter through the princess's touch and the point's pricking her finger.  
+**Diagnostic:** Replace “the sharp point pricked her finger” with “the smooth spindle caused no injury.” Contact remains, but the significant injury disappears.  
+**Reading status:** Written
+
+### 373
+
+**Source ID:** 373  
+**Original sentence:** At once, she fell into a deep sleep.  
+**What changed:** The princess's fall into deep sleep is established as occurring immediately after the spindle injury.  
+**What made it sufficient:** “At once” marks immediacy; “fell into a deep sleep” states the new condition as an accomplished event rather than a prediction.  
+**How it remains achieved:** The princess is now deeply asleep immediately after the prick; this sentence does not give the duration of sleep or describe awakening.  
+**Operative Centre:** The narrative immediate onset of the princess's deep sleep following the prick of her finger.  
+**Diagnostic:** Replace “fell into a deep sleep” with “remained wide awake.” The timing remains available, but the predicted sleep is not realised.  
+**Reading status:** Written
+
+The next sequential fairy-tale sentence is 374 (Sleeping Beauty).
 
 ## Part III — Mathematical traversals
 
 *No written Centre entries yet. Claims and derivation steps will receive separate records in source order.*
 
 ## Revision log
+
+- 2026-11-08 — Published autonomous Batch 21, Sleeping Beauty 364–373 (10 written Centres), distinguishing prior unfamiliarity, identification, permission, contact, injury and immediate sleep.
 
 - 2026-11-08 — Published autonomous Batch 20, Sleeping Beauty 354–363 (10 written Centres), distinguishing fatal prediction, mitigation, an alternative sleep, protective orders and safe growth.
 
