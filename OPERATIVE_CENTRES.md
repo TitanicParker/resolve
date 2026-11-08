@@ -8,10 +8,10 @@
 
 ## Progress register
 
-- **Last contiguous source ID:** A-200 (original sentences); fairy tales through 303 (Cinderella 201–285; The Elves and the Shoemaker 286–303)
-- **Written Centres:** 303 (200 original-sentence Centres; 103 fairy-tale Centres)
+- **Last contiguous source ID:** A-200 (original sentences); fairy tales through 313 (Cinderella 201–285; The Elves and the Shoemaker 286–313)
+- **Written Centres:** 313 (200 original-sentence Centres; 113 fairy-tale Centres)
 - **Needs further examination:** 0
-- **Next:** The Elves and the Shoemaker 304
+- **Next:** The Elves and the Shoemaker 314
 - **Basis for A-001–A-013:** Accepted independent calibration, preserved in substance.
 - **Revision policy:** Substantive changes require a dated, ID-specific revision note; never silently rewrite prior Centres.
 - **Cards:** Resolve reads this Markdown record to populate examined reverse faces; all absent records remain awaiting completion.
@@ -2232,7 +2232,7 @@
 
 ### Continuation
 
-The original science corpus ends at A-200. The next sequential source item is 304 (The Elves and the Shoemaker).; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
+The original science corpus ends at A-200. The next sequential source item is 314 (The Elves and the Shoemaker).; fairy-tale identifiers remain unprefixed. No unwritten item is represented as resolved.
 
 ## Part II — Fairy tales
 
@@ -3373,13 +3373,125 @@ The original science corpus ends at A-200. The next sequential source item is 30
 **Diagnostic:** Replace “I will stitch them in the morning” with “Someone has already stitched them.” Future self-directed work would be replaced by a report of completed work.  
 **Reading status:** Written
 
-The next sequential fairy-tale sentence is 304 (The Elves and the Shoemaker).
+### 304
+
+**Source ID:** 304  
+**Original sentence:** Then he went to bed.  
+**What changed:** The shoemaker's evening actions conclude with his going to bed after expressing his plan.  
+**What made it sufficient:** “Then” places this event after the repeated morning-stitching intention; “went to bed” establishes the action without specifying mood.  
+**How it remains achieved:** He has gone to bed; the sentence does not repeat the earlier heavy-hearted feeling or state what takes place overnight.  
+**Operative Centre:** The narrative establishment of the shoemaker's going to bed after setting out his renewed intention.  
+**Diagnostic:** Replace “went to bed” with “remained at the workbench.” The temporal sequence remains, but the shoemaker's withdrawal to bed disappears.  
+**Reading status:** Written
+
+### 305
+
+**Source ID:** 305  
+**Original sentence:** In the morning, there were two beautiful pairs of shoes on the workbench.  
+**What changed:** The following morning reveals two completed and beautiful pairs of shoes present where the shoemaker left prepared leather.  
+**What made it sufficient:** “In the morning” supplies the discovery time; “two beautiful pairs” fixes the count and quality; “on the workbench” preserves the place of the work.  
+**How it remains achieved:** Two beautiful pairs are present on the workbench; this sentence does not identify who made them or how.  
+**Operative Centre:** The narrative discovery of two beautiful pairs of shoes on the workbench the following morning, without revealing their maker.  
+**Diagnostic:** Replace “two beautiful pairs of shoes” with “the same unstitched leather pieces.” The morning and bench remain, but the newly completed shoes disappear.  
+**Reading status:** Written
+
+### 306
+
+**Source ID:** 306  
+**Original sentence:** They were perfectly made.  
+**What changed:** The two pairs of shoes are now expressly judged perfect in their workmanship.  
+**What made it sufficient:** “They” refers to the newly discovered pairs, and “perfectly made” attributes an exhaustive favourable judgement about their making.  
+**How it remains achieved:** The shoes are described as perfectly made; their maker and the particular features responsible for the judgement remain unstated.  
+**Operative Centre:** The narrative attribution of perfect workmanship to the two newly discovered pairs of shoes.  
+**Diagnostic:** Replace “perfectly made” with “poorly finished.” The pairs remain but the quality attributed to their workmanship reverses.  
+**Reading status:** Written
+
+### 307
+
+**Source ID:** 307  
+**Original sentence:** The shoemaker sold them both and bought enough leather for four pairs of shoes.  
+**What changed:** The shoemaker turns the sale of both pairs into renewed stock sufficient for four pairs.  
+**What made it sufficient:** “Sold them both” establishes sale of each pair, while “and bought enough leather for four pairs” establishes the subsequent replenishment and its larger scale.  
+**How it remains achieved:** Both pairs have been sold and material for four pairs purchased; the sentence does not specify the exact proceeds or state that four pairs are yet made.  
+**Operative Centre:** The narrative progression from selling both completed pairs to acquiring leather sufficient for four new pairs of shoes.  
+**Diagnostic:** Replace “bought enough leather for four pairs” with “bought no further leather.” The completed sale remains, but the replenishment and its larger scale disappear.  
+**Reading status:** Written
+
+### 308
+
+**Source ID:** 308  
+**Original sentence:** Each night, he cut the leather.  
+**What changed:** The shoemaker's nightly leather-cutting is established as a repeated practice.  
+**What made it sufficient:** “Each night” gives regular recurrence; “cut the leather” supplies the repeated activity rather than one isolated preparation.  
+**How it remains achieved:** The shoemaker repeatedly cuts leather at night, but the sentence does not say he stitches shoes or name any maker of the finished pairs.  
+**Operative Centre:** The establishment of leather-cutting as the shoemaker's recurrent nightly preparation.  
+**Diagnostic:** Replace “Each night” with “On one night only.” The cutting remains but its established regularity disappears.  
+**Reading status:** Written
+
+### 309
+
+**Source ID:** 309  
+**Original sentence:** Each morning, he found finished shoes waiting for him.  
+**What changed:** The shoemaker's repeated mornings are established as occasions on which he discovers shoes already finished.  
+**What made it sufficient:** “Each morning” provides repetition; “found” locates the result in discovery rather than his own reported labour; “finished shoes waiting for him” establishes completion before his arrival.  
+**How it remains achieved:** The shoemaker repeatedly encounters finished shoes each morning; who finishes them and their exact number are not given.  
+**Operative Centre:** The establishment of the shoemaker's recurrent discovery of already completed shoes every morning.  
+**Diagnostic:** Replace “finished shoes waiting for him” with “unfinished leather awaiting his stitching.” The mornings and discovery remain but the completed-work result disappears.  
+**Reading status:** Written
+
+### 310
+
+**Source ID:** 310  
+**Original sentence:** Before long, the shoemaker and his wife were no longer poor.  
+**What changed:** The shoemaker and his wife's former poverty is expressly established as having ended within a relatively short time.  
+**What made it sufficient:** “Before long” gives a nonexact short interval; “no longer poor” negates their prior economic condition; both spouses are included.  
+**How it remains achieved:** The couple has ceased being poor, without a precise financial amount or assertion of extraordinary wealth.  
+**Operative Centre:** The narrative establishment of the shoemaker and his wife's emergence from poverty within a short time.  
+**Diagnostic:** Replace “no longer poor” with “still poor.” The time frame remains, but the reversal of their economic condition disappears.  
+**Reading status:** Written
+
+### 311
+
+**Source ID:** 311  
+**Original sentence:** Their little shop became busy, and customers came from near and far to buy the fine shoes.  
+**What changed:** The shop's activity increases and its customers now come from both nearby and distant places to purchase its shoes.  
+**What made it sufficient:** “Became busy” establishes a changed condition; “near and far” extends the customer reach; “to buy” identifies the visitors' purpose.  
+**How it remains achieved:** The shop is busy and attracts prospective purchasers from varying distances; the sentence does not quantify sales or say every arriving customer purchased.  
+**Operative Centre:** The establishment of the shoemakers' newly busy shop as drawing customers from near and far for its fine shoes.  
+**Diagnostic:** Replace “customers came from near and far” with “no customers came.” A busy shop might remain mentioned, but the established broad customer draw is lost.  
+**Reading status:** Written
+
+### 312
+
+**Source ID:** 312  
+**Original sentence:** One evening, the shoemaker said to his wife, “We must discover who is helping us.”  
+**What changed:** The shoemaker states to his wife a shared necessity to identify the as-yet-unknown source of their help.  
+**What made it sufficient:** “One evening” fixes the occasion; “said to his wife” gives the audience; “We must discover” frames an obligation to investigate; “who is helping us” states the object of inquiry without naming the helper.  
+**How it remains achieved:** The shoemaker calls for them to find the identity of their helper; discovery itself has not occurred and the helper remains unknown in this sentence.  
+**Operative Centre:** The narrative establishment of the shoemaker's declared need for himself and his wife to discover who has been helping them.  
+**Diagnostic:** Replace “We must discover who is helping us” with “We already know who is helping us.” A request to investigate an unknown identity becomes a claim of existing knowledge.  
+**Reading status:** Written
+
+### 313
+
+**Source ID:** 313  
+**Original sentence:** His wife agreed.  
+**What changed:** The shoemaker's proposal receives an affirmative response from his wife.  
+**What made it sufficient:** “His wife” identifies the respondent to the immediately preceding statement; “agreed” establishes her assent without depicting what she does next.  
+**How it remains achieved:** She accepts the proposal to discover the helper's identity; the sentence does not establish an investigation's start or success.  
+**Operative Centre:** The narrative establishment of the wife's assent to the shoemaker's proposal to identify their helper.  
+**Diagnostic:** Replace “agreed” with “refused.” The proposal remains contextual, but shared assent is reversed.  
+**Reading status:** Written
+
+The next sequential fairy-tale sentence is 314 (The Elves and the Shoemaker).
 
 ## Part III — Mathematical traversals
 
 *No written Centre entries yet. Claims and derivation steps will receive separate records in source order.*
 
 ## Revision log
+
+- 2026-11-08 — Published autonomous Batch 15, The Elves and the Shoemaker 304–313 (10 written Centres), preserving recurrence, prosperity and the still-unresolved identity of the helper.
 
 - 2026-11-08 — Published autonomous Batch 14, The Elves and the Shoemaker 294–303, preserving the distinction between workmanship, purchase, renewed preparation and intention.
 
